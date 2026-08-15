@@ -83,3 +83,11 @@ Use short, imperative commit subjects with an optional scope, e.g. `docs(concept
 ## Security & Source Hygiene
 
 Do not commit credentials, private transcripts, personal data, or copyrighted source dumps without permission. Record source provenance and licensing details when importing external material into `wiki/sources/`.
+
+## Language Policy
+
+- All wiki pages must be written in the same language as the source material in `raw/`.
+- If the source is Chinese, the corresponding wiki page (concepts, entities, comparisons, sources) must be written in Chinese — do not translate to English.
+- Technical terms, proper nouns, and code identifiers may remain in their original language (English) even within Chinese pages.
+- `wiki/index.md` and `wiki/log.md` may use English section headers for consistency, but content summaries should match the source language.
+
