@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "52e321cf2f2b4b50",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ec1e793e35fa1f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75f4683e78421543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3a5da25dd6fe5f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e191483bc748eca8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "789a0674fd19d69a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "941557537ffae341",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dbf6f4f1ab2a2cdf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dfd8456d08cb5c39",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eca183be2c3d593",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe002d57c72f3961",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9938377988b3cef4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f67f231f3a6ec565",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d473554aefcda37f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "548f36e503786c01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "75f4683e78421543",
+  "lastOpenFiles": [
+    "entities/thinktown.md",
+    "sources/bpho-round1.md",
+    "concepts/leadership-thinking-camp-pbl.md",
+    "sources/pbl-customer-communication-guide.md",
+    "concepts/portrait-photography-story-pbl.md",
+    "concepts/social-justice-watcher-award.md",
+    "concepts/social-justice-awards.md",
+    "sources/ctb-forum-thinktown-internal.md",
+    "sources/leadership-thinking-camp-pbl.md",
+    "concepts/breakthrough-junior-challenge.md",
+    "sources/sun-gods-mythology-course-detail.md",
+    "concepts/science-without-borders-challenge.md",
+    "sources/bpa-china-nationals-2026-coaching.md",
+    "sources/nyt-podcast-challenge-thinktown-poster.md",
+    "sources/nyt-open-letters-2025-results.md",
+    "sources/portrait-photography-story-pbl.md",
+    "sources/social-justice-watcher-award.md",
+    "sources/ukcho-2024-results.md",
+    "sources/sic-investment-challenge-2023-2025-poster.md",
+    "sources/bpo-2025-2026-national-qualification.md",
+    "sources/john-locke-2025-final-results.md",
+    "sources/ihbb-history-competition-results.md",
+    "sources/john-locke-psychology-results-2022-2025.md",
+    "sources/nec-2026-china-results.md",
+    "sources/usaco-platinum-2024-poster.md",
+    "sources/kaggle-godaddy-2023-results.md",
+    "sources/future-wanderers-poster.md.tmp.53142.30256f5bd0bc",
+    "sources/princeton-ace.md.tmp.53142.770424f90909",
+    "sources/nyt-photo-essay-2026-results.md.tmp.53142.a60c10027b7b"
+  ]
+}

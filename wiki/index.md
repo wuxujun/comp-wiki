@@ -4,16 +4,516 @@ This index catalogs the compiled pages in the repository. Each entry gives a con
 
 ## Concepts
 
-- [PBL Historical Travel Guide: New York](concepts/pbl-historical-travel-guide-new-york.md) — A grades 8–10 historical research and writing course culminating in an 800–1,000-word guide to 1920s New York.
+- [全美高中生电影节](concepts/all-american-high-school-film-festival.md) — 全美高中生电影节（All American High School Film Festival，AAHSFF）由 Tom Oliva 于 2013 年创办，是全球规模较大的高中生电影节之一，每年吸引数千份参赛作品，入围作品有机会在纽约时代广场 AMC 影院首映。
+- [美国数学竞赛体系（AMC / AIME）](concepts/amc-aime.md) — 美国数学竞赛（American Mathematics Competitions, AMC）由美国数学学会（MAA）举办，创办于 1950 年，是全美乃至全球范围最广、信度最高的数学赛事，每年吸引全球约 60 万人次参赛。
+- [AMC 美国数学竞赛系列](concepts/amc-series.md) — AMC（American Mathematics Competition）是由 MAA（美国数学协会）举办的全球范围最广、信度最高的数学竞赛系列，每年吸引全球约 60 万人次学生参赛。
+- [AMO 美国数学思维挑战](concepts/amo.md) — AMO（American Mathematical Olympiad）由国际知名数学教育家 George Lenchner 博士于 1977 年创立，是美国历史最悠久的中小学数学赛事之一，每年有来自全球 30 个国家和地区、约 6,000 个团队的近 15 万名学生参赛。
+- [安徒生国际艺术奖](concepts/andersen-art-awards.md) — 安徒生国际艺术奖（H.C. Andersen Art Awards）由丹麦王国安徒生文化艺术发展委员会创立于欧登塞，联合丹麦安徒生学会（哥本哈根）共同主办，是为纪念安徒生在文化艺术方面的成就而设置的高级别国际年度艺术奖项。
+- [AP 心理学（Thinktown 课程）](concepts/ap-psychology-thinktown.md) — AP 心理学是 College Board 开设的人文与社会科学类 AP 科目，考试时长 2 小时 40 分钟，含 75 题选择题和 2 道固定类型大题。
+- [议论文写作课程](concepts/argumentative-writing-course.md) — 议论文写作是新课堂（Thinktown）学术探索项目"写作与表达"系列的 PBL 课程之一，是一门以技能为核心、循序渐进的议论文写作课程，旨在帮助学生学会清晰表达观点、用有力理由支撑立场，并通过证据与逻辑说服读者。
+- [ARML 美国区域数学联赛](concepts/arml.md) — ARML（American Regions Mathematics League）诞生于 1976 年，由爱荷华大学和宾夕法尼亚州立大学等机构主办，是全美历史悠久、影响力突出的团体赛制国际数学竞赛之一。
+- [澳大利亚生物测评 ASOB](concepts/asob.md) — 澳大利亚生物测评（Australian Science Olympiads-Biology, ASOB）由 Australian Science Innovations（ASI）主办，是澳大利亚科学奥林匹克活动的组成部分，每年负责选拔和培训澳大利亚国家队参加国际生物学奥林匹克（IBO）。
+- [ASOC 澳大利亚化学奥林匹克](concepts/asoc-australian-science-olympiad-chemistry.md) — ASOC（Australian Science Olympiads-Chemistry，澳大利亚化学奥林匹克）由澳大利亚科学创新学会（ASI）主办，是澳大利亚科学奥林匹克活动的化学环节，每年负责选拔和培训澳大利亚国家队参加国际化学奥林匹克（IChO）。
+- [澳大利亚物理奥林匹克（ASOP）](concepts/asop.md) — 澳大利亚物理奥林匹克（Australian Science Olympiads – Physics，简称 ASOP）由澳大利亚科学创新协会（ASI）主办，总部设在澳大利亚国立大学，是澳大利亚科学奥林匹克的组成部分，负责选拔和培训国家队参加国际物理奥林匹克（IPhO）。
+- [澳大利亚数学竞赛](concepts/australian-mc.md) — 澳大利亚数学竞赛（Australian Mathematics Competition，AMC）由澳大利亚数学联合会（AMT）举办，是全球最大、历史最悠久的校际数学测评活动之一，来自 32 个国家的超过 1600 万学生曾参与。
+- [英国生物奥赛 BBO 系列](concepts/bbo-series.md) — 英国生物奥赛系列（BBO Series）由英国皇家生物学会（RSB）通过 UK Biology Competitions（UKBC）主办，包含初级（BC）、中级（IBO）和高级（BBO）三个层级，自 1995 年设立，是英国中学历史最长、影响最大的理科竞赛体系。
+- [生物竞赛规划指南](concepts/biology-competition-planning.md) — 本页面汇总 Thinktown 出品的生物国际竞赛推荐及备考规划指南，涵盖 7 项主流生物竞赛的对比、难度分级和按年级/课程体系/升学目标/专业方向的选择建议。
+- [BMT 伯克利数学竞赛](concepts/bmt.md) — BMT（Berkeley Math Tournament）成立于 2010 年，是由加州大学伯克利分校学生组织的数学赛事，每年在伯克利校园举办。
+- [BPA 高中生商业全能挑战赛](concepts/bpa-business-professionals.md) — BPA（Business Professionals of America）是全美三大商业研习活动之一，获美国教育部（USED）和生涯规划教育协会（CTSO）认证，由中学校长联盟（NASSP）推荐，自 1966 年成立以来全球拥有 1,800+ 个社团，每年参与学生超 45,000 名。
+- [英国物理奥赛与物理挑战赛（BPhO / IPC / SPC）](concepts/bpho-ipc-spc.md) — 英国物理奥林匹克（British Physics Olympiad，简称 BPhO）始于 1979 年，由牛津大学、英国物理学会和 Ogden 基金会联合组织，是英国选拔国际物理奥林匹克国家队的核心赛事。
+- [Brain Bee 脑科学活动](concepts/brain-bee.md) — Brain Bee 脑科学活动是一项面向全球青少年的课外挑战活动，由美国心理学协会（APA）、欧洲神经科学学会（FENS）、美国 Dana 基金会和国际脑科学研究组织联合主办，发源于美国，经过 20 余年发展在全球 50 多个国家拥有 200 多个分会。
+- [脑科学创新挑战赛](concepts/brain-challenge.md) — 脑科学创新挑战赛（Brain Challenge）由 Brain Bee 脑科学活动中国组委会举办，是一项面向脑科学领域的团队制项目合作竞赛。
+- [少年突破挑战赛（Breakthrough Junior Challenge）](concepts/breakthrough-junior-challenge.md) — 少年突破挑战赛（Breakthrough Junior Challenge）是一年一度的全球学生科学视频竞赛，由突破奖基金会（Breakthrough Prize Foundation）于 2015 年创办，面向全球学生，旨在激发对物理、数学和生命科学的创意性思考。
+- [演绎名画跨学科计划](concepts/bring-painting-to-stage.md) — "演绎名画：画作改编剧本"跨科学术顾问计划由新课堂（Thinktown）艺术史和戏剧团队共同发起，灵感来源于音乐剧《星期天与乔治在公园》，指导学生选择一幅艺术作品进行艺术史分析后将其改编为约 10 页的英文剧本。
+- [英国心理学思维挑战（BPO）](concepts/british-psychology-olympiad.md) — 英国心理学思维挑战（British Psychology Olympiad, BPO）是由 Minds Underground 主办、获牛津大学官方推荐的心理学挑战活动，面向全球 9–12 年级高中生。
+- [C3L6 剑桥化学挑战赛](concepts/c3l6-cambridge-chemistry-challenge.md) — C3L6（Cambridge Chemistry Challenge for Lower 6th，剑桥化学挑战赛）由剑桥大学化学系和圣凯瑟琳学院共同主办，是全球性高中生化学挑战，也是剑桥大学校方正式推荐的学术项目。
+- [Cambridge Re:think 论文竞赛](concepts/cambridge-rethink-essay-competition.md) — Cambridge Re:think Essay Competition 由剑桥国际研究中心（CCIR）主办，是一项面向全球 14–18 岁高中生的跨学科学术写作赛事。
+- [加拿大物理奥林匹克预选赛（CAP High School Prize Exam）](concepts/cap-high-school.md) — 加拿大物理奥林匹克预选赛（CAP High School Prize Exam）由加拿大物理学家协会（CAP）主办，是北美最具挑战性的中学物理竞赛之一。
+- [CBPA 未来商业领袖研习社](concepts/cbpa-guide.md) — CBPA（China Business Professionals Alliance）是专为中学生提供的商业实践研习平台，也是中国区唯一通往全美三大商业研习活动 BPA 全球站的活动。
+- [CCC 加拿大化学竞赛](concepts/ccc-canadian-chemistry-contest.md) — CCC（Canadian Chemistry Contest，加拿大化学竞赛）由加拿大化学学会（CIC）主办，是加拿大学术性最权威的高中化学挑战之一，同时也是加拿大化学奥林匹克（CCO）的全国预选赛。
+- [CCO 加拿大化学奥林匹克](concepts/cco-canadian-chemistry-olympiad.md) — CCO（Canadian Chemistry Olympiad，加拿大化学奥林匹克）由加拿大化学学会（CIC）主办，是加拿大最高级别的高中化学竞赛，旨在推广高中生对化学的兴趣，并选拔加拿大国家队参加国际化学奥林匹克（IChO）。
+- [CNEC 全美经济学素养研习活动](concepts/cnec-national-economics-literacy.md) — CNEC（China National Economics Challenge）经济学素养研习活动是 NEC 全美经济挑战赛的中国区选拔，由 SKT 教育集团承办，是中国区通往 NEC 全球站的唯一通道。
+- [康科德历史评论（The Concord Review）](concepts/concord-review.md) — 康科德历史评论（TCR）是全球唯一一份专注于发表中学生历史论文的学术期刊，由马萨诸塞州教育家 William H. Fitzhugh 于 1987 年创办，每季度出版一期。
+- [美国国会艺术竞赛](concepts/congressional-art-competition.md) — 美国国会艺术竞赛（Congressional Art Competition）由 Congressional Institute 自 1982 年起每年春季举办，旨在表彰和鼓励全美各国会选区的高中视觉艺术人才。
+- [康莱德创新挑战](concepts/conrad-innovation-challenge.md) — 康莱德挑战（The Conrad Challenge）是以目标为导向的 STEM 创新竞赛，面向全球 13–18 岁中学生（2–5 人/队），鼓励参赛者发现现实问题并利用 STEM 知识提出创新解决方案，通过项目与商业计划书、产品视频向专家评委展示演说。
+- [大都会写作竞赛](concepts/cosmopolitan-writing-award.md) — 大都会写作竞赛（Cosmopolitan Writing Award，简称 CWA）创设于 2020 年，由 Hong Kong TSAF Consulting Ltd. 主办，是一项面向全球 8–18 岁学生的国际创意写作竞赛。
+- [创意写作三阶段课程](concepts/creative-writing-program.md) — 创意写作项目是新课堂（Thinktown）专为 8–11 年级学生设计的分阶段创意写作课程，分基础、强化、高阶三个阶段，全套共 27 节课（每阶段 8 节 CT + 1 节 NCT），旨在通过个性化作品集打造提升学生的批判性思维与跨文化沟通能力。
+- [CTB 全球青年研究创新论坛](concepts/ctb-forum.md) — CTB（China Thinks Big）源自哈佛大学"Harvard Thinks Big"，是面向全球 9–12 年级学生（1–10 人/队）的跨学科学术研究项目，由 Harvard AUSCR 主办。
+- [数位叙事创作营](concepts/digital-storytelling-studio.md) — 数位叙事创作营（Digital Storytelling Studio）是新课堂（Thinktown）面向 7–10 年级学生的 PBL 项目，教授如何将电影叙事转化为 TikTok、YouTube Shorts、Instagram Reels 等新媒体短视频，跨学科整合电影、英语写作、社会学与技术…
+- [纪录剧创作工作坊](concepts/documentary-drama-workshop.md) — "纪录剧创作工作坊：用真实声音，讲述时代故事"（Documentary Drama Workshop）是新课堂（Thinktown）推出的跨学科 PBL 项目，从真实社会议题出发，指导学生通过采访、文本改编与剧本创作完成一部原创纪录剧作品。
+- [经济竞赛规划](concepts/economics-competition-planning.md) — 经济竞赛规划是指财经商方向学生根据自身年级、学术水平和目标（冲击奖项、系统积累或申请导向），在全年不同时间节点选择和准备适合的经济学相关赛事与活动的策略。
+- [Élan国际学生文学杂志](concepts/elan-literary-magazine.md) — Élan 是一份国际学生文学杂志，由佛罗里达州杰克逊维尔道格拉斯·安德森艺术学院（Douglas Anderson School of the Arts）创意写作系出版。
+- [尤金·奥尼尔青少年剧作家戏剧节](concepts/eugene-oneill-young-playwrights-festival.md) — 尤金·奥尼尔青少年剧作家戏剧节（Eugene O'Neill Theater Center Young Playwrights Festival）由位于美国康涅狄格州的尤金·奥尼尔戏剧中心举办，面向 12–18 岁学生，鼓励剧本创作并采用业内知名的"O'Neill Process"指导学生孵化作品。
+- [欧洲经济学挑战赛](concepts/european-economics-olympiad.md) — 欧洲经济学挑战赛（European Economics Olympiad, EEO）于 2016 年起源于捷克，由捷克经济教育学会（Institute of Economic Education）主办，获捷克教育部、捷克中央银行、布拉格经济学院和普华永道等支持。
+- [电影评论写作课程](concepts/film-review-writing-course.md) — 电影评论写作（Film Review Writing）是新课堂（Thinktown）学术探索项目中的 PBL 课程系列，通过电影分析的视角提升学生的批判性思维、学术写作能力和传媒方向的学术背景。
+- [未来学者化学科研计划](concepts/future-scholar-program-chemistry.md) — 未来学者计划（Future Scholar Program）是新课堂国际教育（Thinktown Education）推出的化学学科科研项目，面向 9–12 年级国际课程学生，旨在帮助学生掌握常用的化学科研知识和方法。
+- [数字生活与心理探索 PBL（未来漫游者）](concepts/future-wanderers-pbl.md) — "未来漫游者：数字生活与心理探索"（Future Wanderers: Digital Life & Psychological Exploration）是 THINKTOWN 新课堂推出的 PBL 心理学学术探索项目，面向 5–10 年级学生。
+- [新课堂 PBL 商业项目：游戏直播流量变现](concepts/game-streaming-pbl.md) — 新课堂 PBL 商业探索项目"直播打游戏如何赚钱？流量变现机制解析"是一门 7 课时的跨学科商业课程，通过分析游戏直播案例，引导学生探讨数字内容产业的商业逻辑与流量变现机制。
+- [基因编辑与文献精读课程](concepts/gene-editing-course.md) — 基因编辑与前沿文献精读是新课堂推出的 PBL（项目制学习）生物课程，以镰状细胞贫血为真实案例，引导学生理解基因突变与疾病机制，学习 CRISPR-Cas9 基因编辑技术，并在导师指导下拆解一篇高水平生物医学论文（如《新英格兰医学杂志》论文）。
+- [谷歌涂鸦大赛](concepts/google-doodle.md) — 谷歌涂鸦大赛（Doodle for Google）是 Google 公司自 2008 年起每年举办的青少年艺术竞赛，面向 K–12 年级美国学生开放。
+- [哈佛商学院案例分析挑战（Harvard BPC）](concepts/harvard-bpc-case-challenge.md) — Harvard Business Pioneer Case Challenge（Harvard BPC）是哈佛商学院出版（Harvard Business Publishing）唯一面向中学生独家授权的全球青年商业挑战。
+- [哈佛深红报全球征文大赛](concepts/harvard-crimson-global-essay-competition.md) — 哈佛深红报全球征文大赛（The Harvard Crimson Global Essay Competition，简称 HCGEC）由《哈佛深红报》（The Harvard Crimson）主办，面向全球 13–18 岁高中生。
+- [哈佛国际评论学术写作比赛](concepts/harvard-international-review-writing-contest.md) — 哈佛国际评论学术写作比赛（Harvard International Review Academic Writing Competition，简称 HAWC）由《哈佛国际评论》（Harvard International Review）期刊于 2021 年创办，面向全球 9–12 年级学生（2025…
+- [HIEEC 哈佛国际经济学论文大赛](concepts/hieec-harvard-international-economics-essay-contest.md) — HIEEC（Harvard International Economics Essay Contest）是哈佛本科经济学会（HUEA）和《哈佛大学经济学评论》（HCER）自 2018 年起联合主办的面向全球高中生的经济学论文竞赛。
+- [美国高中生传媒竞赛](concepts/high-school-media-contest.md) — 美国高中生传媒竞赛（International Writing, Photo and Multimedia Contest）由国际高中新闻荣誉协会（Quill and Scroll）主办，被誉为美国高中生的"普利策奖"，涵盖写作、摄影、设计和多媒体四大类别数十个细分主题。
+- [高中生国际摄影竞赛盘点](concepts/high-school-photo-competitions-roundup.md) — 本文梳理适合中学生参加的三项国际摄影竞赛：含金量极高但入围极难的索尼青年世界摄影大赛、分赛段进行且获奖相对容易的少美联赛 IJCYA、以及侧重环保与创意的海洋意识竞赛。
+- [HiMCM 美国高中生数学建模比赛](concepts/himcm.md) — HiMCM（High School Mathematical Contest in Modeling）由 COMAP（美国数学及应用联合会）主办，始于 1999 年，获 NSF、INFORMS、MAA 和 NCTM 资助。
+- [HMMT 哈佛-MIT 数学竞赛](concepts/hmmt.md) — HMMT（Harvard–MIT Mathematics Tournament）始于 1998 年，由哈佛大学与麻省理工大学数学系联合主办，是世界上最大、最有名望的高中生数学竞赛之一。
+- [HOSA/iHOSA 生物与健康](concepts/hosa.md) — HOSA 生物与健康未来领袖研习社（HOSA-Future Health Professionals）是全球极具影响力的生命健康领域学生活动平台，经过 46 年发展，获美国教育部认证和 NASSP 美国中学校长联盟推荐，全球拥有超 5600 个会员学校，每年吸引超 25 万名学生参加。
+- [化学 IB-IA 高分避坑指南](concepts/ib-ia-chemistry.md) — IB 化学内部评估（Internal Assessment，IA）是 IB 化学课程的必修研究项目，占 IB 化学总成绩的 20%。
+- [ICQ 国际化学知识竞赛](concepts/icq-international-chemistry-quiz.md) — ICQ（International Chemistry Quiz，国际化学知识竞赛），原称澳大利亚国家化学知识竞赛（ANCQ），由澳大利亚皇家化学学会（RACI）举办，是一项面向全球中学生的国际性化学比赛。
+- [IEO China 2026 中国区学术活动](concepts/ieo-china-2026.md) — IEO China 2026 是国际经济学奥林匹克（IEO）2025–2026 赛季的中国区学术活动，由 NexGen Education Hub 组织，面向 6–12 年级在校学生。
+- [IHBB 国际历史蜜蜂与碗竞赛](concepts/ihbb-international-history-bee-bowl.md) — IHBB（International History Bee and Bowl）是由国际学术竞赛组织（IAC）举办的国际历史学术竞赛，被称作"全球历史类的奥林匹克"。
+- [少美联赛 IJCYA](concepts/ijcya-youth-artists-league.md) — 少美联赛（International Joint Competition of Young Artists，缩写 IJCYA，全称"青少年美术家国际联赛"）是由"全球书画名家"（道子羲之）发起的国际少儿美术赛事，自 2016 年起每年一届。
+- [国际医学与疾病奥赛 IMDO](concepts/imdo.md) — 国际医学与疾病奥林匹克竞赛（The International Medicine and Disease Olympiad, IMDO）是一项面向全球高中生的国际生物医学竞赛，2016 年创办（2022 年前原名 International Medicine Olympiad），旨在以奥运精神汇集全…
+- [IMMC 国际数学建模挑战赛](concepts/immc.md) — IMMC（IM²C，International Mathematical Modeling Challenge）是由 COMAP 与儒蓮教科文機構合办的面向全球中学生的国际性数学建模竞赛，旨在鼓励中学生应用数学建模探索和解决现实世界的重要问题，普及数学建模教育。
+- [独立策展人项目](concepts/independent-curator.md) — 独立策展人（My Personal Gallery）是 Thinktown 自研的跨学科项目，面向所有高中生，无需艺术创作基础、艺术史背景或策展经历。
+- [国际摄影杂志投稿](concepts/international-photo-magazines.md) — 国际摄影杂志投稿是新课堂组织的投稿项目，通过 Kavyar 平台将学员的摄影作品投稿至多国摄影杂志，全年滚动接受投稿。
+- [国际心理学奥林匹克（IPsyO）](concepts/international-psychology-olympiad.md) — 国际心理学奥林匹克竞赛（International Psychology Olympiad, IPsyO）是面向全球 9–12 年级高中生的年度线上心理学学术赛事，自 2021 年创办以来已吸引来自 80 个国家和地区的 4000 多名学生参与。
+- [简·奥斯汀论文竞赛](concepts/jane-austen-essay-contest.md) — 简·奥斯汀论文竞赛（JASNA Essay Contest）由北美简·奥斯汀协会（The Jane Austen Society of North America，简称 JASNA）每年举办，面向全球高中生和大学生。
+- [JCCO 加拿大初级化学奥林匹克竞赛](concepts/jcco-junior-canadian-chemistry-olympiad.md) — JCCO（The Junior Canadian Chemistry Olympiad，加拿大初级化学奥林匹克竞赛）由加拿大化学学会（CIC）主办，是面向 8–11 年级学生的入门级化学竞赛，也是为 CCC 加拿大化学竞赛做预选准备、培养学生化学兴趣的赛事。
+- [John Locke 论文竞赛](concepts/john-locke-essay-competition.md) — John Locke Essay Competition（JLEC）是由英国牛津的 John Locke Institute 与牛津大学、普林斯顿大学等名校教授合作组织的全球性学术论文竞赛，评审全部来自牛津大学，被广泛视为人文学科领域最高规格的青少年写作赛事之一。
+- [Kaggle 大数据竞赛](concepts/kaggle.md) — Kaggle 成立于 2010 年，2017 年被谷歌收购，是全球最知名的数据挖掘和预测竞赛在线平台。
+- [凯尼恩青年作家工作室](concepts/kenyon-young-writers.md) — 凯尼恩青年作家工作室（Kenyon Review Young Writer's Workshops）是在凯尼恩学院（Kenyon College）校园内开展的强化写作研修项目，面向 16–18 岁高中生。
+- [领袖思维训练营英语PBL](concepts/leadership-thinking-camp-pbl.md) — 领袖思维训练营：从乔布斯到马斯克（Future Leaders' Thinking Camp: From Jobs to Musk）是新课堂（Thinktown）推出的一项英语PBL项目，通过阅读乔布斯、马斯克等创新领袖的英文传记，帮助学生掌握信息提炼、逻辑思维和创造性表达能力，课时设置为6课时CT…
+- [文学评论家项目](concepts/literary-critic-program.md) — 文学评论家学术顾问计划（Literary Critic Program）是新课堂（Thinktown）自主研发的英语论文项目，通过系统辅导帮助 9–12 年级学生产出一篇 1500–3000 字的英文文学学术论文，并协助投稿至 Journal of Student Research（JSR）等学术期…
+- [新课堂 PBL 商业项目：瑞幸咖啡](concepts/luckin-coffee-pbl.md) — 新课堂 PBL 商业探索项目"为什么瑞幸咖啡可以卖得比星巴克便宜很多，却仍然能够盈利？"是一门 7 课时的跨学科商业课程，通过对比 Luckin Coffee 与 Starbucks 的真实商业案例，帮助学生理解定价策略、成本结构、规模效应和数字化运营。
+- [马歇尔学会经济论文竞赛](concepts/marshall-society-essay-competition.md) — 马歇尔学会经济论文竞赛（Marshall Society Essay Competition）由剑桥大学经济学会于 1927 年创立，以经济学家阿尔弗雷德·马歇尔命名，面向全球 A-Level、IB 及同等学力学生。
+- [袋鼠数学竞赛（Math Kangaroo）](concepts/math-kangaroo.md) — 袋鼠数学思维趣味活动（Math Kangaroo）是全球规模最大的青少年国际数学思维趣味活动，由澳大利亚数学家 Peter O'Halloran 于 1980 年发起，1991 年在法国成立正式组委会，全球总部设于巴黎。
+- [旋律时光机播客项目](concepts/melodies-and-memories-podcast.md) — 旋律时光机：我的音乐故事播客（Melodies and Memories: My Story Through Music Podcast）是新课堂（Thinktown）学术探索英语项目中的一项 PBL 课程，引导学生围绕与音乐相关的情绪记忆构思并制作英文播客。
+- [美国初中生数学建模竞赛（MidMCM）](concepts/midmcm.md) — 美国初中生数学建模竞赛（Middle Mathematical Contest in Modeling, MidMCM）由美国数学及应用联合会（COMAP）主办，始于 2021 年，是 HiMCM（高中版）的初中对应赛事。
+- [音乐与历史跨学科 PBL](concepts/music-and-history-pbl.md) — "改变人心的历史之歌：音乐与历史的交汇"（Songs That Shaped History: Music and Historical Change）是新课堂（Thinktown）推出的学术探索项目，带领学生从音乐出发探索历史事件，理解歌曲如何记录时代情绪、传播社会理念并鼓舞群体行动。
+- [音乐竞赛](concepts/music-competitions.md) — 本页面汇总新课堂（Thinktown）辅导的三项国际音乐竞赛：全美天才国际音乐大赛、查理斯顿国际音乐比赛和美国大师音乐奖，三者均为线上提交、面向 1–12 年级学生、全年或定期举办。
+- [音乐制作人](concepts/music-producer.md) — 音乐制作人（Music Producer）是新课堂（Thinktown）音乐团队设计的音乐创作类学术顾问计划，面向有一定音乐基础的学生，在学术顾问全程指导下完成原创音乐作品并以单曲形式在公开音乐平台发布。
+- [NASA 学生艺术竞赛](concepts/nasa-student-art-contest.md) — NASA 学生艺术竞赛（NASA Student Art Contest / NASA Langley Student Art Contest）由 NASA 兰利研究中心（Langley Research Center）举办，旨在鼓励 K–12 年级学生以艺术方式展现他们如何受到 NASA 科学、航…
+- [国家历史日（National History Day）](concepts/national-history-day.md) — 国家历史日（NHD）是面向全球 6–12 年级中学生的历史竞赛活动，创办于 1974 年，每年吸引超过 50 万学生参与。
+- [NEC 全美经济挑战赛](concepts/nec-national-economics-challenge.md) — NEC（National Economics Challenge）全美经济学挑战赛由美国经济教育学会（Council for Economic Education, CEE）举办，是美国最具影响力的初、高中生经济学竞赛，2016 年引入中国。
+- [纽约时报说明文写作比赛](concepts/nyt-informational-writing.md) — 纽约时报说明文写作比赛（NYT "How to…" Informational Writing Contest）是纽约时报于 2023–2024 赛季推出的写作竞赛，面向全球 13–19 岁学生，要求撰写一篇 400 字以内的操作说明（How-to），并须采访至少一位专业人士。
+- [纽约时报叙事写作比赛](concepts/nyt-narrative-writing.md) — 纽约时报叙事写作比赛（100-Word Personal Narrative Contest）是纽约时报系列学生竞赛中较新的项目，要求全球 13–19 岁学生基于一段真实的个人经历，撰写一篇 100 字的简短叙事文。
+- [纽约时报公开信写作比赛](concepts/nyt-open-letters.md) — 纽约时报公开信写作比赛（NYT Open Letters Opinion Writing Contest）于 2023–2024 赛季由经典的纽约时报社论比赛（NYT Editorial Contest）改革而来。
+- [纽约时报摄影／Photo Essay 竞赛](concepts/nyt-photo-essay.md) — 纽约时报摄影竞赛（Where We Are: Photo Essays About Community）由《纽约时报》于 2024 年创办，面向全球 13–19 岁学生，邀请参赛者以 6–8 张原创摄影作品配短文记录线下社群。
+- [纽约时报播客挑战](concepts/nyt-podcast-challenge.md) — 纽约时报播客挑战（New York Times Student Podcast Contest）由《纽约时报》于 2018 年发起，面向全球 13–19 岁初高中学生，鼓励提交不超过 5 分钟的原创播客音频。
+- [纽约时报评论比赛](concepts/nyt-review-contest.md) — 纽约时报评论比赛（NYT Review Contest）是纽约时报系列竞赛中的常规项目，要求学生选择一个文化载体撰写评论文。
+- [纽约时报夏季读写比赛](concepts/nyt-summer-reading.md) — 纽约时报夏季读写比赛（NYT Summer Reading Contest）是纽约时报系列赛事中历史最悠久的项目之一，至今已举办十余届。
+- [海洋意识竞赛 OAC](concepts/oac.md) — 海洋意识竞赛（Ocean Awareness Contest, OAC）由美国非营利组织 Bow Seat Ocean Awareness Programs 主办，自 2011 年起每年举办，邀请全球 11–18 岁青少年通过艺术创作和创意交流探索环境议题。
+- [口述叙事写作](concepts/oral-storytelling-writing.md) — 口述叙事写作是新课堂（Thinktown）学术探索项目"写作与表达"系列的 PBL 课程之一，灵感来源于 NPR 的 The Moth Radio Hour，指导学生构思、起草、修订并最终用五分钟口述方式呈现一篇个人叙事故事。
+- [PBL 历史旅行指南：纽约篇](concepts/pbl-historical-travel-guide-new-york.md) — 这门项目制课程面向 8–10 年级学生，将历史研究与说明性、说服性写作相结合。
+- [一周生存预算挑战 PBL](concepts/pbl-one-week-survival-budget.md) — "一周生存预算挑战"（How Much to Survive? A One-Week Budget Challenge Across U.S. States）是 Thinktown（新课堂）自主设计的经济学 PBL（项目式学习）课程，共 7 课时。
+- [PBL 记录被忽视的小人物](concepts/pbl-overlooked-historical-figures.md) — "我眼中的小人物：记录被历史忽视的声音"是新课堂推出的线上 1 对 1 历史 PBL 项目，引导学生挖掘被历史忽视或边缘化的群体人物，通过资料研究、同理写作和创意演绎完成学术与表达训练。
+- [宠物日记写作](concepts/pet-diaries-writing.md) — 宠物日记写作是新课堂（Thinktown）面向 5–10 年级学生开发的创意写作 PBL 课程，引导学生以"宠物视角"创作个人或虚构故事，系统训练人物塑造、感官描写与情感表达等写作技巧。
+- [物理碗 Physics Bowl](concepts/physics-bowl.md) — 物理碗（Physics Bowl）是由美国物理教师协会（AAPT）主办的中学物理竞赛，创办于 1930 年，是美国历史最悠久、影响力最大的高中物理赛事之一。
+- [剧本创作项目](concepts/playwriting-project.md) — 剧本创作项目是新课堂（Thinktown）推出的学术顾问计划，由具备导演、编剧、演员实践经验的戏剧导师授课，指导零基础学生在约 12 课时内完成一篇 10–15 页的完整英文剧本，可用于参加国际竞赛、杂志投稿或大学申请。
+- [播客竞赛讨论](concepts/podcast-competition.md) — 本文汇总了新课堂（Thinktown）关于播客趋势与学生播客创作的讨论文章，分析了播客行业现状、学生参与播客创作的意义以及相关赛事信息。
+- [诗歌创作与学术顾问计划](concepts/poetry-creation-sba.md) — 新课堂（Thinktown）的诗歌创作课程与 PBL 诗歌单科学术顾问计划（SBA）是面向青少年的诗歌创作辅导体系，包含学术探索项目中的诗歌创作课程和一对一诗歌 SBA 两种形态，由张肇飞和 Sara McCartney 联合执教。
+- [人像摄影故事创作PBL项目](concepts/portrait-photography-story-pbl.md) — 人像摄影故事创作（Photograph Like a Director: Portrait Photography Story Creation）是新课堂（Thinktown）学术探索项目中的一项PBL艺术课程，共9课时，教授学生通过摆拍摄影的艺术技巧（构图、光影、道具、姿态）来构建和传达视觉故事，…
+- [普林斯顿十分钟剧本竞赛](concepts/princeton-ten-minute-play-contest.md) — 普林斯顿十分钟剧本竞赛（Princeton Ten Minute Play Contest）由普林斯顿大学刘易斯艺术中心主办，面向全球 11 年级学生，每年邀请知名剧作家担任评委，是含金量较高的剧本创作赛事。
+- [2025 心理学竞赛年度报告](concepts/psychology-competitions-2025-report.md) — 本报告回顾了 2025 年度 THINKTOWN 学生在 Brain Bee、John Locke 论文竞赛（心理学科）和英国心理学思维挑战（BPO）三项国际赛事中的参与情况与成绩。
+- [2026 心理学竞赛盘点](concepts/psychology-competitions-2026-roundup.md) — 本文梳理了 2026 年值得关注的五大高含金量心理学及相关竞赛，包括英国心理学思维挑战（BPO）、Brain Bee 脑科学大赛、John Locke 论文竞赛（心理学领域）、国际心理学奥林匹克（IPsyO）和 iHOSA 健康与公益未来领袖研习社。
+- [心理发现家项目](concepts/psychology-discovery-program.md) — 心理发现家项目（Psychology Discovery Program）是 THINKTOWN 新课堂心理学科推出的自研型研究项目，面向 9–12 年级学生，以线上形式全年开展。
+- [普林斯顿大学物理竞赛（PUPC）](concepts/pupc.md) — 普林斯顿大学物理竞赛（Physics Unlimited Premier Competition，简称 PUPC）由普林斯顿大学本科生组织，受到普林斯顿大学物理系及天体物理科学系支持，面向全球高中生。
+- [Purple Comet 紫色彗星数学竞赛](concepts/purple-comet.md) — Purple Comet! Math Meet 是由 AwesomeMath 举办的线上团队数学竞赛，2003 年创办，免费参赛，以时间和地点的灵活性著称。
+- [莎士比亚戏剧重写课程](concepts/rewriting-shakespeare.md) — "用现代英语重写莎士比亚：角色分析与独白创作"（Rewriting Shakespeare in Modern English）是新课堂（Thinktown）推出的 PBL 戏剧课程，通过分层教学体系引导学生用现代语言重构莎士比亚经典，完成从读者到创作者的转变。
+- [文字之河诗歌竞赛](concepts/river-of-words.md) — 文字之河（River of Words）是从 1995 年开始举办的年度国际青少年诗歌和艺术竞赛，是目前全球规模最大的环境意识相关免费青少年赛事。
+- [新加坡及亚洲学校数学奥林匹克（SASMO）](concepts/sasmo.md) — 新加坡及亚洲学校数学奥林匹克（Singapore & Asian Schools Math Olympiad, SASMO）由 SIMCC 主办，创建于 2006 年，是亚洲最大的数学竞赛之一。
+- [拯救青蛙艺术大赛](concepts/save-the-frogs-art-contest.md) — 拯救青蛙艺术大赛（SAVE THE FROGS! Art Contest）是由美国加利福尼亚非营利环保组织 SAVE THE FROGS! 主办的年度公益艺术竞赛，至今已举办 16 年以上，累计收到来自 120 个国家超过 26,000 件青蛙主题艺术作品。
+- [美国学术艺术与写作奖](concepts/scholastic-art-writing-awards.md) — 美国学术艺术与写作奖（Scholastic Art & Writing Awards，简称 SAWA）创立于 1923 年，是全美规模最大、历史最悠久的综合类青少年艺术与写作竞赛。
+- [科学无国界挑战赛（SWBC）](concepts/science-without-borders-challenge.md) — 科学无国界挑战赛（Science Without Borders Challenge，SWBC）是由哈立德·本·苏丹生物海洋基金会（Khaled bin Sultan Living Oceans Foundation）举办的年度国际艺术竞赛，面向全球 11–19 岁中小学生，旨在通过艺术方式提高公众…
+- [SDG 可持续创新马拉松](concepts/sdg-innovation-hackathon.md) — SDG 可持续创新马拉松（SDG Innovation Hackathon）是面向全球 9–12 年级学生的社会创新实践平台，源于面向大学生的 SDG Open Hack（UNITAR/日内瓦大学/清华大学合办），2023 年首次面向中学生开放。
+- [SIC 中学生投资研习](concepts/sic-investment-research.md) — SIC（Student Investment Challenge）是由美国经济教育学会（CEE）官方认证、美中经济学社（ACME）提供学术支持、SKT 教育运营的中学生投资学术活动，面向 6–12 年级学生。
+- [社会公正奖 Social Justice Awards](concepts/social-justice-watcher-award.md) — 社会公正奖（Social Justice Awards）由国际青少年非营利组织 Social Justice Watcher 于2020年创办，聚焦全球范围内的社会不公正问题，引导青少年通过写作、艺术或演讲三种形式关注并思考社会议题。
+- [索尼青年世界摄影大赛](concepts/sony-youth-photography-awards.md) — 索尼青年世界摄影大赛（Sony World Photography Awards – Youth Competition）由世界摄影组织（World Photography Organization）主办，是全球最重要的青年摄影赛事之一，面向 12–19 岁青少年。
+- [青少年运动心理探索项目](concepts/sports-psychology-exploration.md) — "运动心力量：青少年运动心理探索之旅"（Sports & Mind Power: A Teen's Journey into Exercise Psychology）是 THINKTOWN 新课堂推出的线上 1 对 1 PBL 项目，探索体育活动与心理健康之间的联系。
+- [太阳神传说跨文化写作项目](concepts/sun-gods-mythology-project.md) — 太阳神传说：跨文化神话探秘之旅（Sun Gods Across Cultures）是新课堂（Thinktown）学术探索项目中的一项线上 1 对 1 PBL 写作项目，引导学生探索希腊、古埃及和中国三大文明的太阳神神话，融合文学、历史、文化与英语写作，最终产出比较作品集和文化反思短文。
+- [新课堂"我最爱的科技产品变变变"项目](concepts/tech-product-evolution-project.md) — "我最爱的科技产品变变变"（Watch It Change: My Favorite Tech）是新课堂（Thinktown）推出的 PBL 计算机学术探索项目，包含 6 课时（CT）和 1 课时（NCT）。
+- [青少年新闻写作PBL](concepts/teen-journalism-pbl.md) — 青少年新闻写作 PBL 是新课堂（Thinktown）推出的"青少年社会观察：采访、研究与真实写作"PBL 课程，通过新闻写作训练学生的提问、访谈及资料收集能力，围绕青少年真实关切的议题展开，从选题到采访到成稿。
+- [戏剧 PBL 项目](concepts/theater-pbl.md) — 新课堂（Thinktown）提供三项戏剧 PBL（项目制学习）课程——导演手札、重现历史人物和戏剧人物研究——分别从导演视角、历史跨学科研究和戏剧文本分析三个维度培养学生的戏剧研究与创作能力，产出形式涵盖导演手札、短剧剧本和学术文章。
+- [新课堂数学 PBL 项目"自然密码"](concepts/thinktown-natures-code-pbl.md) — "自然密码：艺术与野性中的分形"（Nature's Code: Fractals in Art & the Wild）是新课堂（THINKTOWN）推出的数学 PBL（项目式学习）课程，共 7 课时。
+- [UKChO 英国化学奥林匹克竞赛](concepts/ukcho-british-chemistry-olympiad.md) — UKChO（UK Chemistry Olympiad，英国化学奥林匹克竞赛）由英国皇家化学学会（RSC）主办，至今已有 50 余年历史，是英国历史最悠久、学术性最强、影响力最大的高中化学奥林匹克活动。
+- [英国数学基金会测评体系（UKMT / BMO）](concepts/ukmt-bmo.md) — 英国数学基金会（United Kingdom Mathematics Trust, UKMT）成立于 1996 年，是英国最大的数学组织，每年为超过 70 万名 11–18 岁学生提供数学活动，并负责选拔和培养英国国际数学奥林匹克（IMO）国家队。
+- [UKMT 英国数学测评系列](concepts/ukmt-series.md) — UKMT（United Kingdom Mathematics Trust，英国数学基金会）系列数学测评是英国规模最大和最具影响力的全国性数学测评活动，每年吸引全英超六千多所学校的七十多万学生参与。
+- [城市探险奥德赛：纽约探索 PBL](concepts/urban-odyssey-new-york.md) — 城市探险奥德赛（Urban Odyssey: Exploring NYC, Upstate New York & Long Island）是一门面向 5–10 年级学生的项目式学习写作课程，通过系统性探索纽约市、纽约州北部和长岛，将真实世界的观察转化为结构化的学术写作和文化理解能力。
+- [美国三大数学训练营](concepts/us-math-camps.md) — 美国的 Ross（罗斯数学训练营）、PROMYS（青年科学家数学计划）和 SUMaC（斯坦福大学数学夏令营）并称为三大顶尖数学训练营，面向对数学有深厚兴趣的高中生，提供沉浸式数学探索体验。
+- [美国大学数学竞赛（JHMT、DMM、CHMMC、BmMT）](concepts/us-university-math-competitions-other.md) — 本页涵盖由美国大学举办或资助的其他高中/初中数学竞赛：约翰斯·霍普金斯大学数学竞赛（JHMT）、杜克大学数学大会（DMM/DMMC）、加州理工数学大会（Caltech Math Meet，原 CHMMC）和加州伯克利大学初中数学竞赛（BmMT）。
+- [美国大学数学竞赛（SMT、PUMaC、CMIMC、AMT）](concepts/us-university-math-competitions.md) — 美国顶尖大学举办的年度高中数学竞赛是一类兼具个人赛与团队赛的综合性赛事，与 ARML、HMMT 等并列为美国高中数学竞赛的核心组成部分。
+- [USABO 美国生物奥林匹克竞赛](concepts/usabo.md) — USABO（美国生物奥赛）由美国精英教育中心（CEE）主办，创办于 1983 年，每年负责选拔和培训美国国家队参加国际生物学奥林匹克（IBO）。
+- [USACO 美国信息学奥林匹克](concepts/usaco.md) — USACO（United States of America Computing Olympiad，美国信息学奥林匹克竞赛）创办于 1992 年，是面向全球高中生的计算机算法竞赛，主要目的是选拔美国参加国际信息学奥林匹克（IOI）的国家队。
+- [USNCO 美国化学奥林匹克](concepts/usnco-us-national-chemistry-olympiad.md) — USNCO（U.S. National Chemistry Olympiad，美国化学奥林匹克）由美国化学学会（ACS）主办，是一项多层次的高中化学竞赛，旨在激发和推动高中化学领域的学术成就。
+- [维瑟历史写作论文奖](concepts/versus-history-essay-prize.md) — 维瑟历史写作论文奖（Versus History Essay Prize）是由英国 Versus History 平台于 2023 年首次设立的历史论文竞赛，面向 10–12 年级学生，旨在促进历史学作为学术学科的发展并激发新一代历史学家的热情。
+- [滑铁卢系列数学竞赛（Euclid 等）](concepts/waterloo-math-competitions.md) — 滑铁卢系列数学竞赛（Waterloo Mathematics Contests）由加拿大滑铁卢大学数学系的加拿大数学与计算机教育中心（CEMC）举办，始于 1963 年，覆盖 7–12 年级，是加拿大的官方数学竞赛。
+- [滑铁卢数学竞赛系列](concepts/waterloo-math.md) — Waterloo 系列数学竞赛由加拿大滑铁卢大学数学与计算机教育中心（CEMC）举办，始于 1963 年，覆盖 7 至 12 年级，又称加拿大数学竞赛（Canadian Mathematics Competition）。
+- [加拿大滑铁卢牛顿物理竞赛（SIN）](concepts/waterloo-sin.md) — 加拿大滑铁卢牛顿物理竞赛（SIR ISAAC NEWTON EXAM，简称 SIN）由滑铁卢大学物理系和天文系主办，是一项面向高中生的物理竞赛。
+- [沃顿全球高中生投资竞赛（WGHS）](concepts/wharton-investment-competition.md) — 沃顿全球高中生投资竞赛（Wharton Global High School Investment Competition）是宾夕法尼亚大学沃顿商学院主办的免费体验式投资挑战赛，面向 9–12 年级学生及其教师。
+- [宾大沃顿商业领导力项目（LBW）](concepts/wharton-leadership-program.md) — Leadership in the Business World（LBW）是宾夕法尼亚大学沃顿商学院主办的三周沉浸式暑期项目，面向 11 年级学生，每年仅招约 120 人，是全美最顶尖的商科夏校之一。
+- [世界历史协会学生写作竞赛](concepts/world-historian-essay-competition.md) — 世界历史协会学生写作竞赛（World Historian Student Essay Competition）由世界历史协会（World History Association, WHA）举办，面向 K–12 年级公立、私立、教区学校和家庭学校学生，每年全球仅一名学生获奖。
+- [世界音乐学探索 PBL](concepts/world-musicology-pbl.md) — "音乐学探索：世界音乐"（Discover in Music: Introduction to Musicology）是新课堂（Thinktown）推出的 PBL 项目课程，带领学生探索世界各地的音乐传统及其背后的文化故事与历史背景，融合音乐学、人类学与媒体研究。
+- [世界学者杯](concepts/world-scholars-cup.md) — 世界学者杯（World Scholars' Cup, WSC）是面向中学生的国际学术竞赛，由 Daniel Berdichevsky 创办，以 3 人组队形式参赛，涵盖科学、社会学、历史、艺术、文学和通识六个学科。
+- [Write the World 月度竞赛](concepts/write-the-world-monthly-competition.md) — Write the World 是创办于 2012 年的国际青少年写作社群，每月举办不同主题和写作类型的竞赛，涵盖诗歌、小说、时评、个人叙事等多种体裁。
+- [写作夏校项目](concepts/writing-summer-programs.md) — 美国有多项面向高中生和初中生的顶尖写作夏校项目，由知名文学机构和大学主办，涵盖创意写作、文学研讨和新闻写作等方向。
+- [丘成桐中学科学奖（数学）](concepts/yau-science-award-math.md) — 丘成桐中学科学奖由数学大师丘成桐先生于 2008 年设立，倡导"培养和发现人才应从中学开始"的教育理念，将国际化竞赛的组织与选拔模式引入中国。
+- [YoungArts 国家艺术竞赛](concepts/youngarts-national-arts-competition.md) — YoungArts（原 National YoungArts Foundation）是美国最具声望的青少年艺术竞赛之一，面向 15–18 岁新兴艺术家，涵盖视觉、文学、设计和表演艺术领域的 10 个学科。
+- [YouthPLAYS 青少年剧作家独幕剧竞赛](concepts/youthplays-one-act-competition.md) — YouthPLAYS 青少年剧作家独幕剧竞赛（New Voices One-Act Competition for Young Playwrights）由国际性青少年戏剧平台 YouthPLAYS 举办，面向 19 岁以下学生征集原创独幕剧剧本，鼓励以青少年生活为题材。
 
 ## Comparisons
 
-- [Client-Facing and Non-Client-Facing Instruction](comparisons/client-facing-vs-non-client-facing-instruction.md) — How direct classroom lessons differ from behind-the-scenes instructor review in the course model.
+- [面向客户与非面向客户的教学](comparisons/client-facing-vs-non-client-facing-instruction.md) — 课程将现场课堂教学（CT）与导师在课外完成的工作（NCT）区分开来。
+- [G5–G12 全学段商赛进阶解析](comparisons/g5-g12-business-competition-progression.md) — 商业思维本质是解决问题的能力，是应对未来不确定性的核心竞争力。
+- [IEO China 2026 三个组别](comparisons/ieo-china-divisions.md) — IEO China 2026 设新秀常规组、新秀高级组和专业组三个组别，在适合年级、命题语言、考核科目与可晋级舞台上逐级递进，从入门启蒙延伸至进阶挑战。
+- [三大经济论文竞赛深度解析](comparisons/three-economics-essay-competitions.md) — John Locke、Marshall 和 HIEEC 是面向高中生最具代表性的三大经济学论文竞赛，分别侧重思辨伦理、政策理论和政策设计，获奖率极低但学术训练价值显著。
+- [国际写作竞赛推荐与备赛规划](comparisons/writing-competitions-recommendation-guide.md) — 本页面汇总了新课堂（Thinktown）发布的两份写作竞赛推荐材料，涵盖 17 项国际写作竞赛的分级体系、参赛要求与备赛规划建议，为不同年级和水平的学生提供参赛路径参考。
 
 ## Entities
 
-- [Vanessa Ruales](entities/vanessa-ruales.md) — The writing instructor identified in the course product brief.
+- [国际经济学奥林匹克（IEO）](entities/international-economics-olympiad.md) — 国际经济学奥林匹克（International Economics Olympiad，IEO）是全球十三项国际科学奥林匹克之一，由诺贝尔经济学奖得主 Eric Maskin 教授于 2017 年联合发起，总部设于瑞士。
+- [NexGen Education Hub](entities/nexgen-education-hub.md) — NexGen Education Hub（NexGen核心素养）是国际经济学奥林匹克（IEO）国际组委会在中国的唯一官方合作伙伴，负责 IEO 在中国的学术活动推广与组织，也是 IEO China 2026 的组织方。
+- [ThinkTown（新课堂国际教育）](entities/thinktown.md) — ThinkTown（新课堂国际教育，Thinktown/新课堂）是本知识库所收录资料的发布方，一家面向国际化升学的教育机构，提供竞赛辅导、学术写作、科研项目与夏校申请等产品。
+- [Vanessa Ruales](entities/vanessa-ruales.md) — Vanessa Ruales 是 PBL 历史旅行指南：纽约篇课程指定的导师。
 
 ## Sources
 
-- [PBL Historical Travel Guide: New York Course Source](sources/pbl-historical-travel-guide-new-york-course.md) — Provenance, key claims, and reliability notes for the source document.
+- [全美高中生电影节来源（ACE 页面）](sources/aahsff-ace.md) — 本来源为新课堂 ACE 系统中全美高中生电影节（AAHSFF）的课程卡片，涵盖赛事背景、奖项设置、报名截止日期及辅导产品信息。
+- [全美高中生电影节来源（Thinktown 指南）](sources/aahsff-thinktown-guide.md) — 本来源为新课堂制作的全美高中电影节指南图片的文字提取，补充了竞赛作品类型分类、服务内容、学术顾问简介等信息。
+- [全美高中生电影节来源（Thinktown 微信文章）](sources/aahsff-thinktown-wechat.md) — 本来源为新课堂微信公众号发布的 AAHSFF 全解析文章，详细介绍了电影节概况、Thinktown 电影团队师资力量、三位学生辅导案例及常见问答。
+- [美国数学邀请赛来源](sources/aime.md) — 本来源为美国数学邀请赛（AIME）的活动卡片，介绍了该赛事作为 AMC 10/12 晋级赛的定位、赛制（3 小时 15 道填空题）、奖项设置以及 2023–2026 赛季安排。
+- [美国数学竞赛 AMC10 来源](sources/amc10.md) — 本来源为美国数学竞赛 AMC 10 的活动卡片，介绍了 AMC 作为全球最广、信度最高数学赛事之一的定位、赛制（25 道选择题 75 分钟）、奖项设置以及 2023–2026 赛季安排与获奖记录。
+- [美国数学竞赛 AMC 12 来源](sources/amc12.md) — 本来源是新课堂（Thinktown）内部关于 AMC 12 的产品信息页，涵盖赛事背景、赛制、奖项和历年晋级 AIME 记录。
+- [美国数学竞赛 AMC 8 来源](sources/amc8.md) — 本来源是新课堂（Thinktown）内部关于 AMC 8 的产品信息页，涵盖赛事背景、赛制、奖项和历年获奖记录。
+- [美国大师音乐奖来源](sources/american-masters-music.md) — 本来源为新课堂 ACE 系统中美国大师音乐奖（American Masters Music Awards）的课程卡片，介绍了赛事背景、写作考试内容及产品信息。
+- [全美天才国际音乐大赛来源](sources/american-protege-music.md) — 本来源为新课堂 ACE 系统中美国全美天才国际音乐大赛（American Protégé International Music Competitions）的课程卡片，介绍了赛事背景、奖项及产品信息。
+- [美国数学思维挑战（AMO）来源](sources/amo.md) — 本来源是新课堂（Thinktown）内部关于美国数学思维挑战（American Mathematical Olympiad）的产品信息页，涵盖赛事背景、赛制和奖项设置。
+- [安徒生国际艺术奖及 AI 艺术创作课简介来源](sources/andersen-art-ai-poster.md) — 本来源为 Thinktown 发布的安徒生国际艺术奖宣传海报，同时介绍了配套的 AI 艺术创作课。
+- [安徒生国际艺术奖概览来源](sources/andersen-art-overview.md) — 本来源为 Thinktown 内部竞赛数据库中安徒生国际艺术奖（H.C. Andersen Art Awards）的结构化条目，记录了赛事基本信息、赛程和产品定价。
+- [新课堂安徒生国际艺术奖学术顾问计划来源](sources/andersen-art-sba.md) — 本来源为新课堂国际教育发布的安徒生国际艺术奖单科学术顾问计划产品手册 V1.3，详细介绍了赛事背景、10 课时和 16 课时两种方案、导师团队及学生案例。
+- [AP 心理学指南海报来源](sources/ap-psychology-guide-poster.md) — 本来源是 THINKTOWN Education 制作的 AP 心理学课程宣传指南海报（标注为 121825 V1），介绍了课程简介、亮点、班型设置和课程内容。
+- [AP 心理全解（Thinktown 备考指南）来源](sources/ap-psychology-thinktown-guide.md) — 本来源是 THINKTOWN 微信公众号发布的 AP 心理学教学成果与备考指南文章，详细介绍了师资团队、2025 年新机考改革影响、考试难点分析和备考建议，并附四个学生案例。
+- [新课堂学术探索项目议论文写作课程介绍来源](sources/argumentative-writing-course.md) — 本来源是新课堂学术探索项目"写作与表达：议论文写作"的课程宣传页。
+- [美国区域数学联赛（ARML）来源](sources/arml.md) — 本来源是新课堂（Thinktown）内部关于美国区域数学联赛（ARML）的产品信息页，涵盖赛事背景、赛制和奖项设置。
+- [阿斯丹美式数学竞赛来源](sources/asdan-math-tournament.md) — 本来源为阿斯丹美式数学竞赛（ASDAN Math Tournament, AMT）的活动卡片，由阿斯丹国际教育发布，介绍了竞赛的主办背景、赛制形式（个人挑战、团队力量挑战、团队挑战、团队车轮挑战）及奖项设置。
+- [澳大利亚生物奥林匹克竞赛来源](sources/asob-australian-biology.md) — 本来源为新课堂内部竞赛信息页，介绍澳大利亚生物测评（ASOB）的基本信息、赛程时间线和历年获奖学员记录。
+- [ASOC ACE 数据页来源](sources/asoc-ace-data.md) — 本来源为 Thinktown ACE 系统中澳大利亚化学奥林匹克竞赛的结构化数据页，记录了 2021–2026 年的赛程时间线、学员获奖明细及产品课程定价信息。
+- [ASOC 备赛课程手册来源](sources/asoc-course-handbook.md) — 本文档详细介绍了 Thinktown 针对 ASOC 赛事的备赛课程产品，涵盖赛事历史、主办方信息、2024 年考试时间、题型分值、奖项评定规则、课程架构、师资背景、报名缴费与退费标准，并列举了近年学员获奖数据。
+- [ASOC 微信推文来源](sources/asoc-intro-article.md) — 本文介绍了 ASOC 澳大利亚化学奥林匹克赛事的考试内容、时间、难度、参赛对象、比赛形式及奖项设置，并提供了包含模考、知识点学习、真题演练在内的备赛建议。
+- [ASOC 指南海报来源](sources/asoc-thinktown-guide.md) — 本文是 Thinktown 制作的 ASOC 澳大利亚化学奥林匹克活动赛事介绍海报，概述了赛事背景、题型、奖项设置、适合学生及学员获奖情况。
+- [澳大利亚物理奥林匹克竞赛来源](sources/asop.md) — 本来源是新课堂（Thinktown）内部关于澳大利亚物理奥林匹克（ASOP）的竞赛资料卡，介绍了该赛事的主办方、赛制、奖项设置及备赛产品信息。
+- [澳大利亚数学竞赛（AMC）来源](sources/australian-mc.md) — 本来源是新课堂（Thinktown）内部关于澳大利亚数学竞赛（Australian Mathematics Competition）的产品信息页，涵盖赛事背景、赛制和奖项设置。
+- [数学酷暑期夏令营（AwesomeMath）来源](sources/awesomemath.md) — 本来源是新课堂（Thinktown）内部关于 AwesomeMath 暑期夏令营的产品信息页，涵盖项目背景、申请要求和历年录取记录。
+- [THINK TOWN 学子 2023 BBO 竞赛获多项大奖来源](sources/bbo-2023-results.md) — 本来源为 Thinktown 2023 年 BBO 喜报海报，展示了多名学员在英国生物奥林匹克竞赛中获得金奖（TOP5%）、银奖（TOP15%）、铜奖（TOP30%）及优秀奖（TOP45%）的成绩。
+- [英国生物奥林匹克来源](sources/bbo-competition.md) — 本来源为新课堂内部竞赛信息页，详细介绍英国生物奥林匹克竞赛（British Biology Olympiad, BBO）的基本信息、考试内容、历年赛程和获奖学员记录。
+- [英国中级生物奥林匹克活动来源](sources/bbo-intermediate-olympiad.md) — 本来源为新课堂内部竞赛信息页，介绍英国中级生物奥林匹克活动（Intermediate Biology Olympiad, IBO）的基本信息、赛程时间线、历年获奖学员及对应备赛课程。
+- [英国初级生物奥赛来源](sources/bc-competition.md) — 本来源为新课堂内部竞赛信息页，介绍英国初级生物奥赛（Biology Challenge, BC）的基本信息、赛程时间线和历年获奖学员记录。
+- [加州伯克利大学初中数学竞赛来源](sources/berkeley-bmmt.md) — 本来源为加州伯克利大学初中数学竞赛（Berkeley mini Math Tournament, BmMT）的活动卡片，介绍了该赛事面向初中生、以 5 人团队赛为主的形式及 2024–2026 赛季安排。
+- [THINKTOWN 生物国际竞赛推荐及备考规划指南来源](sources/biology-competition-planning-guide.md) — 本来源为 Thinktown 2026 年 5 月版生物国际竞赛推荐表（V4），系统介绍了 7 项主流生物国际竞赛的基本信息、参赛价值、难度体系、按年级/课程体系/升学目标/专业方向的竞赛选择建议和备考策略。
+- [加州伯克利大学数学竞赛（BMT）来源](sources/bmt.md) — 本来源是新课堂（Thinktown）内部关于加州伯克利大学数学竞赛（Berkeley Math Tournament）的产品信息页，涵盖赛事背景、赛制和历年获奖记录。
+- [BPA 2026 初级站获奖喜报来源](sources/bpa-2026-primary-results.md) — 本来源是 Thinktown 发布的 2026 年 BPA 商业全能挑战赛初级站获奖喜报海报，展示了学员在该赛季初级站斩获 20 枚奖牌、全员晋级、100% 获奖率的成绩。
+- [BPA 高中生商业全能挑战赛来源](sources/bpa-business-professionals.md) — 本来源是 Thinktown 内部赛事数据库的 BPA（Business Professionals of America）条目，包含赛事背景、赛程时间线（2021–2026 多个赛季）、历年获奖学生记录，以及 Thinktown BPA 辅导产品的价格与师资信息。
+- [BPA 中国站 2026 客观学术组辅导方案来源](sources/bpa-china-nationals-2026-coaching.md) — Thinktown 发布的 BPA 商业全能挑战赛中国站客观学术组别辅导方案海报，涵盖赛事介绍、两个可选方向、两套辅导方案课时安排、师资及历年成绩。
+- [英国中级&高级物理挑战赛（IPC/SPC）来源](sources/bpho-ipc-spc.md) — 本来源是一份新课堂（Thinktown）内部竞赛资料卡，介绍英国中级与高级物理挑战赛（IPC/SPC）的赛制、奖项、时间安排及学员获奖记录。
+- [英国物理奥林匹克预选赛 Round 1（BPhO R1）来源](sources/bpho-round1.md) — 本来源是一份新课堂（Thinktown）内部竞赛资料卡，介绍英国物理奥林匹克预选赛 Round 1（BPhO R1）的赛制、奖项、时间安排及学员获奖记录。
+- [BPO 2025–2026 英国心理学思维挑战赛晋级喜报来源](sources/bpo-2025-2026-national-qualification.md) — Thinktown（新课堂）发布的 2025–2026 赛季 British Psychology Olympiad 喜报。
+- [BPO 2025–2026 获奖喜报来源](sources/bpo-2025-2026-results.md) — 本来源是 THINKTOWN 新课堂发布的 2025–2026 赛季 BPO 英国心理学思维挑战赛获奖喜报，公布了 3 名参赛学员全员获奖的具体成绩。
+- [2022–2025 BrainBee 脑科学活动喜报总榜来源](sources/brain-bee-2022-2025-results.md) — 本来源为 Thinktown 2022–2025 年 Brain Bee 喜报总榜，汇总了 Junior 组（5–8 年级）和 Brainbee 组（9–12 年级）在地区赛和全国赛的获奖情况。
+- [Thinktown 学员在 2026 Brain Bee 地区赛获佳绩来源](sources/brain-bee-2026-regional-results.md) — 本来源为 Thinktown 2026 年 Brain Bee 地区赛喜报，展示了学员获奖率达 90%（全球平均 40%）的成绩，包括 3 人一等奖晋级全国赛、2 人二等奖、4 人三等奖。
+- [Brain Bee 脑科学活动来源](sources/brain-bee-competition.md) — 本来源为新课堂内部竞赛信息页，全面介绍 Brain Bee 脑科学活动的基本信息、赛程规则、各级别考试形式以及历年获奖学员记录。
+- [Brain Bee 脑科学活动 Guide from Thinktown 来源](sources/brain-bee-guide-thinktown.md) — 本来源为 Thinktown 制作的 Brain Bee 备赛课程宣传图，介绍赛事背景、知识框架、历年辅导成果和师资团队信息。
+- [脑科学创新挑战赛来源](sources/brain-challenge-competition.md) — 本来源为新课堂内部竞赛信息页，介绍脑科学创新挑战赛（Brain Challenge）的基本信息、赛程规则和历年赛程安排。
+- [Brain Challenge 脑科学创新挑战赛海报来源](sources/brain-challenge-poster.md) — 本来源为 Thinktown 制作的 Brain Challenge 宣传海报，介绍赛事特点、2025 年赛程安排、适合学生和学术顾问团队信息。
+- [少年突破挑战赛 ACE 条目来源](sources/breakthrough-junior-challenge-ace.md) — 本来源是 Thinktown ACE（学术竞赛条目）系统中关于少年突破挑战赛（Breakthrough Junior Challenge）的竞赛档案，涵盖基本信息、赛事背景、赛程时间线和获奖信息。
+- [演绎名画来源（ACE 页面）](sources/bring-painting-to-stage-ace.md) — 本来源为新课堂 ACE 系统中"演绎名画：画作改编剧本"的课程卡片，概述了项目背景和产品信息。
+- [演绎名画来源（产品手册）](sources/bring-painting-to-stage-handbook.md) — 本来源为新课堂"演绎名画：画作改编剧本"跨科学术顾问计划产品手册，详细描述了项目概述、课程安排、适合学员、团队配置、学生案例及常见问答。
+- [演绎名画来源（宣传海报）](sources/bring-painting-to-stage-poster.md) — 本来源为新课堂演绎名画项目宣传海报的文字提取，概述了项目定位、推荐理由、适合学员及成果用途。
+- [英国心理学思维挑战（BPO）赛事信息来源](sources/british-psychology-olympiad-info.md) — 本来源是 THINKTOWN 新课堂内部 ACE 系统中关于英国心理学思维挑战（British Psychology Olympiad, BPO）的产品信息页面，涵盖赛事基本信息、赛程时间线、奖项设置和备赛课程产品信息。
+- [商业国际竞赛推荐表来源](sources/business-competition-recommendation-table.md) — 本来源是 Thinktown 制作的商业类国际竞赛推荐一览表，涵盖 SIC、BPA 和康莱德创新挑战赛三项赛事的各阶段报名时间、参赛形式、面向群体和难度评级。
+- [C3L6 ACE 数据页来源](sources/c3l6-ace-data.md) — 本来源为 Thinktown ACE 系统中剑桥化学挑战赛的结构化数据页，记录了 2024–2026 年的赛程时间线及产品课程定价信息。
+- [C3L6 备赛课程手册来源](sources/c3l6-course-handbook.md) — 本文详述了 Thinktown 针对 C3L6 剑桥化学挑战赛的备赛课程体系，涵盖赛事背景、报名时间、考试形式、奖项设置、化学营选拔机制、课程模块与课时分配、师资背景及备考策略。
+- [C3L6 微信推文来源](sources/c3l6-intro-article.md) — 本文介绍了 C3L6 剑桥化学挑战赛的背景、推荐理由、比赛信息和备考建议，指出 C3L6 比 UKChO 更注重深度理解和应用，是 UKChO 的替代选择，并分享了奖项设置和备考锦囊。
+- [C3L6 指南海报来源](sources/c3l6-thinktown-guide.md) — 本文是 Thinktown 制作的 C3L6 剑桥化学挑战指南海报，概述了赛事背景、适合学生、竞赛形式和服务亮点。
+- [加州理工数学大会来源](sources/caltech-math-meet.md) — 本来源为加州理工数学大会（Caltech Math Meet，原 CHMMC）的活动卡片，介绍了该竞赛的创办背景、赛制特点和 2024 赛季安排。
+- [Cambridge Re:think 论文竞赛 ACE 条目来源](sources/cambridge-rethink-ace-entry.md) — 本来源为 Thinktown 内部竞赛知识库中 Cambridge Re:think Essay Competition 的 ACE 条目，汇总了赛事基本信息、赛制、奖项设置、产品课程配置及联络人信息。
+- [Cambridge Re:think 论文竞赛产品海报来源](sources/cambridge-rethink-product-poster.md) — 本来源是 Thinktown 发布的剑桥 Re:think 论文竞赛赛事介绍与辅导产品宣传海报，介绍了 2026 年六个选题领域和 Thinktown 的全程 1v1 辅导方案。
+- [加拿大物理奥林匹克预选赛来源](sources/cap-high-school.md) — 本来源是新课堂（Thinktown）内部关于加拿大物理学家协会高中物理竞赛（CAP High School Prize Exam）的资料卡，介绍了该赛事的主办方、赛制、奖项设置、历年时间安排及备赛产品信息。
+- [CBPA 2027 初级站报名指南来源](sources/cbpa-registration-guide.md) — 本来源是 CBPA（China Business Professionals Alliance）2027 活动季初级站报名指南，详细说明了注册、缴费、选组别和组队四步流程，以及学术组与实战组（ML/S-Pre/S-Classic）的年级要求、参与形式与语言规则。
+- [CCC 2024 喜报来源](sources/ccc-2024-results.md) — 本来源为 Thinktown 发布的 2024 年 CCC 加拿大化学竞赛喜报海报，公布了 7 名学员的获奖情况，涵盖全国银奖、铜奖、赛区优秀奖和全球杰出奖。
+- [CCC ACE 数据页来源](sources/ccc-ace-data.md) — 本来源为 Thinktown ACE 系统中 CCC 加拿大化学竞赛的结构化数据页，记录了 2021–2026 年的赛程时间线、Thinktown 学员获奖明细（含姓名、奖项级别、年份）以及产品课程定价信息。
+- [CCC 备赛课程手册来源](sources/ccc-course-handbook.md) — 本文系统介绍了 CCC 赛事背景、考试形式、时间节点及奖项设置，并详细推介了 Thinktown 的 CCC 一对一备赛课程，涵盖目标学员群体、建议课时、核心知识点分布、师资团队、报名流程及退费规则。
+- [CCC 加拿大化学竞赛微信推文来源](sources/ccc-intro-article.md) — 本文介绍了加拿大化学竞赛（CCC）的背景、规则、奖项设置及备考建议。
+- [CCC 指南海报来源](sources/ccc-thinktown-guide.md) — 本文是 Thinktown 制作的 CCC 加拿大化学竞赛指南海报，概述了赛事基本信息、奖项设置和竞赛特点，强调其与 AP/IB 化学大纲高度重合、难度适中、含金量高。
+- [CCO ACE 数据页来源](sources/cco-ace-data.md) — 本来源为 Thinktown ACE 系统中加拿大化学奥林匹克（CCO）的结构化数据页，记录了 2022–2025 年的赛程时间线、学员获奖明细、考试内容及产品课程定价信息。
+- [查理斯顿国际音乐比赛来源](sources/charleston-music.md) — 本来源为新课堂 ACE 系统中美国查理斯顿国际音乐比赛（Charleston International Music Competition）的课程卡片。
+- [卡内基梅隆大学信息与数学竞赛来源](sources/cmimc.md) — 本来源为卡内基梅隆大学信息与数学竞赛（CMIMC）的活动卡片，介绍了竞赛的主办方、面向年级（G9–G11）、赛制（团队与个人项目）以及奖项设置。
+- [CNEC 经济学素养研习活动报名指南来源（单页版）](sources/cnec-2026-onepage-guide.md) — 本来源是 CNEC 2026 经济学素养研习活动的官方宣传单页，概述了活动背景、组别设置、研习阶段时间线、报名费用及研习项目内容，属于快速参考类宣传材料。
+- [CNEC 2026 经济学素养研习活动报名与测评指南来源](sources/cnec-2026-student-handbook.md) — 本来源是 CNEC 2026 经济学素养研习活动的官方学生手册，详细说明了报名流程、缴费规则、组别原则、组队规则、测评流程、进阶与荣誉设置、地区划分及 Bloom 社会化学习平台的使用方法。
+- [美国国会艺术竞赛 ABC 课程产品手册来源](sources/congressional-art-abc-course.md) — 本来源为新课堂国际教育发布的美国国会艺术竞赛 ABC 课程产品手册，详细介绍了赛事背景、12 模块辅导框架、5 位导师团队和参赛作品规则。
+- [美国国会艺术竞赛概览来源](sources/congressional-art-overview.md) — 本来源为 Thinktown 内部竞赛数据库中美国国会艺术竞赛的结构化条目，记录了赛事基本信息、历年赛程、获奖信息和产品定价。
+- [康莱德创新挑战来源](sources/conrad-innovation-challenge.md) — 本来源是 Thinktown 内部赛事数据库的康莱德挑战（The Conrad Challenge）条目，包含赛事背景、中国站与全球站奖项体系、2025–2026 赛季时间线，以及 Thinktown ABC 咨询课程产品信息。
+- [2025 年大都会写作竞赛获奖结果来源](sources/cosmopolitan-writing-award-2025-results.md) — 本来源为新课堂（Thinktown）发布的 2025 年大都会写作竞赛（CWA）喜报海报，公布了 Thinktown 学生的获奖信息。
+- [大都会写作竞赛 ACE 条目来源](sources/cosmopolitan-writing-award-ace-entry.md) — 本来源为 Thinktown 内部竞赛知识库中 Cosmopolitan Writing Award（CWA）的 ACE 条目，汇总了赛事基本信息、赛程时间线、获奖记录及产品课程配置。
+- [大都会写作竞赛宣传海报来源](sources/cosmopolitan-writing-award-brochure.md) — 本来源为新课堂（Thinktown）制作的 Cosmopolitan Writing Award 赛事宣传海报，简要介绍了赛事概况、辅导服务亮点及适合学生画像。
+- [创意写作项目产品手册来源](sources/creative-writing-handbook.md) — 本来源是新课堂创意写作项目的完整产品手册，介绍了基础、强化、高阶三阶段共 27 节课的课程内容、目标客户、报名流程、教学团队及常见问题。
+- [THINKTOWN 创意写作三阶段课程海报来源](sources/creative-writing-three-phase-poster.md) — 本来源为新课堂（Thinktown）学术探索项目"写作与表达：创意写作（基础/强化/高阶段）"的宣传海报，介绍了课程概述、三阶段内容框架和教学团队特色。
+- [CTB 2021–2022 获奖团队群访来源](sources/ctb-2021-2022-team-interviews.md) — 本来源是 Thinktown 对 2021–2022 赛季 CTB 比赛中三支获奖团队（"藤壶革命""FATE""52Hz"）的深度群访，记录了选题立意、活动开展、团队协作经验和导师指导细节。
+- [CTB 哈佛全球赛专访："反方向的钟"小队来源](sources/ctb-2024-harvard-interview.md) — 本来源是 Thinktown 对 2023–2024 赛季 CTB 全球赛"反方向的钟"小队的深度专访，记录了该队探究"社会时钟"概念的选题过程、半年参赛历程、哈佛全球赛体验，以及团队协作与时间管理的实战经验。
+- [Thinktown 队伍斩获 CTB 全球论坛多项大奖来源](sources/ctb-2026-global-forum-results.md) — 本来源是 Thinktown 关于 2025–2026 赛季 CTB 哈佛全球论坛的喜报，宣布一支由上海七宝德怀特高级中学 L 同学和 M 同学组成的队伍从近 2000 支队伍中脱颖而出，斩获全球三等奖、黑客马拉松杰出团队合作奖及全球总决赛入围资格。
+- [Thinktown 第十四届 CTB 全国论坛喜报来源](sources/ctb-2026-national-forum-results.md) — 本来源是 Thinktown 关于 2025–2026 赛季第十四届 CTB 全国论坛的成绩喜报，宣布 6 支队伍 100% 获奖、3 支直通哈佛全球论坛，并回顾了 2022 年以来的历年战绩。
+- [CTB全球青年研究创新论坛 Thinktown内部资料来源](sources/ctb-forum-thinktown-internal.md) — 本来源是新课堂（Thinktown）关于CTB（China Thinks Big / 全球青年研究创新论坛）的内部详细资料，涵盖赛事背景、赛程时间线（2022–2026共五个赛季）、完整的学员获奖记录以及产品课程定价信息。
+- [CTB 2025–2026 赛季跨科学术顾问计划产品手册来源](sources/ctb-product-handbook-2026.md) — 本来源是新课堂（Thinktown）CTB 2025–2026 赛季的产品手册，详细介绍了 CTB 赛事规则、时间节点、各赛段辅导产品规格（孵化模式 30 课时/速通模式 12 课时）、定价、服务内容，并附有 CTB 与 SDG 竞赛对比表和常见问题。
+- [数位叙事创作营项目文档来源](sources/digital-storytelling-docx.md) — 本来源是新课堂"数位叙事创作营"（Digital Storytelling Studio）的项目设计文档，涵盖项目简介、家长说明、跨学科整合与成果要求。
+- [新课堂数位叙事创作营项目宣传页来源](sources/digital-storytelling-poster.md) — 本来源是新课堂数位叙事创作营的课程宣传海报，与项目设计文档内容高度一致，补充了课时设置信息。
+- [短视频创作线上1对1课程三阶段大纲来源](sources/digital-storytelling-three-phase-outline.md) — 本来源是数位叙事创作营（Digital Storytelling Studio）的完整三阶段课程大纲文档，详述了 Level 1（TOEFL 60）、Level 2（TOEFL 80）和 Level 3（TOEFL 100）各 6 节线上一对一课程的教学目标、任务分解及最终成果要求。
+- [纪录剧创作工作坊来源](sources/documentary-drama-workshop.md) — 本来源为新课堂"纪录剧创作工作坊"PBL 项目课程介绍海报，描述了课程概述、分级体系、课程特色与成果形式。
+- [杜克数学大会来源](sources/duke-math-meet.md) — 本来源为杜克大学数学大会（DMM / DMMC）的活动卡片，介绍了赛事的三阶段递进赛制（在线水平测试→学术探索营→美国区决赛）及奖项设置。
+- [THINKTOWN 经济国际竞赛推荐表来源](sources/econ-competition-recommendation-table.md) — 本来源是一张由 THINKTOWN 制作的经济国际竞赛推荐汇总表，涵盖 NEC、John Locke、HIEEC、Marshall 和 IEO 五项赛事的报名与截止日期、参赛形式、面向群体及难度评级，为学生提供快速参考。
+- [Élan国际学生文学杂志（ACE 条目）来源](sources/elan-literary-magazine.md) — 本来源为新课堂内部 ACE 系统中 Élan 国际学生文学杂志的条目页面，记录了该刊物的基本信息、投稿周期、获奖案例及产品定价。
+- [尤金·奥尼尔青少年剧作家戏剧节来源](sources/eugene-oneill-ace.md) — 本来源为新课堂（Thinktown）ACE 系统中尤金·奥尼尔青少年剧作家戏剧节（Eugene O'Neill Theater Center Young Playwrights Festival）的课程卡片，概述了主办方背景、参赛要求、奖项设置以及新课堂对应的辅导产品信息。
+- [尤金·奥尼尔青少年剧作家戏剧节来源（Thinktown 指南）](sources/eugene-oneill-thinktown-guide.md) — 本来源为新课堂制作的尤金·奥尼尔青少年剧作家戏剧节指南图片的文字提取，补充了推荐理由、参赛对象细节、报名日期及戏剧中心孵化的知名作品等信息。
+- [欧洲经济学挑战赛来源](sources/european-economics-olympiad.md) — 本来源是 THINKTOWN 内部活动信息卡片，介绍了欧洲经济学挑战赛（European Economics Olympiad）的主办方、创办时间、奖项设置、赛程时间线（2024–2026 赛季）及 Thinktown 备赛课程信息。
+- [新课堂电影评论写作 PBL 课程来源](sources/film-review-writing-course.md) — 本来源为新课堂（Thinktown）学术探索项目"电影评论写作"的宣传海报，介绍了课程概述、三阶段设计和师资信息。
+- [未来学者计划产品手册来源](sources/future-scholar-course-handbook.md) — 本文详细介绍了新课堂化学学科"未来学者计划"的学术辅导产品，涵盖项目背景、课程架构（22 课时）、报名流程、收费标准、服务团队及 Q&A。
+- [未来学者计划指南来源](sources/future-scholar-thinktown-guide.md) — 本文是 Thinktown 制作的未来学者计划（Future Scholar Program）化学科研项目介绍海报，概述了项目目标、适合群体、辅导形式和产品亮点。
+- [Future Wanderers 课程大纲来源](sources/future-wanderers-curriculum.md) — 本来源是"Future Wanderers: Digital Life & Psychological Exploration"课程的详细分层大纲文档，包含基础级（TOEFL 60）、中级（TOEFL 80）和高阶（TOEFL 100）三个版本的课程计划，每版 6 节课，每节 45 分钟。
+- [未来漫游者 PBL 项目简介来源](sources/future-wanderers-pbl-project.md) — 本来源是《未来漫游者：数字生活与心理探索》（Future Wanderers: Digital Life & Psychological Exploration）PBL 项目的详细设计文档，由指导老师 Mengqi Du 编写。
+- [未来漫游者 PBL 海报来源](sources/future-wanderers-poster.md) — 本来源是 THINKTOWN 新课堂推出的 PBL 心理学学术探索项目"未来漫游者：数字生活与心理探索"宣传海报，概括了课程核心亮点、学生收获、适合对象和课程成果。
+- [G5–G12 全学段商赛解析来源](sources/g5-g12-business-competition-analysis.md) — 本来源是 Thinktown 发布的全球商业竞赛全梯度精选清单，覆盖 G5 至 G12 三个年龄段（入门启蒙、进阶实战、高阶学术），包含 BPA、HBP-BPC、SIC、康莱德和 WGHS 五项赛事的基本信息与行事历。
+- [G7-G12 顶尖写作竞赛全攻略来源](sources/g7-g12-writing-competitions-guide.md) — 本文为新课堂（Thinktown）发布的微信公众号文章，针对 G7–G12 不同阶段学生推荐了各类写作竞赛，并提供备赛建议和辅导服务介绍。
+- [新课堂 PBL 商业项目：游戏直播流量变现机制来源](sources/game-streaming-pbl.md) — 本来源是新课堂（Thinktown）PBL 商业探索项目的课程海报，主题为"直播打游戏如何赚钱？流量变现机制解析"，介绍了 7 课时的跨学科课程设计、适合学生和四项最终成果。
+- [《基因编辑与前沿文献精读》课程指南来源](sources/gene-editing-course-guide.md) — 本来源为新课堂面向客户的课程咨询指南（CCG），以问答形式详细说明基因编辑与前沿文献精读课程的学习内容、能力提升、适合人群、产出成果和后续进阶路径。
+- [新课堂生物项目：基因编辑与文献精读来源](sources/gene-editing-pbl-biology.md) — 本来源为新课堂 2026 年 6 月版"基因编辑与前沿文献精读"生物学术探索项目宣传页，介绍项目简介、适合学生、跨学科整合、项目成果和教学团队。
+- [谷歌涂鸦大赛 ABC 课程产品手册来源](sources/google-doodle-abc-course.md) — 本来源为新课堂国际教育发布的谷歌涂鸦大赛 ABC 课程产品手册，介绍了赛事背景、12 模块辅导框架、5 位导师团队配置及作品合规要求。
+- [谷歌涂鸦大赛概览来源](sources/google-doodle-overview.md) — 本来源为 Thinktown 内部竞赛数据库中谷歌涂鸦大赛的结构化条目，记录了赛事基本信息、历年赛程和产品定价。
+- [哈佛商学院案例分析挑战来源](sources/harvard-bpc-case-challenge.md) — 本来源是 Thinktown 内部赛事数据库的 Harvard BPC（Business Pioneer Case Challenge）条目，介绍哈佛商学院出版面向中学生的商业案例分析挑战赛事规则、奖项设置、2025–2026 赛季时间线及 Thinktown 的辅导产品。
+- [哈佛深红报全球征文大赛 ACE 条目来源](sources/harvard-crimson-global-essay-ace-entry.md) — 本来源为 Thinktown 内部竞赛知识库中 The Harvard Crimson Global Essay Competition（HCGEC）的 ACE 条目，汇总了赛事基本信息、赛制规则、历年时间线及产品课程配置。
+- [2026年哈佛国际评论学术写作比赛介绍来源](sources/hawc-2026-guide.md) — 本来源是 Thinktown 制作的 2026 年哈佛国际评论学术写作比赛指南宣传页，涵盖赛事介绍、年度主题、辅导服务与适合学生画像。
+- [HAWC 获奖情况总览海报来源](sources/hawc-awards-summary-poster.md) — 本来源是 Thinktown 发布的哈佛国际评论学术写作比赛（HAWC）获奖情况总览海报，展示了金奖 12 人、银奖 24 人、铜奖 26 人、单项奖 44 人的累计成绩，并逐一列出了所有金奖获奖学生的论文题目。
+- [Thinktown学生Amy获哈佛国际评论写作比赛金奖来源](sources/hawc-gold-amy.md) — 本来源是对 2025 年夏季 HAWC 金奖学生 Amy 的深度专访，详细记录了从选题到成稿的全过程。
+- [Shawn获哈佛国际评论写作比赛秋季赛金奖来源](sources/hawc-gold-shawn.md) — 本来源是对 11 年级学生 Shawn 以 VR 军事应用主题获 HAWC 秋季赛金奖的专访，分享了选题过程、写作方法和备赛经验。
+- [哈佛国际评论写作竞赛放榜——Thinktown学子获多项大奖来源](sources/hawc-spring-2025-results.md) — 本来源报道了 Thinktown 学生在 2025 年 HAWC 春季赛的获奖情况，包含学生 Steven 的案例、过去 5 年累计获奖数据及师资介绍。
+- [哈佛国际评论写作竞赛全解｜Thinktown来源](sources/hawc-thinktown-analysis.md) — 本来源是 Thinktown 发布的哈佛国际评论写作竞赛深度解析文章，分析了赛事特点、高 GPA 学生难获奖的原因、金奖学员案例及师资团队。
+- [HIEEC 哈佛国际经济学论文竞赛参赛与备考指南来源](sources/hieec-guide-from-thinktown.md) — 本来源是 THINKTOWN 制作的 HIEEC 参赛指南产品推介书（V4 版），详细介绍了赛事背景、2025–2026 赛季四大选题、奖项设置、Thinktown 学术顾问计划（16 课时）、适合学员画像及往届学生案例。
+- [HIEEC 哈佛国际经济学论文大赛概览来源](sources/hieec-overview.md) — 本来源是 THINKTOWN 内部活动信息卡片，概述了哈佛国际经济学论文大赛（HIEEC）的主办方、面向人群、比赛形式、奖项设置及历年赛程时间线，并附有 Thinktown 学员获奖记录。
+- [美国高中生传媒竞赛来源（ABC 课程手册）](sources/high-school-media-abc-handbook.md) — 本来源为新课堂美国高中生传媒竞赛 ABC 课程产品手册，系统介绍了赛事历史、类别细分、报名规则、团队配置、CT/NCT 双轨服务流程及完整的 54 个投稿主题清单。
+- [美国高中生传媒竞赛来源（ACE 页面）](sources/high-school-media-ace.md) — 本来源为新课堂 ACE 系统中美国高中生传媒竞赛（Writing, Photo and Multi Media Contest）的课程卡片，介绍了赛事背景、参赛要求、奖项设置及辅导产品信息。
+- [美国高中生传媒竞赛来源（Thinktown 喜报）](sources/high-school-media-thinktown-results.md) — 本来源为新课堂制作的 2026 年美国高中生传媒大赛获奖喜报，报道了 W 同学获奖消息并补充了赛事背景信息。
+- [高中生国际摄影竞赛盘点来源](sources/high-school-photo-competitions-roundup.md) — 本来源是新课堂微信公众号发布的科普文章，为喜欢摄影但无绘画基础的中学生梳理了三项可参加的国际摄影竞赛：索尼青年世界摄影大赛、IJCYA 少美联赛和海洋意识竞赛。
+- [美国高中生数学建模比赛（HiMCM）来源](sources/himcm.md) — 本来源是新课堂（Thinktown）内部关于 HiMCM 的产品信息页，涵盖赛事背景、赛制、奖项和历年获奖记录。
+- [哈佛国际评论学术写作比赛 ACE 条目来源](sources/hir-academic-writing-contest-ace-entry.md) — 本来源为 Thinktown 内部竞赛知识库中 Harvard International Review Academic Writing Contest（HAWC）的 ACE 条目，汇总了赛事基本信息、历年主题、完整获奖记录及产品课程配置。
+- [哈佛国际评论写作比赛金奖专访来源](sources/hir-gold-medal-interview-daisy.md) — 本文为新课堂（Thinktown）发布的哈佛国际评论写作比赛金奖学员专访，记录了九年级学生 Daisy 以"新西兰底拖网捕捞"为题获得 2025 年夏季 HAWC 金奖的备赛与写作过程。
+- [新课堂历史旅行指南写作课程介绍来源](sources/historical-travel-guide-intro.md) — 本来源是新课堂学术探索项目中的"历史旅行指南（纽约篇）"写作课程简介图文，介绍课程概述、适合学生和教学团队。
+- [哈佛麻省理工大学数学竞赛（HMMT）来源](sources/hmmt.md) — 本来源是新课堂（Thinktown）内部关于哈佛-MIT 数学竞赛（HMMT）的产品信息页，涵盖赛事背景、赛制介绍、奖项设置以及新课堂提供的备赛课程信息。
+- [2024 HOSA 生物与健康挑战赛初阶站喜报来源](sources/hosa-2024-preliminary-results.md) — 本来源为 Thinktown 2024 年 HOSA 初阶站喜报海报，展示 4 名学员分别通过 BCE 公益健康、CCE 营养学和 ATC 生物项目晋级中国总决选。
+- [生物与健康未来领袖挑战赛来源](sources/hosa-competition.md) — 本来源为新课堂内部竞赛信息页，详细介绍 HOSA 生物与健康未来领袖研习社的基本信息、三大研习方向、赛程规则和历年获奖学员记录。
+- [IB-IA 化学避坑文章来源](sources/ib-ia-chemistry-tips.md) — 本文介绍了 IB 课程内部评估（IA）的考查方式及高分避坑指南，指出 IA 占总成绩 20%，列举了学生常犯的三个错误，并针对化学 IA 列举了选题、实验和撰写中的常见问题，建议寻求专业指导。
+- [IBO 2024 英国生物奥赛（中级）获奖喜报来源](sources/ibo-2024-awards-poster.md) — 本来源是 Thinktown 发布的 2024 年英国生物奥赛（中级）IBO 获奖喜报海报，展示了四位学员分别获得全球金奖、银奖、铜奖和优秀奖的成绩，其中两位学员成功晋级 IBO China Camp。
+- [ICQ ACE 数据页来源](sources/icq-ace-data.md) — 本来源为 Thinktown ACE 系统中国际化学知识竞赛（ICQ）的结构化数据页，记录了赛事基本信息、奖项设置及产品课程定价信息。
+- [IEO 2024–2025 初级站海报来源](sources/ieo-2024-2025-poster.md) — 本来源是 THINKTOWN 制作的 IEO 2024–2025 国际经济学奥林匹克学术活动初级站宣传海报，介绍了 2024–2025 赛季的组别设置（新秀组/专业组）、测评时间、Thinktown 培训课程（常规班 30 课时/冲刺班 10 课时）等信息。
+- [IEO China 2026 获奖喜报来源](sources/ieo-china-2026-awards-poster.md) — 本来源是 Thinktown 发布的 IEO China 2026 初级站获奖喜报海报，展示了学员在该赛季中国区初级站共斩获 30 枚全国奖牌的成绩。
+- [IEO China 2026 学生手册来源](sources/ieo-china-2026-student-handbook.md) — 本来源是 2025–2026 赛季国际经济学奥林匹克（IEO）中国区学术活动的官方学生手册，介绍了报名流程、三个组别的设置、时间节点、晋级与荣誉规则，以及官方平台与学术资源的使用方式。
+- [国际经济学奥林匹克竞赛概览及获奖记录来源](sources/ieo-overview-and-awards.md) — 本来源是 THINKTOWN 内部活动信息卡片，记录了 IEO 国际经济学奥林匹克的主办方、面向人群、赛程时间线（2022–2026 多个赛季）、奖项设置及 Thinktown 学员的历年获奖信息，并附有备赛课程产品信息。
+- [IHBB 国际奥林匹克历史竞赛 ACE 概览来源](sources/ihbb-ace-overview.md) — 本来源是 Thinktown 内部 ACE 系统中关于 IHBB（International History Bee and Bowl）的竞赛概览页面，包含赛事背景、赛制详情、历年获奖记录和产品信息。
+- [Thinktown 学子在 2024 IHBB 亚洲冠军赛获佳绩来源](sources/ihbb-asia-results-2024.md) — 本来源是 Thinktown 发布的 2024 年 IHBB 亚洲冠军赛获奖喜报，展示多名学生在初中组和高中组团队赛与个人赛中的成绩。
+- [IHBB 历史竞赛全解 Thinktown 来源](sources/ihbb-full-guide-thinktown.md) — 本来源是 Thinktown 微信公众号发布的 IHBB 竞赛全面解析文章，涵盖赛制、组别、备赛指南、学员案例和 Thinktown 师资介绍。
+- [IHBB 国际历史竞赛获奖总览来源](sources/ihbb-history-competition-results.md) — Thinktown（新课堂）发布的 IHBB（International History Bee and Bowl）获奖情况总览海报，涵盖截至 2026 年的三个完整赛季（2023–2024、2024–2025、2025–2026）的地区赛获奖记录。
+- [IHBB 国际奥林匹克历史竞赛海报来源](sources/ihbb-poster.md) — 本来源是一张 Thinktown 制作的 IHBB 国际奥林匹克历史竞赛产品介绍海报，概述了赛事组别、赛制、晋级规则及课程内容。
+- [新课堂 IHBB 国际历史竞赛产品手册来源](sources/ihbb-sba-handbook.md) — 本来源是新课堂国际教育发布的 IHBB 产品手册 v2，详细介绍赛事背景、赛制、课程内容、团队配置和常见问题。
+- [iHOSA Guide（生物）from Thinktown 来源](sources/ihosa-guide-thinktown.md) — 本来源为 Thinktown 制作的 iHOSA 备赛课程宣传图，介绍赛事信息、奖项设置、课程内容和师资团队。
+- [2023 IJCYA 少美联赛喜报来源](sources/ijcya-2023-results.md) — 本来源为 Thinktown 发布的 2023 年青少年美术家国际联赛（IJCYA）获奖喜报海报，展示了多名学员在大师赛和锦标赛中的获奖成绩。
+- [少美联赛获奖专访（袁同学）来源](sources/ijcya-interview-yuan.md) — 本来源是新课堂对袁同学的专访文章，讲述了其凭借作品《鲸鱼的守护》获得 2022 年少美联赛大师赛三等奖的经历，以及绘画爱好与心理学志向之间的平衡。
+- [国际医学与疾病奥林匹克竞赛来源](sources/imdo-olympiad.md) — 本来源为新课堂内部竞赛信息页，介绍国际医学与疾病奥林匹克竞赛（IMDO）的基本信息、考试内容和赛程时间线。
+- [国际数学建模挑战赛（IMMC）来源](sources/immc.md) — 本来源是新课堂（Thinktown）内部关于国际数学建模挑战赛（IMMC/IM²C）的产品信息页，涵盖赛事背景、赛制和赛程安排。
+- [专访 Thinktown 策展人俊竹来源](sources/independent-curator-junzhu.md) — 本来源为 Thinktown 微信公众号发布的高中生策展人俊竹专访，讲述了她通过独立策展人项目举办跨界展览《和 Flores 去旅行》并获得多所名校录取的经历。
+- [独立策展人概览来源](sources/independent-curator-overview.md) — 本来源为 Thinktown 内部竞赛数据库中独立策展人项目的结构化条目，记录了项目基本信息、产品定价与联络人。
+- [独立策展人 V2 宣传页来源](sources/independent-curator-poster.md) — 本来源为 Thinktown 发布的独立策展人项目升级宣传页，介绍了三个课程版本和四个策展案例。
+- [Thinktown 独立策展人学术顾问计划产品手册来源](sources/independent-curator-sba.md) — 本来源为 Thinktown 发布的独立策展人单科学术顾问计划（艺术史）产品手册，详细记录了线下和线上两种展览方案的 14 课时服务流程、团队配置及两个学生策展案例。
+- [独立策展人项目全解——Thinktown 来源](sources/independent-curator-thinktown.md) — 本来源为 Thinktown 微信公众号发布的独立策展人项目全面介绍文章，展示了师资团队、三名录取名校的学生案例及常见问题解答。
+- [国际摄影杂志介绍页面来源](sources/international-photo-magazines-intro.md) — 本来源是新课堂内部系统的"国际摄影杂志"介绍页面，记录了通过 Kavyar 平台向多国摄影杂志投稿的机制、学员作品收录情况及对应产品信息。
+- [摄影作品荣登国际摄影杂志喜报来源](sources/international-photo-magazines-results.md) — 本来源是新课堂发布的 2025–2026 年度摄影学员成果喜报，展示了五位学员的风景摄影作品被多国国际摄影杂志收录的情况，并附有摄影辅导课程简介。
+- [国际心理学奥林匹克（IPsyO）赛事介绍来源](sources/international-psychology-olympiad.md) — 本来源是 THINKTOWN 新课堂发布的国际心理学奥林匹克竞赛（International Psychology Olympiad, IPsyO）赛事介绍文档，涵盖竞赛简介、赛事特点、适合学生群体、课程知识框架和师资信息。
+- [2026 年爱荷华青年作家写作营来源](sources/iowa-young-writers-studio-poster.md) — 本来源为新课堂（Thinktown）制作的 2026 年爱荷华青年作家写作营（Iowa Young Writers' Studio）宣传海报，详细介绍了两个项目形式的时间安排、申请要求和 Thinktown 录取情况。
+- [简·奥斯汀论文竞赛 ACE 条目来源](sources/jane-austen-essay-contest-ace-entry.md) — 本来源为 Thinktown 内部竞赛知识库中 Jane Austen Essay Contest 的 ACE 条目，汇总了赛事基本信息、历年赛题、奖项设置及产品课程配置。
+- [简·奥斯汀论文竞赛参赛指南及辅导介绍来源](sources/jane-austen-essay-contest-handbook.md) — 本来源为新课堂（Thinktown）制作的简·奥斯汀论文竞赛（JASNA Essay Contest）参赛指南 PPT，介绍了赛事基本要求、时间线、辅导服务及师资团队。
+- [简·奥斯汀论文竞赛单科学术顾问计划来源](sources/jane-austen-single-subject-plan.md) — 本来源为新课堂（Thinktown）简·奥斯汀论文竞赛单科学术顾问计划（英语）产品手册（V2），详细介绍了赛事背景、产品模块、报名流程、能力测试及师资配置。
+- [简·奥斯汀论文竞赛介绍及辅导课程来源](sources/jasna-essay-contest.md) — 本来源是 Thinktown 制作的简·奥斯汀论文竞赛（JASNA Essay Contest）指南，介绍赛事规则、往年题目及 Thinktown 提供的辅导服务。
+- [JCCO 2025 获奖喜报来源](sources/jcco-2025-awards-poster.md) — 本来源是 Thinktown 发布的 2025 年加拿大化学测评（初级）JCCO 获奖喜报海报，展示了江同学获得全球优秀奖（Special Merit Award）和全国银奖（China National Silver）的成绩。
+- [JCCO ACE 数据页来源](sources/jcco-ace-data.md) — 本来源为 Thinktown ACE 系统中 JCCO 加拿大初级化学奥林匹克竞赛的结构化数据页，记录了 2021–2026 年的赛程时间线、学员获奖明细及产品课程定价信息。
+- [JCCO 备赛课程手册来源](sources/jcco-course-handbook.md) — 本文档为 Thinktown 推出的 JCCO 化学竞赛备考产品说明，详细拆解了赛事历史、考查形式、时间节点、考点分布及奖项分数线，并系统规划了面向 8–11 年级学生的定制化辅导方案。
+- [JCCO 微信推文来源](sources/jcco-intro-article.md) — 本文介绍了 JCCO 加拿大初级化学奥林匹克活动的背景、考试概况、奖项设置、难度分析及备考时间规划，指出其作为入门级竞赛难度适中，适合 8–11 年级学生。
+- [JCCO 指南海报来源](sources/jcco-thinktown-guide.md) — 本文是 Thinktown 制作的 JCCO 加拿大初级化学奥赛指南海报，概述了赛事背景、适合学生、考试形式和服务亮点。
+- [约翰霍普金斯大学数学竞赛来源](sources/jhmt.md) — 本来源为约翰斯·霍普金斯大学数学思维挑战活动（JHMT）的活动卡片，介绍了该赛事的历史（1993 年创办）、面向群体（G6–G12）、赛制（团队证明题与个人简答题）以及奖项设置。
+- [John Locke 2025 终选结果喜报来源](sources/john-locke-2025-final-results.md) — Thinktown 发布的 2025 年 John Locke 论文竞赛全球终选结果喜报海报，展示 11 位学员分别获得 High Commendation、Commendation、Recognition 及 Junior Prize 等荣誉。
+- [2026 年 John Locke 论文竞赛放题及变动来源](sources/john-locke-2026-new-subjects.md) — 本文报道了 2026 年 John Locke 论文竞赛的重大赛制变动：首次新增科学与技术、公共政策、国际关系三个学科，学科总数从 7 个扩展至 10 个；Junior 低龄组不再单独设题。
+- [John Locke 论文竞赛 ACE 条目来源](sources/john-locke-ace-entry.md) — 本来源为 Thinktown 内部竞赛知识库中 John Locke Essay Competition 的 ACE 条目，汇总了赛事基本信息、历年时间线、获奖学生名单及产品课程配置。
+- [John Locke 论文竞赛产品海报来源](sources/john-locke-product-poster.md) — 本来源是 Thinktown 发布的约翰洛克论文比赛赛事介绍与辅导产品宣传海报，详述了十大学科设置、全程 1v1 辅导方案和适合学生画像。
+- [John Locke 心理学类别获奖喜报 2022-2025 来源](sources/john-locke-psychology-results-2022-2025.md) — Thinktown 发布的 2022-2025 年 John Locke 论文竞赛心理学类别获奖喜报海报，汇总了 7 位学员在该类别中获得的 Shortlist、High Commendation、Recognition 等荣誉，附有 John Locke Institute 官方通知邮件截图。
+- [John Locke 心理学获奖喜报来源](sources/john-locke-psychology-results.md) — 本来源是 THINKTOWN 发布的 2022–2025 年约翰洛克论文竞赛（John Locke Essay Competition）心理学领域获奖喜报，公布了 7 名学生在 High Commendation、Commendation 和 Recognition 三个等级的获奖情况。
+- [John Locke 神学类别备赛指南来源](sources/john-locke-theology-prep-guide.md) — 本文为新课堂（Thinktown）发布的 2026 年 John Locke 写作大赛神学类别备赛指南，指出神学题目不考察教义知识或信仰立场，而重在理性分析与逻辑论证，并建议将神学问题转化为认识论问题、掌握三大核心母题。
+- [JSR 投稿成功案例喜报来源](sources/jsr-publication-success-poster.md) — 本来源是 Thinktown 发布的杭州外国语学校潘同学成功在 Journal of Student Research（JSR）发表文学论文的喜报海报，介绍了文学评论家项目（Literary Critic Program）及 JSR 期刊基本信息。
+- [Kaggle 大数据竞赛 ACE 资料卡来源](sources/kaggle-ace.md) — 本来源是新课堂（Thinktown）内部关于 Kaggle 大数据竞赛的资料卡，介绍了平台背景、赛制、奖项设置、参赛时间线及备赛产品信息。
+- [Kaggle GoDaddy 大数据竞赛 2023 喜报来源](sources/kaggle-godaddy-2023-results.md) — Thinktown（新课堂）发布的 2023 年 Kaggle 大数据竞赛喜报。
+- [Kaggle 大数据竞赛 Thinktown 指南来源](sources/kaggle-thinktown-guide.md) — 本来源是新课堂（Thinktown）制作的 Kaggle 大数据竞赛备赛指南宣传材料（图片转文本），详细介绍了赛事特点、三阶段课程体系（基础知识、模拟训练、真实赛事）、适合学生画像及常见问题解答。
+- [凯尼恩青年作家工作室指南来源](sources/kenyon-young-writers.md) — 本来源是 Thinktown 制作的凯尼恩青年作家工作室（Kenyon Review Young Writer's Workshops）夏校申请指南，涵盖线下驻地与线上工作室两种项目形态。
+- [领袖思维训练营英语PBL课程来源](sources/leadership-thinking-camp-pbl.md) — 本来源是新课堂（Thinktown）推出的"领袖思维训练营：从乔布斯到马斯克"英语PBL项目宣传文档，介绍了课程分级体系、跨学科整合方向和最终成果形式。
+- [新课堂文学评论家单科学术顾问计划产品手册来源](sources/literary-critic-handbook.md) — 本来源是新课堂"文学评论家单科学术顾问计划（英语）"的完整产品手册，详细介绍了课程模块设计、适合学员画像、报名流程、团队配置及学生案例。
+- [新课堂文学评论家英语论文项目介绍及案例来源](sources/literary-critic-presentation.md) — 本来源为新课堂内部例会分享的演示文稿，展示了文学评论家英语论文项目的定位、流程、学生案例及 JSR 期刊投稿情况，包含潘同学和楼同学两个详细案例。
+- [文学评论家论文项目（ACE 条目）来源](sources/literary-critic-program-ace.md) — 本来源为新课堂内部 ACE 系统中"文学评论家论文项目"的条目页面，记录了该项目的基本信息、时间线、获奖案例及产品定价等概要数据。
+- [文学评论家英语论文项目海报来源](sources/literary-critic-program-poster.md) — 本来源为新课堂（Thinktown）"文学评论家"英语论文项目的宣传海报，简要介绍了项目定位、学习形式和成果产出。
+- [新课堂 PBL 商业项目：瑞幸咖啡低价盈利之谜来源](sources/luckin-coffee-pbl.md) — 本来源是新课堂（Thinktown）PBL 商业探索项目的课程海报，主题为"为什么瑞幸咖啡可以卖得比星巴克便宜很多，却仍然能够盈利？"，介绍了 7 课时的跨学科课程设计、适合学生和四项最终成果。
+- [马歇尔学会经济论文竞赛概览来源](sources/marshall-society-overview.md) — 本来源是 THINKTOWN 内部活动信息卡片，概述了剑桥大学马歇尔学会经济论文竞赛的主办方、面向人群、比赛要求、奖项设置及历年赛程时间线，并附有 Thinktown 产品信息。
+- [马歇尔经济论文竞赛及 THINKTOWN 辅导计划来源](sources/marshall-thinktown-guide.md) — 本来源是 THINKTOWN 制作的马歇尔学会经济论文竞赛产品推介书，详细介绍赛事背景、规则、2023 年赛题、奖项设置，以及 THINKTOWN 学术顾问计划的培训内容（14–24 课时）、适合学员画像和常见问题。
+- [袋鼠数学竞赛来源](sources/math-kangaroo.md) — 本来源为袋鼠数学思维趣味活动（Math Kangaroo）的中国区活动卡片，由阿斯丹国际教育发布，介绍了活动背景、面向年级（G1–G12）、六个难度等级、评分标准、奖项设置以及 2024–2026 赛季的时间安排。
+- [旋律时光机播客 PBL 项目来源](sources/melodies-and-memories-podcast-project.md) — 本来源为新课堂（Thinktown）学术探索英语项目"旋律时光机：我的音乐故事播客"（Melodies and Memories: My Story Through Music Podcast）的宣传海报，介绍了项目概述、跨学科整合方向和最终产出。
+- [美国初中生数学建模比赛来源](sources/midmcm.md) — 本来源为美国初中生数学建模竞赛（MidMCM）的活动卡片，介绍了该赛事由 COMAP 主办、面向 G7–G9 学生、以团队形式在 14 天内完成数学建模论文提交的赛制。
+- [音乐与历史跨学科 PBL 来源](sources/music-history-pbl.md) — 本来源为新课堂"改变人心的历史之歌：音乐与历史的交汇"PBL 课程介绍海报，描述了课程模块、适合学员、研究主题示例及授课团队。
+- [音乐制作人来源](sources/music-producer.md) — 本来源为新课堂 ACE 系统中"音乐制作人"（Music Producer）课程卡片，介绍了该项目作为音乐创作类学术顾问计划的背景与产品信息。
+- [NASA 学生艺术竞赛 ABC 课程产品手册来源](sources/nasa-art-abc-course.md) — 本来源为新课堂国际教育发布的 NASA 学生艺术竞赛 ABC 课程产品手册，介绍了赛事背景、辅导框架、导师团队和作品提交规范。
+- [NASA 学生艺术竞赛概览来源](sources/nasa-art-overview.md) — 本来源为 Thinktown 内部竞赛数据库中 NASA 学生艺术竞赛的结构化条目，记录了赛事基本信息、历年赛程和产品定价。
+- [NEC 2025-2026 初级站指南来源（Thinktown）](sources/nec-2025-2026-guide.md) — 本来源是 THINKTOWN 制作的 2025–2026 赛季 NEC 全美经济学素养研习活动初级站指南海报（图片），介绍赛事简介、组别设置、测评形式、Thinktown 班课安排（30/40 节）及核心数据。
+- [NEC 2026 全美经济学挑战赛喜报来源](sources/nec-2026-china-results.md) — Thinktown（新课堂）发布的 2026 年 NEC（National Economics Challenge）China National Economics Challenge 喜报。
+- [全美经济学素养研习活动概览及获奖记录来源](sources/nec-overview-and-awards.md) — 本来源是 THINKTOWN 内部活动信息卡片，系统记录了 NEC 全美经济学挑战赛（又称全美经济学素养研习活动）的主办方、面向人群、组别设置、赛程时间线（2020–2026 多个赛季）、详细奖项设置以及 Thinktown 学员的历年获奖信息。
+- [NEC 全美经济挑战赛全解来源（Thinktown 辅导成果）](sources/nec-thinktown-results.md) — 本来源是 THINKTOWN 发布的微信公众号文章，全面介绍了其在 NEC 全美经济学挑战赛中的辅导成果（2018 年至今累计 618 枚奖牌、27 人次晋级全球站）、学术顾问团队背景、教学特色及学生反馈，并宣布 2025 赛季 CNEC 已开放报名。
+- [国家历史日 ACE 概览来源](sources/nhd-ace-overview.md) — 本来源是 Thinktown 内部 ACE 系统中关于国家历史日（NHD）的竞赛概览页面，包含基本信息、赛程时间线、历年获奖记录和产品信息。
+- [NHD 华盛顿州冠军 Flora 专访来源](sources/nhd-flora-interview.md) — 本来源是 Thinktown 微信公众号发布的学生 Flora（H 同学）专访文章，讲述她以"1885 年塔科马排华事件"为主题获 NHD 竞赛华盛顿州第一名的经历。
+- [NHD 历史竞赛全解 Thinktown 来源](sources/nhd-full-guide-thinktown.md) — 本来源是 Thinktown 微信公众号发布的 NHD 竞赛全面解析文章，涵盖赛事含金量、作品形式、历年主题、奖项设置、学员案例及备赛指南。
+- [新课堂国家历史日学术顾问计划产品手册来源](sources/nhd-sba-handbook.md) — 本来源是新课堂国际教育发布的 NHD 单科/跨科学术顾问计划产品手册 v1.4，详细介绍服务内容、课时配置、团队配置、学生案例和常见问题。
+- [THINKTOWN 学子在国家历史日竞赛屡获佳绩来源](sources/nhd-thinktown-results.md) — 本来源是 Thinktown 发布的 NHD 竞赛获奖喜报，展示 2021–2026 年学员在各地赛区的获奖战绩。
+- [国家历史日赛事介绍及 Thinktown 辅导服务来源](sources/nhd-thinktown-services.md) — 本来源是 Thinktown 制作的 NHD 赛事介绍图文，概述赛事亮点、往年题目、Thinktown 辅导服务及历年获奖记录。
+- [纽约与长岛探险英语分级课程大纲来源](sources/nyc-exploration-graded-syllabus.md) — 本来源是 Urban Odyssey 课程的英语分级教学大纲，详细描述了基础、中级和高级三个级别的课程设置、教学环节和作业要求。
+- [纽约时报说明文写作比赛来源](sources/nyt-informational-writing.md) — 本来源为新课堂（Thinktown）内部学科竞赛条目（ACE 系统），介绍纽约时报说明文写作比赛（NYT "How to…" Informational Writing Contest）的基本信息、赛程时间线、奖项设置及新课堂对应的单科学术顾问计划产品。
+- [纽约时报叙事写作比赛指南（Thinktown 海报）来源](sources/nyt-narrative-writing-guide.md) — 本来源为 Thinktown 制作的纽约时报叙事写作比赛宣传海报（2025 年 7 月 31 日 V3 版），包含赛事介绍、辅导亮点、适合学生和历年获奖情况。
+- [纽约时报叙事写作比赛来源](sources/nyt-narrative-writing.md) — 本来源为新课堂内部学科竞赛条目（ACE 系统），介绍纽约时报叙事写作比赛（100-Word Personal Narrative Contest）的基本信息、历年赛程及对应的单科学术顾问计划产品。
+- [纽约时报公开信写作比赛 2025 喜报来源](sources/nyt-open-letters-2025-results.md) — Thinktown 发布的 2024–25 赛季纽约时报公开信写作比赛喜报海报，包含学员获奖成绩及赛事简介，并提及纽约时报夏季读写比赛开赛信息。
+- [纽约时报公开信写作比赛指南（Thinktown 海报）来源](sources/nyt-open-letters-guide.md) — 本来源为 Thinktown 制作的纽约时报公开信写作比赛宣传海报（2025 年 7 月 31 日 V4 版），涵盖赛事介绍、辅导亮点、适合学生和时间安排。
+- [纽约时报公开信写作比赛来源](sources/nyt-open-letters.md) — 本来源为新课堂内部学科竞赛条目（ACE 系统），介绍纽约时报公开信写作比赛（NYT Open Letters Opinion Writing Contest）的基本信息、历年赛程及对应产品。
+- [NYT 摄影竞赛 2024 获奖喜报来源](sources/nyt-photo-essay-2024-results.md) — 本来源是 Thinktown 发布的 2024 年纽约时报"Where We Are"摄影竞赛（Photo Essay Contest）获奖喜报，展示了 Long 同学和 Ye 同学的获奖成绩。
+- [新课堂 2026 纽约时报 Photo Essay 竞赛喜报来源](sources/nyt-photo-essay-2026-results.md) — 本来源为新课堂（Thinktown）发布的 2026 年纽约时报 Photo Essay 艺术竞赛获奖喜报，展示了学生获奖成果和竞赛基本信息。
+- [新课堂纽约时报摄影竞赛学术顾问计划手册来源](sources/nyt-photo-essay-academic-plan.md) — 本来源为新课堂正式产品手册（2025 年 9 月 3 日 V3 版），系统介绍纽约时报摄影竞赛跨科学术顾问计划的课程内容、团队配置、学生案例和常见问题。
+- [纽约时报摄影竞赛 ACE 条目来源](sources/nyt-photo-essay-ace.md) — 本来源为新课堂内部学科竞赛条目（ACE 系统），介绍纽约时报摄影竞赛（Where We Are: Photo Essays About Community）的基本信息、历年赛程、获奖情况及对应的跨科学术顾问计划产品。
+- [纽约时报摄影竞赛海报及 Thinktown 辅导来源](sources/nyt-photo-essay-poster.md) — 本来源为 Thinktown 制作的纽约时报"Where We Are"摄影竞赛宣传海报，包含赛事介绍、Thinktown 辅导项目亮点、学生获奖案例和适合学生画像。
+- [纽约时报摄影写作竞赛全解（Thinktown 微信文章）来源](sources/nyt-photo-essay-thinktown-guide.md) — 本来源为 Thinktown 微信公众号发布的长文，全面介绍纽约时报摄影写作竞赛的赛事特点、参赛价值、Thinktown 辅导方案及学生获奖案例。
+- [新课堂纽约时报播客竞赛学术顾问计划手册来源](sources/nyt-podcast-academic-plan.md) — 本来源为新课堂正式产品手册（2025 年 4 月 5 日 v2 版），系统介绍纽约时报播客竞赛学术顾问计划的背景、课程内容、适合学员、报名流程、价格优惠、团队配置和学生案例。
+- [纽约时报播客挑战比赛 ACE 条目来源](sources/nyt-podcast-challenge-ace.md) — 本来源为新课堂内部学科竞赛条目（ACE 系统），介绍纽约时报播客挑战比赛（New York Times Podcast Challenge Contest）的基本信息、2026 年赛程规则和对应产品。
+- [纽约时报播客挑战赛 Thinktown 宣传海报来源](sources/nyt-podcast-challenge-thinktown-poster.md) — Thinktown 发布的纽约时报播客挑战赛（NYT Podcast Contest）宣传海报，涵盖赛事介绍、适合学生类型、2026 年提交时间及 Thinktown 辅导服务内容。
+- [新课堂纽约时报播客竞赛 SBA 产品介绍来源](sources/nyt-podcast-sba-intro.md) — 本来源为新课堂内部 SBA（Single-subject Business Area）产品介绍文档，详细介绍纽约时报播客竞赛的背景、SBA 辅导产品方案、服务模块、师资、学生案例及常见问题。
+- [NYT 播客挑战微信公众号文章来源](sources/nyt-podcast-wechat-article.md) — 本来源为新课堂（Thinktown）微信公众号发布的推广文章，以感性号召的口吻介绍纽约时报播客竞赛，重点阐述参赛价值和 Thinktown 的辅导服务。
+- [纽约时报评论比赛来源](sources/nyt-review-contest.md) — 本来源为新课堂内部学科竞赛条目（ACE 系统），介绍纽约时报评论比赛（NYT Review Contest）的基本信息、历年赛程、获奖情况及对应的跨科学术顾问计划产品。
+- [纽约时报夏季读写比赛来源](sources/nyt-summer-reading-contest.md) — 本来源为新课堂内部学科竞赛条目（ACE 系统），介绍纽约时报夏季读写比赛（NYT Summer Reading Contest）的基本信息、历年赛程及对应的单科学术顾问计划产品。
+- [纽约时报夏季读写比赛指南（Thinktown 海报）来源](sources/nyt-summer-reading-guide.md) — 本来源为 Thinktown 制作的纽约时报夏季读写比赛宣传海报（2025 年 7 月 31 日 V4 版），概括了赛事规则、参赛要求和 Thinktown 提供的 1v1 辅导服务。
+- [海洋意识竞赛来源](sources/oac-competition.md) — 本来源为新课堂内部竞赛信息页，介绍海洋意识竞赛（OAC）的基本信息、历年主题和赛程安排、奖项设置和产品课程信息。
+- [海洋意识竞赛 OAC Guide from Thinktown 来源](sources/oac-guide-thinktown.md) — 本来源为 Thinktown 制作的海洋意识竞赛备赛课程宣传图，介绍赛事背景、项目亮点、适合学生和辅导内容。
+- [海洋意识竞赛及辅导课程介绍来源](sources/oac-poster-2026.md) — 本来源为 Thinktown 2025 年 12 月制作的海洋意识竞赛（OAC）宣传海报，介绍竞赛基本信息、2026 年主题、参赛类型和辅导内容。
+- [新课堂 OAC 多科学术顾问计划产品手册来源](sources/oac-product-handbook.md) — 本来源为新课堂 2025 年 4 月版 OAC 多科学术顾问计划产品手册（v1.9），详细描述了海洋意识竞赛备赛的六个辅导方案（写作/艺术/音乐/电影），包括服务内容、课时配置、适合学员、导师团队和价格体系。
+- [THINKTOWN新课堂口述叙事写作课程介绍来源](sources/oral-storytelling-course.md) — 本来源是新课堂学术探索项目"写作与表达：口述叙事"的课程宣传页，介绍了课程概述、适合学生、课程内容与教学团队。
+- [PBL 课程开发文档版本与进度记录表来源](sources/pbl-course-dev-tracking-table.md) — 本来源是 Thinktown 内部的项目式学习（PBL）课程开发文档版本控制与进度跟踪表，记录了"数字游民"及"微回忆录"等主题在不同难度级别下的课程开发进度。
+- [PBL产品客户沟通指南来源](sources/pbl-customer-communication-guide.md) — 本来源是新课堂（Thinktown）PBL产品线的内部客户沟通指南（CCG v2），由Cory编写，面向前台同事，以咨询话术形式解答客户关于PBL产品定义、课程规划、交付保障和升学产出的常见疑虑，并逐一拆解了二十余门单项PBL课程的话术要点。
+- [PBL 基因编辑与前沿文献精读生物课程介绍来源](sources/pbl-gene-editing-course-spec.md) — 本来源为新课堂 2026 年 5 月版 PBL 基因编辑与前沿文献精读（生物）单学术顾问计划产品说明，详细描述项目定位、标准化 PBL 内容、先修要求、项目成果和课程规格。
+- [PBL 历史旅行指南：纽约篇课程来源](sources/pbl-historical-travel-guide-new-york-course.md) — 本来源是一份中文课程产品说明，介绍以 1920 年代纽约市为主题的项目制历史写作课程。
+- [新课堂经济学 PBL 项目：一周生存预算挑战来源](sources/pbl-one-week-survival-budget.md) — 本来源是 THINKTOWN（新课堂）制作的经济学 PBL 项目宣传页，介绍了"一周生存预算挑战"项目的概要、跨学科整合内容、适合年级及最终交付物。
+- [新课堂历史 PBL 项目"记录被忽视的小人物"来源](sources/pbl-overlooked-figures.md) — 本来源是新课堂推出的"我眼中的小人物：记录被历史忽视的声音"线上 1 对 1 历史 PBL 项目介绍。
+- [宠物日记写作PBL课程申请与课前评估问卷来源](sources/pet-diaries-application.md) — 本来源是宠物日记写作 PBL 课程的申请与课前评估问卷，用于收集学生信息以帮助导师开展针对性教学。
+- [新课堂宠物日记创意写作课程海报来源](sources/pet-diaries-course-poster.md) — 本来源为新课堂（Thinktown）学术探索项目"写作与表达：宠物日记"的宣传海报，介绍了课程概述、适合学生、课程内容框架和教学团队。
+- [宠物日记写作项目式学习课程产品手册来源](sources/pet-diaries-handbook.md) — 本来源是新课堂"宠物日记写作"PBL 课程的完整产品手册（中英双语），详细介绍了 9 个模块的课程内容、目标客户、报名流程、教师背景及常见问题。
+- [宠物日记写作课前任务指南来源](sources/pet-diaries-pre-task-guide.md) — 本来源为新课堂（Thinktown）宠物日记写作课程的课前写作任务文档，要求学生完成一篇 150–250 字的英文短故事"A Day My Pet Changed Something"。
+- [宠物日记写作提示目录及分级指南来源](sources/pet-diaries-prompt-catalog.md) — 本来源为新课堂（Thinktown）宠物日记写作课程配套的写作提示目录（Prompt Catalog），根据年级和英语水平将学生分为四个级别，并提供 30 种写作体裁与主题的详细指导。
+- [非艺术生摄影专访（X 同学）来源](sources/photo-magazine-student-interview.md) — 本来源是新课堂对高中生 X 同学的专访文章，讲述了其在新课堂艺术科老师指导下，十余张风景摄影作品被多国摄影杂志收录（含《FIGGI》封面）的经历，分享了摄影理念与建议。
+- [物理碗 Physics Bowl 来源](sources/physics-bowl.md) — 本来源是新课堂（Thinktown）内部关于物理碗（Physics Bowl）的竞赛资料卡，介绍了该赛事的主办方、赛制、分组规则、奖项设置、2021–2026 多个赛季的时间安排、学员获奖记录及备赛产品信息。
+- [剧本创作项目来源（Thinktown 微信文章）](sources/playwriting-project-thinktown.md) — 本来源为新课堂微信公众号发布的剧本创作项目全解析文章，展示了学员录取成果、师资力量、教学方法、学生案例及常见问答。
+- [播客竞赛讨论文来源](sources/podcast-competition-discussion.md) — 本来源是 Thinktown 发布的关于播客趋势与学生播客创作的讨论文章，分析了播客行业现状、学生参与播客创作的意义及相关赛事信息。
+- [六课时诗歌创作课程大纲来源](sources/poetry-creation-course-outline.md) — 本来源为新课堂（Thinktown）诗歌创作课程的六课时详细教学大纲，涵盖诗歌主题与意象、主题脑暴、技法讲解、作品修改及最终产出。
+- [新课堂诗歌创作课程介绍来源](sources/poetry-creation-course.md) — 本来源是新课堂学术探索项目"写作与表达：诗歌创作"的课程宣传页。
+- [PBL创意写作诗歌单科学术顾问计划产品介绍来源](sources/poetry-sba-handbook.md) — 本来源是新课堂"单科学术顾问计划（PBL 创意写作-写作-诗歌）"的产品手册，涵盖课程内容、适合学生、教学团队及学生案例。
+- [人像摄影故事创作 PBL 课程来源](sources/portrait-photography-story-pbl.md) — Thinktown PBL-Art 课程"像导演那样拍照：人像摄影故事创作"的宣传海报，涵盖课程概述、教学内容、师资介绍及适合学生类型。
+- [普林斯顿十分钟剧本竞赛来源（ACE 页面）](sources/princeton-ace.md) — 本来源为新课堂 ACE 系统中普林斯顿十分钟剧本创作比赛的课程卡片，介绍了主办方、参赛要求、奖项设置及辅导产品信息。
+- [普林斯顿大学数学竞赛来源](sources/princeton-math-competition.md) — 本来源为普林斯顿大学数学竞赛（PUMaC）的活动卡片，介绍了该竞赛作为全美顶尖高中数学赛事之一的定位、赛制（力量赛与主竞赛）、奖项设置及时间安排。
+- [普林斯顿十分钟剧本竞赛来源（Thinktown 指南）](sources/princeton-thinktown-guide.md) — 本来源为新课堂制作的普林斯顿十分钟剧本竞赛指南图片的文字提取，补充了推荐理由、参赛截止日期规则及报名满额关闭等信息。
+- [青年科学家数学计划（PROMYS）来源](sources/promys.md) — 本来源是新课堂（Thinktown）内部关于青年科学家数学计划（PROMYS）的产品信息页，涵盖项目背景、申请要求和课程安排。
+- [2025 新课堂心理学竞赛年度报告来源](sources/psychology-competitions-2025-report.md) — 本来源是 THINKTOWN 微信公众号发布的 2025 年度心理学竞赛年度报告，回顾了 Brain Bee、John Locke 和 BPO 三项赛事的参与情况，展示了学生成绩案例，并介绍了 Thinktown 心理学竞赛辅导团队的师资与教学方法。
+- [2026 高含金量心理学竞赛盘点来源](sources/psychology-competitions-2026-roundup.md) — 本来源是 THINKTOWN 微信公众号发布的心理学竞赛规划指南文章，从时间规划、个人特长和国际课程契合度三个维度，解析了 BPO、Brain Bee、John Locke、IPsyO 和 iHOSA 五大心理学竞赛的特点，为学生提供了选赛与备赛建议。
+- [心理发现家项目来源](sources/psychology-discovery-program.md) — 本来源是 THINKTOWN 新课堂内部 ACE 系统中关于"心理发现家项目"（Psychology Discovery Program）的产品信息页面，介绍了项目定位、研究课题示例、时间安排和课程定价。
+- [普林斯顿大学物理竞赛来源](sources/pupc.md) — 本来源是新课堂（Thinktown）内部关于普林斯顿大学物理竞赛（PUPC）的资料卡，介绍了该赛事的主办方、赛制、奖项设置及历年时间安排。
+- [紫色彗星数学竞赛来源](sources/purple-comet.md) — 本来源是新课堂（Thinktown）内部关于紫色彗星数学联赛（Purple Comet! Math Meet）的产品信息页，涵盖赛事背景、赛制和奖项设置。
+- [莎士比亚戏剧重写课程来源（海报 V1）](sources/rewriting-shakespeare-poster-v1.md) — 本来源为新课堂"用现代英语重写莎士比亚"PBL 戏剧课程海报（7 课时版本），介绍了课程概述、分级体系、课程特色与成果导向。
+- [莎士比亚戏剧重写课程来源（海报 V2）](sources/rewriting-shakespeare-poster-v2.md) — 本来源为新课堂"用现代英语重写莎士比亚"PBL 课程海报（8 课时版本），与 V1 版本内容高度一致但课时数不同。
+- [文字之河诗歌写作竞赛指南来源](sources/river-of-words-contest.md) — 本来源是 Thinktown 制作的文字之河（River of Words）诗歌写作竞赛指南，介绍赛事历史、参赛形式及辅导服务。
+- [罗斯数学训练营（Ross）来源](sources/ross.md) — 本来源是新课堂（Thinktown）内部关于罗斯数学训练营（Ross Mathematics Program）的产品信息页，涵盖项目背景、课程内容和历年录取记录。
+- [新加坡高级学府数学竞赛来源](sources/sasmo.md) — 本来源为新加坡及亚洲学校数学奥林匹克（SASMO）的活动卡片，由 SIMCC 主办，介绍了竞赛背景、面向年级（G2–G12）、评分规则、奖项设置以及 2024–2026 赛季的赛程与获奖学生名单。
+- [拯救青蛙艺术大赛 2023 年喜报来源](sources/save-the-frogs-2023-results.md) — 本来源为 Thinktown 发布的 2022–2024 年拯救青蛙艺术大赛获奖喜报海报，展示了该机构连续两年有学生获奖的成绩，并附有赛事基本统计数据。
+- [拯救青蛙艺术大赛 2024 年喜报来源](sources/save-the-frogs-2024-results.md) — 本来源为 Thinktown 发布的 2024 年拯救青蛙艺术大赛获奖喜报海报，展示该机构连续第三年有学生获奖。
+- [拯救青蛙艺术大赛介绍与辅导说明来源](sources/save-the-frogs-intro-poster.md) — 本来源为 Thinktown 发布的拯救青蛙艺术大赛介绍海报，概述了赛事基本信息、奖项设置和辅导内容。
+- [新课堂拯救青蛙艺术大赛辅导计划产品手册来源](sources/save-the-frogs-sba.md) — 本来源为新课堂国际教育发布的拯救青蛙艺术大赛单科学术顾问计划（SBA）产品手册，详细拆解了 12 课时的标准化辅导流程、教师团队、学生案例及常见问题。
+- [拯救青蛙获奖学生专访——沈同学来源](sources/save-the-frogs-shen-interview.md) — 本来源为 Thinktown 微信公众号发布的 2024 年拯救青蛙艺术大赛获奖学生专访，采访了 10 年级沈同学的参赛经历、跨学科思维以及 Thinktown 艺术教学方法。
+- [拯救青蛙艺术大赛概览来源](sources/save-the-frogs-system-overview.md) — 本来源为 Thinktown 内部竞赛数据库中拯救青蛙艺术大赛的结构化条目，记录了赛事基本信息、历年赛程与 Thinktown 学员获奖数据。
+- [拯救青蛙艺术大赛全解——Thinktown 来源](sources/save-the-frogs-thinktown.md) — 本来源为 Thinktown 微信公众号发布的拯救青蛙艺术大赛全面介绍文章，详细阐述了赛事适合中国学生的原因、教师团队背景、四名获奖学生案例及辅导方案。
+- [SAWA 2025–2026 获奖喜报来源](sources/sawa-2025-2026-awards-poster.md) — 本来源是 Thinktown 发布的 2025–2026 赛季美国学术艺术与写作大奖（Scholastic Art & Writing Awards）获奖喜报海报，展示了多位学员在 Critical Essay、Poetry 和 Personal Narrative & Memoir 类别中的获奖成…
+- [美国学术艺术写作奖 ABC 课程产品手册来源](sources/sawa-abc-course.md) — 本来源为新课堂国际教育发布的美国学术艺术与写作奖 ABC 课程产品手册，详细介绍了赛事背景、12 模块辅导框架、导师团队和赛事评审标准。
+- [SAWA 美国学术性艺术与写作大奖指南来源](sources/sawa-guide-poster.md) — 本来源为 Thinktown 发布的美国学术性艺术与写作大奖（Scholastic Art & Writing Awards）宣传指南，概述了赛事基本信息和 Thinktown 辅导服务。
+- [美国学术艺术与写作奖概览来源](sources/sawa-overview.md) — 本来源为 Thinktown 内部竞赛数据库中美国学术艺术与写作奖（Scholastic Art & Writing Awards）的结构化条目，记录了赛事基本信息、历年赛程和大量 Thinktown 学员获奖数据。
+- [Thinktown 三支队伍晋级 2026 SDG 马拉松中国站来源](sources/sdg-2026-dunhuang-results.md) — 本来源是 Thinktown 关于 2026 SDG 创新马拉松中国站晋级结果的喜报，展示了三支队伍分别围绕声音遗产复兴、儿童探秘计划和夜间经济三大敦煌课题的方案概要。
+- [2026 赛季 SDG 创新马拉松赛事及辅导产品手册来源](sources/sdg-2026-product-handbook.md) — 本来源是新课堂（Thinktown）SDG 2026 赛季的产品手册，详细介绍了赛事规则（聚焦莫高窟文旅两大挑战任务）、三个赛段的时间节点与费用、孵化/速通两种辅导模式的服务内容与定价，并附有 2023–2025 年获奖统计和 CTB/SDG 竞赛对比。
+- [SDG 可持续创新马拉松来源](sources/sdg-innovation-hackathon.md) — 本来源是 Thinktown 内部赛事数据库的 SDG Innovation Hackathon 条目，包含赛事背景（源于 SDG Open Hack）、创办时间、多赛季（2024–2026）时间线、奖项评分体系，以及 Thinktown SDG 辅导产品的价格与师资信息。
+- [SIC 2025 S13 全球站获奖喜报来源](sources/sic-2025-s13-global-results.md) — 本来源是 Thinktown 发布的 2025 年 SIC 中学生投资研习活动 S13 赛季全球站和初级站获奖喜报海报，展示了具体学员的证书详情和 Thinktown 的竞赛辅导优势。
+- [2025 SIC S13 初级站喜报来源](sources/sic-2025-s13-results.md) — 本来源是 Thinktown 关于 2025 SIC S13 中学生投资研习活动初级站的成绩喜报（图片），宣布学员共获 37 枚奖牌（金奖 23、银奖 4、铜奖 9），并展示了 Thinktown 的备赛优势与 SIC 赛事简介。
+- [SIC 中学生投资研习全球站及辅导产品介绍来源](sources/sic-global-station-product.md) — 本来源是新课堂（Thinktown）针对 SIC 策略组别全球站的内部产品手册，涵盖赛事背景、全球站比赛内容与评分标准、奖项设置、报名费用，以及 12 课时学术顾问计划的详细服务内容和四位学术顾问简介。
+- [SIC 中学生投资挑战 2023-2025 喜报海报来源](sources/sic-investment-challenge-2023-2025-poster.md) — Thinktown 发布的 2023-2025 年 SIC（Student Investment Challenge）中学生投资研习活动成绩汇总喜报海报。
+- [中学生投资大赛（SIC）赛事数据来源](sources/sic-investment-competition.md) — 本来源是 Thinktown 内部赛事数据库的 SIC（Student Investment Competition/Challenge）条目，包含赛事背景、两个组别（交易组别与策略组别）的规则说明、2024–2026 赛季时间线、历年获奖学生记录，以及 Thinktown SIC 辅导产品的价格信…
+- [SIC 中学生投资研习活动产品海报来源](sources/sic-product-poster.md) — 本来源是 Thinktown 发布的 SIC（Student Investment Challenge）中学生投资研习活动赛事介绍与产品宣传海报，详述了初级站策略组别（20 课时）和全球站（16 课时）的课程安排，以及 Thinktown 的竞争优势。
+- [SIC S11 2024 喜报来源](sources/sic-s11-2024-results.md) — Thinktown（新课堂）发布的 2024 年 SIC S11 赛季中学生投资研习活动喜报。
+- [社会公正奖 ACE 条目来源](sources/social-justice-awards-ace.md) — 本来源是 Thinktown ACE（学术竞赛条目）系统中关于社会公正奖（Social Justice Awards）的竞赛档案，涵盖基本信息、赛事背景、多届赛程时间线、获奖记录和产品信息。
+- [社会公正奖（Social Justice Awards）Thinktown 宣传海报来源](sources/social-justice-watcher-award.md) — Thinktown 发布的社会公正奖（Social Justice Awards）课程宣传海报，介绍了该赛事的背景、2026 年春季赛主题、参赛要求及 Thinktown 提供的 1v1 辅导服务。
+- [索尼青年世界摄影大赛介绍页面来源](sources/sony-youth-photography-info.md) — 本来源是新课堂内部系统的索尼青年世界摄影大赛介绍页面，记录了赛事基本信息、历届赛程时间线、奖项设置及对应的产品课程信息。
+- [索尼青年世界摄影大赛宣传海报来源](sources/sony-youth-photography-poster.md) — 本来源是新课堂制作的索尼青年世界摄影大赛宣传海报（V3 版本），概述了赛事主题、参赛要求与辅导服务内容，用于吸引学生报名 1 对 1 辅导课程。
+- [索尼青年世界摄影大赛学术顾问计划产品手册来源](sources/sony-youth-photography-product-handbook.md) — 本来源是新课堂国际教育推出的"索尼青年世界摄影大赛单科学术顾问计划（艺术）"产品手册 V2，介绍了该备赛辅导产品的课程内容、团队配置、学生案例及常见问题解答。
+- [斯坦福大学数学锦标赛来源](sources/stanford-math-tournament.md) — 本来源为斯坦福大学数学锦标赛（SMT）的活动卡片，介绍了竞赛的主办方、赛制（团队赛与个人赛）、奖项设置及 2024 赛季安排。
+- [斯坦福大学数学夏令营（SUMaC）来源](sources/sumac.md) — 本来源是新课堂（Thinktown）内部关于斯坦福大学数学夏令营（SUMaC）的产品信息页，涵盖项目背景、申请要求和历年录取情况。
+- [财经商学生暑期规划来源](sources/summer-planning-for-econ-students.md) — 本来源是 THINKTOWN 发布的微信公众号文章，从冲击奖项、系统积累和申请导向三个目标出发，梳理了财经商方向学生适合的暑期赛事与准备方式，推荐了 NEC、BPA、SIC、BPC、Spark、John Locke 和 Marshall 等活动。
+- [太阳神传说跨文化写作项目详细课程文档来源](sources/sun-gods-mythology-course-detail.md) — Thinktown PBL-Writing 课程"太阳神传说：跨文化神话探秘之旅"的详细课程文档，包含课时设置、项目成果、适合年级及家长寄语等信息。
+- [新课堂跨文化神话探秘线上写作项目来源](sources/sun-gods-mythology-project.md) — 本来源为新课堂（Thinktown）学术探索项目"太阳神传说：跨文化神话探秘之旅"的宣传海报，介绍了项目概述、跨学科整合方向和最终产出。
+- [科学无国界挑战赛学术顾问计划来源](sources/swbc-consultant-plan.md) — 本来源是新课堂（Thinktown）为科学无国界挑战赛（Science Without Borders Challenge，SWBC）编写的学术顾问计划产品介绍文档，详述了赛事背景、两套辅导方案（提升表达效果与从零辅导创作）及常见问答。
+- [康科德评论 ACE 概览来源](sources/tcr-ace-overview.md) — 本来源是 Thinktown 内部 ACE 系统中关于康科德历史评论（The Concord Review）的竞赛概览页面，包含基本信息、赛程时间线、获奖记录和产品信息。
+- [康科德历史评论海报来源](sources/tcr-poster.md) — 本来源是一张 Thinktown 制作的康科德历史评论（The Concord Review）产品海报，概述了期刊定位、投稿时间、作品要求及 Thinktown 课程内容。
+- [新课堂康科德历史评论学术顾问计划产品手册来源](sources/tcr-sba-handbook.md) — 本来源是新课堂国际教育发布的 TCR 单科学术顾问计划产品手册 v1.1，详细介绍赛事背景、产品内容、团队配置和学生案例。
+- [THINKTOWN 康科德历史夏校录取喜报来源](sources/tcr-summer-school-results.md) — 本来源是 Thinktown 发布的康科德历史夏校录取喜报，介绍三名学生被 TCR History Camp 录取及其申请要求。
+- [新课堂计算机项目"我最爱的科技产品变变变"来源](sources/tech-product-evolution-project.md) — 本来源是新课堂（Thinktown）推出的 PBL 计算机学术探索项目"我最爱的科技产品变变变"（Watch It Change: My Favorite Tech）的课程介绍，包含项目简介、跨学科整合、最终交付物和家长须知。
+- [新课堂青少年新闻写作PBL课程来源](sources/teen-journalism-pbl.md) — 本来源是新课堂"青少年社会观察：采访、研究与真实写作"PBL 课程的宣传页，介绍了课程定位、内容模块和教学团队。
+- [戏剧人物研究来源](sources/theater-pbl-character-analysis.md) — 本来源为新课堂 ACE 系统中"戏剧人物研究"（Dramatic Character Analysis）的课程卡片，介绍了项目背景、产出形式及产品信息。
+- [导演手札来源](sources/theater-pbl-director-notebook.md) — 本来源为新课堂 PBL 戏剧项目"导演手札"课程介绍海报，描述了项目简介、适合学员、课程安排及产出形式。
+- [重现历史人物来源](sources/theater-pbl-historical-figure.md) — 本来源为新课堂"历史人物分析：用戏剧重现历史人物"PBL 戏剧课程介绍，详细描述了课程模块、授课团队及成果形式。
+- [Thinktown 商业科产品与学术顾问团队来源](sources/thinktown-business-products.md) — 本来源是 Thinktown（新课堂）商业科的产品宣传材料，介绍了国际课程同步辅导（IGCSE/IB/AP）、咨询类课程、四大学术竞赛指导（BPA、SIC、WGHS、康莱德挑战），以及王承璐、丁宇佳、Petray Wu 三位学术顾问的背景。
+- [新课堂 John Locke 多科学术顾问计划来源](sources/thinktown-john-locke-multi-subject-plan.md) — 本来源为新课堂国际教育（Thinktown）2026 年 John Locke 论文比赛"多科学术顾问计划"内部产品手册（V2.8），详细介绍了赛事背景、奖项设置、时间节点、辅导模块内容、师资配置及学生案例。
+- [THINKTOWN 数学 PBL 项目"自然密码"来源](sources/thinktown-natures-code-pbl.md) — 本来源为新课堂（THINKTOWN）推出的数学 PBL 项目"自然密码：艺术与野性中的分形"（Nature's Code: Fractals in Art & the Wild）的课程宣传页，介绍了项目简介、适合学员、三个级别的课程大纲、项目亮点和师资信息。
+- [青少年运动心理探索项目来源](sources/thinktown-sports-psychology-project.md) — 本来源是 THINKTOWN 新课堂推出的"运动心力量：青少年运动心理探索之旅"PBL 项目宣传海报。
+- [三大经济论文竞赛深度解析来源](sources/three-economics-essay-competitions-analysis.md) — 本来源是一篇 THINKTOWN 发布的微信公众号文章，对比了 John Locke、Marshall 和 HIEEC 三大主流经济类论文竞赛的定位差异、题型特点、时间安排与选赛建议，指出写作过程的价值远高于奖项本身。
+- [UKChO 2024 英国化学奥赛喜报来源](sources/ukcho-2024-results.md) — Thinktown（新课堂）发布的 2024 年 UKChO（UK Chemistry Olympiad）喜报。
+- [UKChO ACE 数据页来源](sources/ukcho-ace-data.md) — 本来源为 Thinktown ACE 系统中 UKChO 英国化学奥林匹克竞赛的结构化数据页，记录了 2022–2026 年的赛程时间线、Thinktown 学员获奖明细以及产品课程定价信息。
+- [UKChO 备赛课程手册来源](sources/ukcho-course-handbook.md) — 本文系统介绍了 UKChO 赛事历史、个人笔试形式、时间节点及奖项比例，并推介了 Thinktown 针对 10–11 年级理科倾向学生的 VIP 一对一备赛课程，详细列出 28–44 课时的模块化知识体系、师资背景及退费规则。
+- [UKChO 全解推文来源](sources/ukcho-thinktown-full-guide.md) — 本文介绍了 Thinktown 在 UKChO 化学竞赛辅导方面的优势与策略，指出 UKChO 竞赛涉及超前知识且有机化学占比高、难度大，通过系统性学习、高质量讲解及个性化规划助力学生备考，并分享了多位获奖学员案例和备考时间规划建议。
+- [UKChO 指南海报来源](sources/ukcho-thinktown-guide.md) — 本文是 Thinktown 制作的 UKChO 英国化学奥林匹克竞赛指南海报，概述了赛事背景、适合学生群体、考试形式和竞赛特点。
+- [英国数学奥赛来源](sources/ukmt-bmo.md) — 本来源为英国数学基金会（UKMT）体系下的英国数学奥林匹克（BMO）活动卡片，涵盖 UKMT 的测评体系（JMC/IMC/SMC/BMO）、BMO 两轮赛制、奖项设置及 2024–2026 赛季时间安排。
+- [英国中级数学竞赛（IMC）来源](sources/ukmt-imc.md) — 本来源是新课堂（Thinktown）内部关于英国中级数学竞赛（Intermediate Mathematical Challenge）的产品信息页，涵盖赛事背景、赛制、奖项和获奖记录。
+- [英国初级数学竞赛（JMC）来源](sources/ukmt-jmc.md) — 本来源是新课堂（Thinktown）内部关于英国初级数学竞赛（Junior Mathematical Challenge）的产品信息页，涵盖赛事背景、赛制和奖项设置。
+- [英国高级数学竞赛（SMC）来源](sources/ukmt-smc.md) — 本来源是新课堂（Thinktown）内部关于英国高级数学竞赛（Senior Mathematical Challenge）的产品信息页，涵盖赛事背景、赛制、奖项和历年获奖记录。
+- [城市探险奥德赛 PBL 课程申请表来源](sources/urban-odyssey-application.md) — 本来源是"城市探险奥德赛：探索纽约市、纽约上州和长岛"PBL 课程申请表的第二版（v2），涵盖学生信息、英语与写作能力评估、纽约兴趣方向、课程目标、写作样本要求及学习偏好等七个部分。
+- [Urban Odyssey 纽约探索 PBL 写作课程手册来源](sources/urban-odyssey-handbook.md) — 本来源是 Urban Odyssey 项目式学习写作课程的产品手册 v1，详细介绍课程内容、目标学员、教师背景和学术价值。
+- [城市探险奥德赛纽约探索线上项目简介来源](sources/urban-odyssey-project-intro.md) — 本来源是新课堂推出的"城市探险奥德赛：探索纽约市、纽约上州与长岛"线上 1 对 1 远程项目简介。
+- [新课堂城市探险奥德赛写作项目介绍来源](sources/urban-odyssey-writing-intro.md) — 本来源是新课堂推出的"城市探险奥德赛"写作项目简介图文。
+- [2023 USABO 美国生物奥赛喜报来源](sources/usabo-2023-results.md) — 本来源为 Thinktown 2023 年 USABO 喜报海报，展示了 3 名学员分别获得金奖（TOP10%）、银奖（TOP25%）和铜奖（TOP35%）的成绩，并简要介绍了 USABO 的背景。
+- [美国生物奥林匹克竞赛来源](sources/usabo-competition.md) — 本来源为新课堂内部竞赛信息页，介绍美国生物奥林匹克竞赛（USABO / BioOlympiad Initiative USA-China）的基本信息、赛程时间线和历年获奖学员记录。
+- [USACO 美国信息学奥林匹克竞赛 ACE 资料卡来源](sources/usaco-ace.md) — 本来源是新课堂（Thinktown）内部关于 USACO（美国信息学奥林匹克竞赛）的竞赛资料卡，介绍了赛制、级别划分、时间安排、学员获奖记录及备赛产品信息。
+- [USACO 白金晋级喜报海报来源](sources/usaco-platinum-2024-poster.md) — Thinktown 发布的 2024 USACO 白金晋级喜报海报，祝贺田同学（上海某国际高中 G11）在 2023-24 赛季 2 月月赛中成功晋级 USACO 最高级别白金级。
+- [USACO 美国信息学奥林匹克竞赛 Thinktown 指南来源](sources/usaco-thinktown-guide.md) — 本来源是新课堂（Thinktown）制作的 USACO 备赛指南宣传材料（图片转文本），详细介绍了赛事特点、适合学生画像、课程体系（C++ 入门至白金级）及常见问题解答。
+- [USNCO ACE 数据页来源](sources/usnco-ace-data.md) — 本来源为 Thinktown ACE 系统中美国化学奥林匹克（USNCO）的结构化数据页，记录了竞赛流程、奖项设置及产品课程定价信息。
+- [维瑟历史写作论文奖来源](sources/versus-history-essay-competition.md) — 本来源是 Thinktown 内部 ACE 系统中关于维瑟历史写作论文奖（Versus History Essay Competition）的竞赛概览页面，包含赛事背景、赛程和产品信息。
+- [滑铁卢欧几里得数学竞赛来源](sources/waterloo-euclid.md) — 本来源为滑铁卢大学欧几里得数学竞赛（Euclid）的活动卡片，涵盖 Waterloo 系列竞赛的整体背景、Euclid 的赛制（10 道问答题，2.5 小时）、奖项设置以及 2022–2026 赛季的时间安排与获奖记录。
+- [滑铁卢数学竞赛 FGH 来源](sources/waterloo-fgh.md) — 本来源是新课堂（Thinktown）内部关于滑铁卢数学竞赛 Fryer/Galois/Hypatia（FGH）的产品信息页，涵盖赛事背景、赛制和历年获奖记录。
+- [滑铁卢高斯数学竞赛来源](sources/waterloo-gauss.md) — 本来源是新课堂（Thinktown）内部关于滑铁卢高斯数学竞赛（Gauss Mathematics Contests）的产品信息页，涵盖赛事背景、赛制、奖项和历年获奖记录。
+- [加拿大滑铁卢牛顿物理竞赛来源](sources/waterloo-sin.md) — 本来源是新课堂（Thinktown）内部关于加拿大滑铁卢牛顿物理竞赛（SIN）的竞赛资料卡，介绍了该赛事的主办方、赛制、奖项设置、历年赛程安排及备赛产品信息。
+- [沃顿全球高中生投资竞赛来源](sources/wharton-investment-competition.md) — 本来源是 Thinktown 内部赛事数据库的 WGHS（Wharton Global High School Investment Competition）条目，介绍沃顿商学院主办的免费投资挑战赛事规则、奖项设置和 2025–2026 赛季完整时间线。
+- [宾大沃顿商业领导力项目来源](sources/wharton-leadership-program.md) — 本来源是 Thinktown 内部赛事数据库的 LBW（Leadership in the Business World）条目，介绍沃顿商学院主办的商科夏校项目信息、2026 年申请时间线和 Thinktown 的 ABC 咨询课程产品。
+- [世界历史协会学生写作竞赛来源](sources/world-historian-essay-competition.md) — 本来源是 Thinktown 内部 ACE 系统中关于世界历史协会学生写作竞赛（World Historian Student Essay Competition）的竞赛概览页面。
+- [世界音乐学探索 PBL 来源](sources/world-musicology-pbl.md) — 本来源为新课堂"音乐学探索：世界音乐"PBL 课程介绍海报，详细描述了课程模块、适合学员、授课团队及课程亮点。
+- [世界学者杯竞赛来源](sources/world-scholars-cup.md) — 本来源是 THINKTOWN 内部活动信息卡片，介绍了世界学者杯（World Scholars' Cup）的主办方、面向人群、四大环节、赛程时间线及 Thinktown 备赛课程信息。
+- [Write the World 月度竞赛 ACE 条目来源](sources/write-the-world-ace-entry.md) — 本来源为 Thinktown 内部竞赛知识库中 Write the World 月度竞赛的 ACE 条目，汇总了赛事基本信息、2025–2026 年各月选题与规则及产品课程配置。
+- [Write the World月度赛事指南来源](sources/write-the-world-monthly.md) — 本来源是 Thinktown 制作的 Write the World 月度写作竞赛指南，介绍了平台概况、2025–2026 年月度主题及辅导服务。
+- [国际写作竞赛推荐及备赛规划指南来源](sources/writing-competition-recommendation-table.md) — 本来源为新课堂（Thinktown）发布的写作国际竞赛推荐表，涵盖 17 项国际写作赛事的详细信息，并提供了竞赛价值分析、分级体系和分阶段备赛规划。
+- [写作夏校指南来源](sources/writing-summer-schools-guide.md) — 本来源为新课堂（Thinktown）制作的美国顶尖写作夏校指南海报，介绍了五个写作夏校项目的基本信息、申请要求及 Thinktown 录取结果。
+- [WUCT 2025 华盛顿大学化学挑战获奖喜报来源](sources/wuct-2025-awards-poster.md) — 本来源是 Thinktown 发布的 2025 年华盛顿大学美国团体化学挑战（WUCT）获奖喜报海报，展示了江同学获得团队轮金奖、突破轮金奖和团队总分银奖的成绩。
+- [丘成桐中学科学奖（数学）来源](sources/yau-science-award-math.md) — 本来源为丘成桐中学科学奖（数学方向）的活动卡片，介绍了该奖项由清华大学丘成桐数学科学中心主办、以研究报告代替试卷的独特赛制以及评审标准。
+- [YoungArts 国家艺术竞赛 ABC 课程产品手册来源](sources/youngarts-abc-course.md) — 本来源为新课堂国际教育发布的 YoungArts 国家艺术竞赛多科 ABC 课程产品手册，涵盖视觉艺术、戏剧表演和剧本写作三大方向的辅导框架。
+- [YoungArts 国家艺术竞赛概览来源](sources/youngarts-overview.md) — 本来源为 Thinktown 内部竞赛数据库中 YoungArts 国家艺术竞赛的结构化条目，记录了赛事基本信息、历年赛程和作品集要求。
+- [YouthPLAYS 青少年剧作家独幕剧竞赛来源（ACE 页面）](sources/youthplays-ace.md) — 本来源为新课堂 ACE 系统中 YouthPLAYS 青少年剧作家独幕剧竞赛的课程卡片，介绍了主办方背景、参赛要求、奖项设置及新课堂辅导产品信息。
+- [YouthPLAYS 青少年剧作家独幕剧竞赛来源（Thinktown 指南）](sources/youthplays-thinktown-guide.md) — 本来源为新课堂制作的 YouthPLAYS 竞赛指南图片的文字提取，补充了推荐理由、赛事亮点、参赛要求细节及报名时间等信息。
