@@ -11,14 +11,10 @@
             "id": "75f4683e78421543",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,32 +183,34 @@
   },
   "active": "75f4683e78421543",
   "lastOpenFiles": [
-    "entities/thinktown.md",
+    "sources/brain-challenge-competition.md",
+    "sources/brain-bee-competition.md",
+    "sources/brain-bee-2026-regional-results.md",
+    "sources/brain-bee-2022-2025-results.md",
+    "sources/bpo-2025-2026-results.md",
     "sources/bpho-round1.md",
-    "concepts/leadership-thinking-camp-pbl.md",
-    "sources/pbl-customer-communication-guide.md",
-    "concepts/portrait-photography-story-pbl.md",
-    "concepts/social-justice-watcher-award.md",
-    "concepts/social-justice-awards.md",
-    "sources/ctb-forum-thinktown-internal.md",
-    "sources/leadership-thinking-camp-pbl.md",
-    "concepts/breakthrough-junior-challenge.md",
-    "sources/sun-gods-mythology-course-detail.md",
-    "concepts/science-without-borders-challenge.md",
-    "sources/bpa-china-nationals-2026-coaching.md",
-    "sources/nyt-podcast-challenge-thinktown-poster.md",
-    "sources/nyt-open-letters-2025-results.md",
-    "sources/portrait-photography-story-pbl.md",
-    "sources/social-justice-watcher-award.md",
-    "sources/ukcho-2024-results.md",
-    "sources/sic-investment-challenge-2023-2025-poster.md",
-    "sources/bpo-2025-2026-national-qualification.md",
-    "sources/john-locke-2025-final-results.md",
-    "sources/ihbb-history-competition-results.md",
-    "sources/john-locke-psychology-results-2022-2025.md",
-    "sources/nec-2026-china-results.md",
-    "sources/usaco-platinum-2024-poster.md",
-    "sources/kaggle-godaddy-2023-results.md",
+    "sources/bpho-ipc-spc.md",
+    "sources/bpa-business-professionals.md",
+    "sources/berkeley-bmmt.md",
+    "sources/bc-competition.md",
+    "sources/bbo-competition.md",
+    "sources/awesomemath.md",
+    "sources/australian-mc.md",
+    "sources/asop.md",
+    "sources/asoc-thinktown-guide.md",
+    "sources/asoc-intro-article.md",
+    "sources/asoc-course-handbook.md",
+    "sources/asob-australian-biology.md",
+    "sources/aahsff-ace.md",
+    "comparisons/writing-competitions-recommendation-guide.md",
+    "comparisons/three-economics-essay-competitions.md",
+    "comparisons/ieo-china-divisions.md",
+    "comparisons/g5-g12-business-competition-progression.md",
+    "comparisons/client-facing-vs-non-client-facing-instruction.md",
+    "sources/argumentative-writing-course.md",
+    "decisions",
+    "untitled folder",
+    "sources/ap-psychology-thinktown-guide.md",
     "sources/future-wanderers-poster.md.tmp.53142.30256f5bd0bc",
     "sources/princeton-ace.md.tmp.53142.770424f90909",
     "sources/nyt-photo-essay-2026-results.md.tmp.53142.a60c10027b7b"
