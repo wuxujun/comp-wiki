@@ -1,0 +1,38 @@
+---
+title: "Thinktown 成果与案例材料 eac23dae来源说明"
+type: source
+created: 2026-08-20
+updated: 2026-08-20
+sources: ["raw/docs/eac23daeb3b20c93391da227f97b82e5.md"]
+tags: ["thinktown", "achievement-claims", "source-note"]
+---
+
+# Thinktown 成果与案例材料 eac23dae来源说明
+
+本来源记录“Thinktown 成果与案例材料 eac23dae”，属于 Thinktown 原始文档集合中的成果与案例资料。材料的核心内容包括：原文记录一项或多项由机构公开发布的学生成果、晋级或案例叙事。该页面仅记录原文主张与出处，不把机构宣传、时效性数据或成果描述视为独立验证结论。
+
+## 核心主张
+
+- 原文记录一项或多项由机构公开发布的学生成果、晋级或案例叙事。
+- 个案细节、统计分母与成果归因需要结合主办方记录和完整样本核验。
+
+## 来源信息
+
+- **原始文件：** [eac23daeb3b20c93391da227f97b82e5.md](../../raw/docs/eac23daeb3b20c93391da227f97b82e5.md)
+- **外部来源：** 原文未记录
+- **资料类别：** 成果与案例资料
+- **内容指纹：** `77c3cfa1d2489b4c8c6297407e379dee62d784d5fa01a3a15aa027630cd55b40`
+- **编译日期：** 2026-08-20
+- **许可/授权状态：** 原始材料未附可验证的许可或再分发授权；按“状态未知”处理。
+- **再分发边界：** 本地收录不构成公开转载或再分发授权，公开使用前需另行核验权利。
+
+## 可靠性与使用边界
+
+该文档记录机构公开的成果或案例主张。为避免扩散个人信息，本来源说明不复制学生姓名、学校或其他身份细节，且不把个案视为普遍效果或因果证据。
+
+## 相关页面
+
+- [Thinktown 原始文档集合](thinktown-raw-docs-corpus.md)
+- [成果与案例资料目录](thinktown-achievement-and-case-sources.md)
+- [学生成果主张的证据边界](../concepts/student-achievement-claims.md)
+- [Thinktown Education](../entities/thinktown-education.md)

@@ -1,0 +1,188 @@
+{
+  "audit_id": "2026-08-20T11:25:34+08:00",
+  "scope": "full repository knowledge graph",
+  "canonical_scope_used": ["wiki/", "mocs/", "raw/"],
+  "overall_verdict": "usable-with-caveats",
+  "summary": {
+    "markdown_pages_scanned": 421,
+    "synthesized_articles": 13,
+    "source_records": 403,
+    "moc_pages": 5,
+    "raw_sources": 389,
+    "outputs_scanned": 0,
+    "structural_errors": 0,
+    "confirmed_duplicate_pages": 0,
+    "contradiction_pages": 5,
+    "distinct_contradictions": 4,
+    "provenance_state_at_start": "missing",
+    "high_findings": 2,
+    "medium_findings": 5,
+    "low_findings": 2
+  },
+  "wiki": {
+    "clean_checks": {
+      "frontmatter_errors": 0,
+      "broken_relative_links": 0,
+      "orphan_pages": 0,
+      "stale_over_90_days": 0,
+      "heading_errors": 0,
+      "unclosed_fences": 0,
+      "moc_drift": 0,
+      "domain_mocs_missing_from_home": 0,
+      "broken_source_references": 0,
+      "decision_followup_gaps": 0
+    },
+    "source_inventory": {
+      "raw_files": 389,
+      "raw_files_with_source_note": 389,
+      "raw_files_with_multiple_source_notes": 0,
+      "raw_files_missing_source_note": 0,
+      "exact_duplicate_content_fingerprints": 0,
+      "external_origin_not_recorded": 71,
+      "licensing_status_missing": 389
+    },
+    "quality": {
+      "average_score": 80,
+      "below_50": 0,
+      "thin_but_adequate": [
+        "wiki/entities/vanessa-ruales.md",
+        "wiki/comparisons/client-facing-vs-non-client-facing-instruction.md"
+      ],
+      "coarse_provenance": [
+        "wiki/comparisons/thinktown-learning-product-types.md",
+        "wiki/concepts/academic-competition-information-evaluation.md",
+        "wiki/concepts/project-based-and-academic-advising-design.md",
+        "wiki/concepts/student-achievement-claims.md",
+        "wiki/concepts/thinktown-learning-product-system.md",
+        "wiki/entities/thinktown-education.md"
+      ]
+    }
+  },
+  "findings": [
+    {
+      "id": "A01",
+      "severity": "high",
+      "kind": "canonical-root-conflict",
+      "verdict": "confirmed",
+      "evidence": "AGENTS.md defines wiki/ and mocs/ as canonical, while .wiki/config.md directs content into .wiki/raw and .wiki/wiki; .wiki/_index.md reports zero sources and articles.",
+      "impact": "Default Wiki resolution can target an empty scaffold and miss the populated repository wiki."
+    },
+    {
+      "id": "A02",
+      "severity": "high",
+      "kind": "durability-version-control",
+      "verdict": "confirmed",
+      "evidence": "The working tree has 807 untracked and 7 modified paths; only 1 raw path and 6 wiki/MOC paths are currently tracked.",
+      "impact": "Most ingested knowledge lacks committed history and can be lost or omitted from review."
+    },
+    {
+      "id": "A03",
+      "severity": "medium",
+      "kind": "licensing-provenance-gap",
+      "verdict": "confirmed",
+      "evidence": "All 389 raw-source provenance notes omit licensing or permission status; 71 also lack an external origin URL.",
+      "impact": "Source reuse and redistribution rights cannot be assessed from the wiki."
+    },
+    {
+      "id": "A04",
+      "severity": "medium",
+      "kind": "language-policy-mismatch",
+      "verdict": "confirmed",
+      "evidence": "Seven Chinese source notes and four Chinese synthesis pages derive only from English sources.",
+      "impact": "The content is readable and supported but violates the repository language rule."
+    },
+    {
+      "id": "A05",
+      "severity": "medium",
+      "kind": "live-url-only-evidence",
+      "verdict": "confirmed",
+      "evidence": "Seven external PBL source notes preserve URLs and summaries but no immutable local source capture.",
+      "impact": "The research chain is currently verifiable but cannot be fully replayed if publisher pages change or disappear."
+    },
+    {
+      "id": "A06",
+      "severity": "medium",
+      "kind": "coarse-claim-provenance",
+      "verdict": "confirmed",
+      "evidence": "Six synthesis pages cite raw/docs/ as a directory rather than enumerating the source records supporting individual claims.",
+      "impact": "Broad conclusions are plausible but expensive to reproduce at claim level."
+    },
+    {
+      "id": "A07",
+      "severity": "medium",
+      "kind": "unresolved-contradictions",
+      "verdict": "mixed",
+      "evidence": "Five pages contain four distinct issues: one PBL workload conflict, three competition-format flags.",
+      "impact": "Two flags can be weakened with official evidence; two remain unresolved pending source clarification."
+    },
+    {
+      "id": "A08",
+      "severity": "low",
+      "kind": "session-provenance",
+      "verdict": "historically-missing",
+      "evidence": "No topic-local session event log or checkpoint existed before this audit; only coarse wiki log entries and an external redacted session digest were available.",
+      "impact": "Past ingest and research actions cannot be replayed in detail."
+    },
+    {
+      "id": "A09",
+      "severity": "low",
+      "kind": "repository-hygiene",
+      "verdict": "confirmed",
+      "evidence": "No project .gitignore was found while .DS_Store, Obsidian state, and Wiki scaffolding are untracked.",
+      "impact": "Review noise increases and local operational files may be committed accidentally."
+    }
+  ],
+  "investigations": [
+    {
+      "claim": "PBL course weekly workload",
+      "local_pages": ["wiki/concepts/pbl-historical-travel-guide-new-york.md", "wiki/sources/pbl-historical-travel-guide-new-york-course.md"],
+      "verdict": "unresolved",
+      "reason": "The same provider document states both at least two hours and one-to-two hours; no independent authoritative schedule was found."
+    },
+    {
+      "claim": "Sir Isaac Newton Exam is offline versus online",
+      "local_pages": ["wiki/sources/raw-doc-013cb5acecebcf0cc24a0088c7ae548a.md"],
+      "verdict": "weakened",
+      "reason": "Waterloo states that the test is delivered online but must be written under local in-person supervision.",
+      "primary_url": "https://uwaterloo.ca/centre-advanced-science-education/science-contests/sir-isaac-newton-exam"
+    },
+    {
+      "claim": "International Economics Olympiad is offline versus online",
+      "local_pages": ["wiki/sources/raw-doc-32e5bee91e1c97fdae0e4b999ed78cdf.md"],
+      "verdict": "weakened",
+      "reason": "Official rules say MainTrack is normally on-site while OpenTrack and exceptional editions may be online.",
+      "primary_url": "https://ieo-official.org/regulations"
+    },
+    {
+      "claim": "Intermediate and Senior Physics Challenge is offline versus online",
+      "local_pages": ["wiki/sources/raw-doc-4b070bcb8fd10b8a32b8a390f14609dd.md"],
+      "verdict": "unresolved",
+      "reason": "Available evidence distinguishes standard and Online variants, but the primary BPhO site returned HTTP 403 during audit."
+    },
+    {
+      "claim": "General PBL synthesis accurately represents its cited research",
+      "local_pages": ["wiki/concepts/project-based-learning-evidence.md", "wiki/concepts/project-based-learning-definition-and-design.md", "wiki/concepts/project-based-learning-assessment-and-implementation.md", "wiki/comparisons/project-based-vs-problem-based-learning.md"],
+      "verdict": "supported",
+      "reason": "Live publisher and framework pages support the stated design elements, positive-but-uncertain evidence direction, and methodological cautions."
+    }
+  ],
+  "outputs": {
+    "scanned": 0,
+    "verdict": "not-applicable",
+    "note": ".wiki/output contains only its empty index; no deliverable artifacts exist."
+  },
+  "security": {
+    "credential_patterns_found": 0,
+    "private_key_patterns_found": 0,
+    "wiki_email_addresses_found": 0,
+    "wiki_phone_numbers_found": 0,
+    "raw_files_with_email_addresses": 9,
+    "note": "Two apparent 18-digit ID matches were inspected and were URL identifiers; two wiki matches were substrings of content hashes."
+  },
+  "provenance": {
+    "state_at_start": "missing",
+    "state_after_audit": "partial",
+    "historical_limit": "Past operations have coarse log entries but no fine-grained topic-local event history.",
+    "reports": [".audit/REPORT.md", ".audit/scan-results.json", ".librarian/REPORT.md", ".librarian/scan-results.json"]
+  }
+}

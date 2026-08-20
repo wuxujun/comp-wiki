@@ -1,19 +1,447 @@
+---
+title: "Knowledge Base Index"
+type: moc
+created: 2026-08-20
+updated: 2026-08-20
+sources: []
+tags: ["knowledge-base", "index"]
+---
+
 # Knowledge Base Index
 
-This index catalogs the compiled pages in the repository. Each entry gives a concise route into the current understanding derived from ingested source material.
+本索引汇总由原始资料与外部研究编译形成的知识页面，并为每个主题提供简要入口。当前覆盖 Thinktown 的赛事资料、学习产品、课程设计、成果证据，以及 PBL 的通用定义、效果、评价与具体案例。
 
 ## Concepts
 
-- [PBL Historical Travel Guide: New York](concepts/pbl-historical-travel-guide-new-york.md) — A grades 8–10 historical research and writing course culminating in an 800–1,000-word guide to 1920s New York.
+- [Thinktown 学习产品体系](concepts/thinktown-learning-product-system.md) — 将赛事选择、备赛、PBL、单科学术顾问计划与成果传播理解为一条连续服务链。
+- [学术竞赛信息评估](concepts/academic-competition-information-evaluation.md) — 按选择维度、证据层级、时效性和元数据限制使用机构整理的竞赛资料。
+- [项目式学习的定义与设计](concepts/project-based-learning-definition-and-design.md) — 以问题、持续探究、学生能动性、迭代和可见学习证据界定 PjBL。
+- [项目式学习的证据与效果边界](concepts/project-based-learning-evidence.md) — 综合元分析、随机试验和测量研究，并限定可外推的效果主张。
+- [项目式学习的评价与实施](concepts/project-based-learning-assessment-and-implementation.md) — 用多维评价、形成性循环和教师脚手架提高项目实施质量。
+- [项目制与学术顾问课程设计](concepts/project-based-and-academic-advising-design.md) — 比较 PBL 与单科学术顾问计划的共同结构、差异和成果边界。
+- [学生成果主张的证据边界](concepts/student-achievement-claims.md) — 区分喜报与案例能够证明的公开主张和不能独立证明的教育效果。
+- [PBL 历史旅行指南：纽约篇](concepts/pbl-historical-travel-guide-new-york.md) — 面向 8–10 年级的历史研究与写作课程，最终完成一篇关于 1920 年代纽约的旅行指南。
 
 ## Comparisons
 
-- [Client-Facing and Non-Client-Facing Instruction](comparisons/client-facing-vs-non-client-facing-instruction.md) — How direct classroom lessons differ from behind-the-scenes instructor review in the course model.
+- [Thinktown 学习产品类型比较](comparisons/thinktown-learning-product-types.md) — 对比赛事资料、竞赛备赛、PBL、单科学术顾问计划和成果案例的目标、过程与风险。
+- [项目式学习与问题式学习](comparisons/project-based-vs-problem-based-learning.md) — 区分 Project-Based Learning 与 Problem-Based Learning，并规定缩写使用方式。
+- [面向客户与非面向客户的教学](comparisons/client-facing-vs-non-client-facing-instruction.md) — 区分直接课堂服务与后台批改、准备和成果优化，并说明不同产品的配置差异。
 
 ## Entities
 
-- [Vanessa Ruales](entities/vanessa-ruales.md) — The writing instructor identified in the course product brief.
+- [Thinktown Education](entities/thinktown-education.md) — 已收录资料的主要内容生产者、教育服务提供者和成果发布者。
+- [Vanessa Ruales](entities/vanessa-ruales.md) — PBL 历史旅行指南课程产品说明中列出的写作导师。
 
 ## Sources
 
-- [PBL Historical Travel Guide: New York Course Source](sources/pbl-historical-travel-guide-new-york-course.md) — Provenance, key claims, and reliability notes for the source document.
+- [Thinktown 原始文档集合](sources/thinktown-raw-docs-corpus.md) — 389 份中文或双语资料的范围、来源构成、元数据质量和可靠性说明。
+- [Thinktown 赛事基础资料目录](sources/thinktown-competition-reference-sources.md) — 121 份主要来自 Thinktown 分享页的赛事和项目基础条目。
+- [Thinktown 赛事分析与项目资料目录](sources/thinktown-competition-analysis-sources.md) — 86 份赛事指南、推荐、规划、辅导介绍与项目材料。
+- [Thinktown 课程与产品资料目录](sources/thinktown-course-and-product-sources.md) — 129 份课程说明、PBL、备赛课程、学术顾问计划和产品手册。
+- [Thinktown 成果与案例资料目录](sources/thinktown-achievement-and-case-sources.md) — 47 份获奖、晋级、访谈和结果汇总材料。
+- [Thinktown 其他资料目录](sources/thinktown-other-sources.md) — 6 份未被可靠归入主要类别但仍保留在完整 ingest 中的材料。
+- [PBL 历史旅行指南：纽约篇课程来源](sources/pbl-historical-travel-guide-new-york-course.md) — 记录该课程产品说明的来源、核心主张、可靠性和内部不一致。
+- [PBLWorks Gold Standard 项目设计要素来源](sources/external-pblworks-gold-standard-project-design.md) — 记录七项设计要素及第一方框架的使用边界。
+- [Kokotsaki 等 2016 年 PBL 文献综述来源](sources/external-kokotsaki-2016-pbl-literature-review.md) — 记录 PBL 特征、实施促进因素和早期证据限制。
+- [Farshad 与 Fortin 2026 年 PBL 伞式综述来源](sources/external-farshad-fortin-2026-pbl-umbrella-review.md) — 汇总 15 篇元分析的结果与 AMSTAR 2 质量评价。
+- [Saavedra 等 2022 年 AP PBL 随机试验来源](sources/external-saavedra-2022-pbl-ap-rct.md) — 记录 AP 课程集群随机试验的设计、结果与外推条件。
+- [Guo 等 2020 年高等教育 PBL 综述来源](sources/external-guo-2020-higher-education-pbl-review.md) — 记录高等教育 PBL 的结果类型与测量偏向。
+- [Loyens 等 2023 年 PBL 高阶思维综述来源](sources/external-loyens-2023-thinking-in-pbl-review.md) — 记录高阶思维与批判性思维证据的测量限制。
+- [Savery 2006 年问题式学习定义来源](sources/external-savery-2006-problem-based-learning.md) — 记录 Problem-Based Learning 的基础定义与方法边界。
+- [Waterloo SIN Exam 官方赛制来源](sources/external-waterloo-sin-exam-format.md) — 区分在线试题交付与本地学校监督环境。
+- [IEO 官方赛制与 OpenTrack 来源](sources/external-ieo-format-regulations-and-opentrack.md) — 区分国际主赛、例外线上举办和独立 OpenTrack 赛道。
+
+## Individual Source Notes
+
+以下条目为 `raw/docs/` 中每份原始文件的一对一来源说明。详细综合仍从上方主题页和来源目录进入。
+
+- [科学无国界挑战赛学术顾问计划产品介绍来源说明](sources/raw-doc-00f357c9eb3a3663b1fb5f331de020ff.md) — 课程与产品资料；对应 `raw/docs/00f357c9eb3a3663b1fb5f331de020ff.md`。
+- [加拿大滑铁卢牛顿物理竞赛来源说明](sources/raw-doc-013cb5acecebcf0cc24a0088c7ae548a.md) — 赛事基础资料；已用主办方页面解释在线交付与现场监督的差异。
+- [哈佛麻省理工大学数学竞赛来源说明](sources/raw-doc-02462f95efcfa4f8f3e34ff3c89e3bec.md) — 赛事基础资料；对应 `raw/docs/02462f95efcfa4f8f3e34ff3c89e3bec.md`。
+- [英国中级生物奥林匹克活动来源说明](sources/raw-doc-0285afcfbb21608131a8af210fccdbbf.md) — 赛事基础资料；对应 `raw/docs/0285afcfbb21608131a8af210fccdbbf.md`。
+- [新课堂英语PBL项目：旋律时光机播客来源说明](sources/raw-doc-03915de5263f80413b20ddf8a2690ce7.md) — 课程与产品资料；对应 `raw/docs/03915de5263f80413b20ddf8a2690ce7.md`。
+- [Cambridge Re:think 论文竞赛来源说明](sources/raw-doc-03ae5e197bf597465e8cd9a2ccbfef30.md) — 赛事基础资料；对应 `raw/docs/03ae5e197bf597465e8cd9a2ccbfef30.md`。
+- [数位叙事创作营：面向新世代的新媒体表达项目介绍来源说明](sources/raw-doc-04fec22d80c0934d816e2f93849cc419.md) — 课程与产品资料；对应 `raw/docs/04fec22d80c0934d816e2f93849cc419.md`。
+- [THINKTOWN推出青少年运动心理探索项目来源说明](sources/raw-doc-077c1dfa04c9f71e89d6b00fd436f64a.md) — 赛事分析与项目资料；对应 `raw/docs/077c1dfa04c9f71e89d6b00fd436f64a.md`。
+- [财经商方向学生暑期规划与赛事备考指南来源说明](sources/raw-doc-078422fe405fda9928a9171502407cc0.md) — 赛事分析与项目资料；对应 `raw/docs/078422fe405fda9928a9171502407cc0.md`。
+- [新课堂计算机项目：我最爱的科技产品变变变来源说明](sources/raw-doc-07e17e68e46795633909b8ba5423facc.md) — 其他资料；对应 `raw/docs/07e17e68e46795633909b8ba5423facc.md`。
+- [“歌声中的时代”PBL项目介绍来源说明](sources/raw-doc-0883ddddb45e19a0ae2c6fe83e2b3e84.md) — 课程与产品资料；对应 `raw/docs/0883ddddb45e19a0ae2c6fe83e2b3e84.md`。
+- [新课堂国际教育推出谷歌涂鸦大赛ABC辅导课程来源说明](sources/raw-doc-0898537e434e9543914cc66e1205fd43.md) — 课程与产品资料；对应 `raw/docs/0898537e434e9543914cc66e1205fd43.md`。
+- [斯坦福大学数学夏令营来源说明](sources/raw-doc-091422a434f60420b182f593b9026b4e.md) — 赛事基础资料；对应 `raw/docs/091422a434f60420b182f593b9026b4e.md`。
+- [剑桥化学挑战C3L6赛事及辅导介绍来源说明](sources/raw-doc-0973981ecb674a39809a62ca47ca808a.md) — 赛事分析与项目资料；对应 `raw/docs/0973981ecb674a39809a62ca47ca808a.md`。
+- [Thinktown商业科产品服务体系与学术顾问团队介绍来源说明](sources/raw-doc-09815be6104c7b72b325ca6420df3560.md) — 赛事分析与项目资料；对应 `raw/docs/09815be6104c7b72b325ca6420df3560.md`。
+- [海洋意识竞赛及辅导课程介绍来源说明](sources/raw-doc-09d3a3b1f4780d5e23696ec6261ded35.md) — 课程与产品资料；对应 `raw/docs/09d3a3b1f4780d5e23696ec6261ded35.md`。
+- [Thinktown推出纪录剧创作工作坊PBL项目来源说明](sources/raw-doc-0a3d0d6d381b30da832647ea8f45c69c.md) — 课程与产品资料；对应 `raw/docs/0a3d0d6d381b30da832647ea8f45c69c.md`。
+- [短视频创作线上1对1课程三阶段大纲介绍来源说明](sources/raw-doc-0ab538a4f5345f781536d21d8e5d9836.md) — 课程与产品资料；对应 `raw/docs/0ab538a4f5345f781536d21d8e5d9836.md`。
+- [Thinktown 成果与案例材料 0ac6bf1b来源说明](sources/raw-doc-0ac6bf1b1f71536284979dad86567214.md) — 成果与案例资料；对应 `raw/docs/0ac6bf1b1f71536284979dad86567214.md`。
+- [《太阳神传说》跨文化神话英语课程大纲来源说明](sources/raw-doc-0bc1120298b1b344b843c02edcba01c3.md) — 课程与产品资料；对应 `raw/docs/0bc1120298b1b344b843c02edcba01c3.md`。
+- [大都会写作竞赛来源说明](sources/raw-doc-0d8607dbfb7470fee735420e28988b7a.md) — 赛事基础资料；对应 `raw/docs/0d8607dbfb7470fee735420e28988b7a.md`。
+- [Thinktown 成果与案例材料 0e299230来源说明](sources/raw-doc-0e299230ed447b3291a21e053ee49216.md) — 成果与案例资料；对应 `raw/docs/0e299230ed447b3291a21e053ee49216.md`。
+- [商业国际竞赛推荐表来源说明](sources/raw-doc-0e6c25258dc8a60344feb16269d3c247.md) — 赛事分析与项目资料；对应 `raw/docs/0e6c25258dc8a60344feb16269d3c247.md`。
+- [简·奥斯汀论文竞赛参赛指南及辅导介绍来源说明](sources/raw-doc-0e8d656e4e2570406993e4f05d346b8b.md) — 赛事分析与项目资料；对应 `raw/docs/0e8d656e4e2570406993e4f05d346b8b.md`。
+- [新课堂戏剧课程：用戏剧重现历史人物来源说明](sources/raw-doc-0ebb6c1b49c2426d00352a76d8886d93.md) — 课程与产品资料；对应 `raw/docs/0ebb6c1b49c2426d00352a76d8886d93.md`。
+- [新课堂推出宠物日记创意写作课程来源说明](sources/raw-doc-0ebdc4ae19cbe693c541e47321177ae3.md) — 课程与产品资料；对应 `raw/docs/0ebdc4ae19cbe693c541e47321177ae3.md`。
+- [哈佛国际经济学论文大赛来源说明](sources/raw-doc-0f645914cb9c39af4f81b492af6d8e00.md) — 赛事基础资料；对应 `raw/docs/0f645914cb9c39af4f81b492af6d8e00.md`。
+- [滑铁卢高斯数学竞赛来源说明](sources/raw-doc-0fa151ebce5aa3368bd637a1b9eb9bff.md) — 赛事基础资料；对应 `raw/docs/0fa151ebce5aa3368bd637a1b9eb9bff.md`。
+- [宠物日记写作课前任务指南来源说明](sources/raw-doc-0ffd9cc1c7e92fecff26582fb05b0cfc.md) — 课程与产品资料；对应 `raw/docs/0ffd9cc1c7e92fecff26582fb05b0cfc.md`。
+- [纽约城市探索PBL课程申请表v2来源说明](sources/raw-doc-10f3a59de266855ab2c35b9380475843.md) — 课程与产品资料；对应 `raw/docs/10f3a59de266855ab2c35b9380475843.md`。
+- [Thinktown 成果与案例材料 15e8b589来源说明](sources/raw-doc-15e8b5892972f703ff6a701d9b727ac5.md) — 成果与案例资料；对应 `raw/docs/15e8b5892972f703ff6a701d9b727ac5.md`。
+- [独立策展人来源说明](sources/raw-doc-16a046a348ea3ce3959a9f81c35caf65.md) — 赛事基础资料；对应 `raw/docs/16a046a348ea3ce3959a9f81c35caf65.md`。
+- [Thinktown 成果与案例材料 1777487f来源说明](sources/raw-doc-1777487ffa2b0f30735530c8af784445.md) — 成果与案例资料；对应 `raw/docs/1777487ffa2b0f30735530c8af784445.md`。
+- [Thinktown 成果与案例材料 17babbf3来源说明](sources/raw-doc-17babbf37a05aa78d339f34019fbc62b.md) — 成果与案例资料；对应 `raw/docs/17babbf37a05aa78d339f34019fbc62b.md`。
+- [物理碗来源说明](sources/raw-doc-17e95b22098af5a3d2c2c39bc45b8daa.md) — 赛事基础资料；对应 `raw/docs/17e95b22098af5a3d2c2c39bc45b8daa.md`。
+- [Thinktown 成果与案例材料 187e8c9f来源说明](sources/raw-doc-187e8c9f9bcdb24462775ac9742ccd6e.md) — 成果与案例资料；对应 `raw/docs/187e8c9f9bcdb24462775ac9742ccd6e.md`。
+- [国际写作竞赛推荐及备赛规划指南来源说明](sources/raw-doc-18fe55fd2bdbc03b11e4c77e624c2b3c.md) — 赛事分析与项目资料；对应 `raw/docs/18fe55fd2bdbc03b11e4c77e624c2b3c.md`。
+- [美国全美天才国际音乐大赛来源说明](sources/raw-doc-194533e54725eb6e040ec061a50ad509.md) — 赛事基础资料；对应 `raw/docs/194533e54725eb6e040ec061a50ad509.md`。
+- [纽约时报说明文写作比赛来源说明](sources/raw-doc-1aac4417c60ae699b79f75be4f22d480.md) — 赛事基础资料；对应 `raw/docs/1aac4417c60ae699b79f75be4f22d480.md`。
+- [THINKTOWN经济国际竞赛推荐表来源说明](sources/raw-doc-1bb98c6a4fe6be5de0015d08cc5d6cca.md) — 赛事分析与项目资料；对应 `raw/docs/1bb98c6a4fe6be5de0015d08cc5d6cca.md`。
+- [Thinktown 成果与案例材料 1c1bdd97来源说明](sources/raw-doc-1c1bdd97ad0da16212288a56490de515.md) — 成果与案例资料；对应 `raw/docs/1c1bdd97ad0da16212288a56490de515.md`。
+- [新课堂康科德历史评论学术顾问计划产品手册来源说明](sources/raw-doc-1c89cb1b80624791434a3096e869a0a0.md) — 课程与产品资料；对应 `raw/docs/1c89cb1b80624791434a3096e869a0a0.md`。
+- [《历史人物剧本创作》项目简介来源说明](sources/raw-doc-1d4a13629dcfe271b27de220387ec4f4.md) — 课程与产品资料；对应 `raw/docs/1d4a13629dcfe271b27de220387ec4f4.md`。
+- [美国国会艺术竞赛来源说明](sources/raw-doc-1eb81c7fe505cae30a456912fc253bd9.md) — 赛事基础资料；对应 `raw/docs/1eb81c7fe505cae30a456912fc253bd9.md`。
+- [美国数学竞赛AMC08来源说明](sources/raw-doc-1ecda9b1f9c1f40948a33a2419b6797c.md) — 赛事基础资料；对应 `raw/docs/1ecda9b1f9c1f40948a33a2419b6797c.md`。
+- [《未来漫游者》PBL项目：探索数字生活与心理适应力来源说明](sources/raw-doc-1f0e46f05b287429dfcb83aa156bd8e8.md) — 课程与产品资料；对应 `raw/docs/1f0e46f05b287429dfcb83aa156bd8e8.md`。
+- [PBL课程开发文档版本与进度记录表来源说明](sources/raw-doc-1f344ef8383102928b951f1874f96320.md) — 课程与产品资料；对应 `raw/docs/1f344ef8383102928b951f1874f96320.md`。
+- [美国区域数学联赛来源说明](sources/raw-doc-1fc358392ba97e5a9fde20286f0a35ed.md) — 赛事基础资料；对应 `raw/docs/1fc358392ba97e5a9fde20286f0a35ed.md`。
+- [Thinktown 成果与案例材料 2026f23c来源说明](sources/raw-doc-2026f23cc67dea38c1d7bfc5924f6e39.md) — 成果与案例资料；对应 `raw/docs/2026f23cc67dea38c1d7bfc5924f6e39.md`。
+- [英国初级数学竞赛来源说明](sources/raw-doc-2119b368dc23566f521d6e128a7ca9c2.md) — 赛事基础资料；对应 `raw/docs/2119b368dc23566f521d6e128a7ca9c2.md`。
+- [单科学术顾问计划PBL课程规格与价格表来源说明](sources/raw-doc-215b2bd21c1e27e77980850a42828377.md) — 课程与产品资料；对应 `raw/docs/215b2bd21c1e27e77980850a42828377.md`。
+- [领袖思维训练营：从乔布斯到马斯克PBL项目介绍来源说明](sources/raw-doc-21caf7f0efdffca6f8a9953cb0ce5f88.md) — 课程与产品资料；对应 `raw/docs/21caf7f0efdffca6f8a9953cb0ce5f88.md`。
+- [英国化学奥林匹克竞赛赛事介绍与备考辅导来源说明](sources/raw-doc-2202dc74f71a294e370120e55c5a5813.md) — 赛事分析与项目资料；对应 `raw/docs/2202dc74f71a294e370120e55c5a5813.md`。
+- [戏剧人物研究来源说明](sources/raw-doc-225596a203b077509e3aec86f60be5b3.md) — 赛事基础资料；对应 `raw/docs/225596a203b077509e3aec86f60be5b3.md`。
+- [三大经济论文竞赛对比与选择指南来源说明](sources/raw-doc-23895e74e6181c04d25659ad11e1a7c7.md) — 赛事分析与项目资料；对应 `raw/docs/23895e74e6181c04d25659ad11e1a7c7.md`。
+- [三阶英语商业课程大纲：从基础表达到高阶策略来源说明](sources/raw-doc-2532ba49b81ddea7ff5d3549f63043a7.md) — 课程与产品资料；对应 `raw/docs/2532ba49b81ddea7ff5d3549f63043a7.md`。
+- [UKChO竞赛介绍与备赛课程产品手册来源说明](sources/raw-doc-25ad2d5f36bd70cf3ed6c88f6f128dcd.md) — 课程与产品资料；对应 `raw/docs/25ad2d5f36bd70cf3ed6c88f6f128dcd.md`。
+- [美国查理斯顿国际音乐比赛来源说明](sources/raw-doc-277eb2711eedcfd7a80b479c5999bf5c.md) — 赛事基础资料；对应 `raw/docs/277eb2711eedcfd7a80b479c5999bf5c.md`。
+- [美国数学思维挑战来源说明](sources/raw-doc-27a7ed5ef3019babcc5e4a1a33e6ef9e.md) — 赛事基础资料；对应 `raw/docs/27a7ed5ef3019babcc5e4a1a33e6ef9e.md`。
+- [Thinktown 成果与案例材料 287d2894来源说明](sources/raw-doc-287d2894bd81579b67cac0810ebbd42a.md) — 成果与案例资料；对应 `raw/docs/287d2894bd81579b67cac0810ebbd42a.md`。
+- [121825 AP心理学 指南 V1 from Thinktown.jpg来源说明](sources/raw-doc-28d12d01cf47f6eee39ae73b16af5549.md) — 其他资料；对应 `raw/docs/28d12d01cf47f6eee39ae73b16af5549.md`。
+- [澳大利亚数学竞赛来源说明](sources/raw-doc-295dae2fcc85a0148c87ae42ec179c8f.md) — 赛事基础资料；对应 `raw/docs/295dae2fcc85a0148c87ae42ec179c8f.md`。
+- [新课堂索尼青年摄影大赛学术顾问计划产品手册来源说明](sources/raw-doc-29fbb6b7da0b6a666edff496b69a185a.md) — 课程与产品资料；对应 `raw/docs/29fbb6b7da0b6a666edff496b69a185a.md`。
+- [美国高中生数学建模比赛来源说明](sources/raw-doc-2a20bbecbce7081881a95ce381e371fb.md) — 赛事基础资料；对应 `raw/docs/2a20bbecbce7081881a95ce381e371fb.md`。
+- [英国化学奥林匹克竞赛来源说明](sources/raw-doc-2a3480a57f054d098d21c1760fc7acde.md) — 赛事基础资料；对应 `raw/docs/2a3480a57f054d098d21c1760fc7acde.md`。
+- [Thinktown 成果与案例材料 2a651143来源说明](sources/raw-doc-2a6511432e83fb483395cc9bc88ae130.md) — 成果与案例资料；对应 `raw/docs/2a6511432e83fb483395cc9bc88ae130.md`。
+- [Thinktown 成果与案例材料 2d5f2dac来源说明](sources/raw-doc-2d5f2dac1bd9a5ea6baffc0fd34c2b06.md) — 成果与案例资料；对应 `raw/docs/2d5f2dac1bd9a5ea6baffc0fd34c2b06.md`。
+- [ASOC化学竞赛备赛课程产品手册介绍来源说明](sources/raw-doc-2d6c590ad27d8f59897b5728d18e3fbe.md) — 课程与产品资料；对应 `raw/docs/2d6c590ad27d8f59897b5728d18e3fbe.md`。
+- [加拿大化学竞赛介绍及备考指南来源说明](sources/raw-doc-2f0fdcda1edf70ae3c027fa5eea7067b.md) — 赛事分析与项目资料；对应 `raw/docs/2f0fdcda1edf70ae3c027fa5eea7067b.md`。
+- [JCCO化学竞赛简介及备考课程手册来源说明](sources/raw-doc-2fcd6b5e012385ee28495f46d2626a98.md) — 课程与产品资料；对应 `raw/docs/2fcd6b5e012385ee28495f46d2626a98.md`。
+- [英国心理学思维挑战来源说明](sources/raw-doc-3057cd1a817e2341b09452e5ce2cef1b.md) — 赛事基础资料；对应 `raw/docs/3057cd1a817e2341b09452e5ce2cef1b.md`。
+- [美国高中生传媒竞赛来源说明](sources/raw-doc-317a4b08a848db52820b8e393ed20250.md) — 赛事基础资料；对应 `raw/docs/317a4b08a848db52820b8e393ed20250.md`。
+- [少年突破挑战赛来源说明](sources/raw-doc-3280289d2cb017b47971b6eed1dcf758.md) — 赛事基础资料；对应 `raw/docs/3280289d2cb017b47971b6eed1dcf758.md`。
+- [新课堂生物项目：基因编辑与文献精读来源说明](sources/raw-doc-32b868996a58d8fcaf6d44137b66fdd9.md) — 赛事分析与项目资料；对应 `raw/docs/32b868996a58d8fcaf6d44137b66fdd9.md`。
+- [国际经济学奥林匹克竞赛来源说明](sources/raw-doc-32e5bee91e1c97fdae0e4b999ed78cdf.md) — 赛事基础资料；已按赛道、阶段、地区和年份拆分赛制说明。
+- [111225 全美高中电影节 指南 V3 from Thinktown.jpg来源说明](sources/raw-doc-3315b48720449551ea2fcfbe5d2ea3af.md) — 赛事分析与项目资料；对应 `raw/docs/3315b48720449551ea2fcfbe5d2ea3af.md`。
+- [美国数学竞赛AMC12来源说明](sources/raw-doc-3398631ce5b130f2cf40815213672d07.md) — 赛事基础资料；对应 `raw/docs/3398631ce5b130f2cf40815213672d07.md`。
+- [城市探险奥德赛：纽约探索线上项目简介来源说明](sources/raw-doc-34db452252acd1f3f95dc35c502b20bd.md) — 课程与产品资料；对应 `raw/docs/34db452252acd1f3f95dc35c502b20bd.md`。
+- [012225 CCC-加拿大化学竞赛 指南 V2 from Thinktown.jpg来源说明](sources/raw-doc-357ade39a113df3d20df083ee9b8810a.md) — 赛事分析与项目资料；对应 `raw/docs/357ade39a113df3d20df083ee9b8810a.md`。
+- [三阶历史PBL项目课程教案设计来源说明](sources/raw-doc-36075483b167bf3069b02ca21040c13b.md) — 课程与产品资料；对应 `raw/docs/36075483b167bf3069b02ca21040c13b.md`。
+- [国际医学与疾病奥林匹克竞赛来源说明](sources/raw-doc-363e87a66aeb0fe7db2c9d7a3b2e155d.md) — 赛事基础资料；对应 `raw/docs/363e87a66aeb0fe7db2c9d7a3b2e155d.md`。
+- [美国信息学奥林匹克竞赛来源说明](sources/raw-doc-3646c747ab0ad5fa7bb79211fc6d4929.md) — 赛事基础资料；对应 `raw/docs/3646c747ab0ad5fa7bb79211fc6d4929.md`。
+- [新课堂数位叙事创作营项目介绍来源说明](sources/raw-doc-367db88634374ce3b9cd56c0ad18bed1.md) — 课程与产品资料；对应 `raw/docs/367db88634374ce3b9cd56c0ad18bed1.md`。
+- [G5至G12全球商业竞赛全梯度精选清单来源说明](sources/raw-doc-373d7d8c5f3ebe6b3ac9f613f9275eba.md) — 赛事分析与项目资料；对应 `raw/docs/373d7d8c5f3ebe6b3ac9f613f9275eba.md`。
+- [073125 纽约时报-夏季读写比赛 指南（简）V4 from Thinktown.jpg来源说明](sources/raw-doc-377cf26722af6403fffeba0f6371ab73.md) — 赛事分析与项目资料；对应 `raw/docs/377cf26722af6403fffeba0f6371ab73.md`。
+- [G7-G12写作竞赛规划与备赛指南来源说明](sources/raw-doc-3866d766d7041b5227c74e8429e48bb2.md) — 赛事分析与项目资料；对应 `raw/docs/3866d766d7041b5227c74e8429e48bb2.md`。
+- [新课堂历史PBL项目：记录被忽视的小人物来源说明](sources/raw-doc-38ab7db47a31fe3408c04c7d3478af57.md) — 课程与产品资料；对应 `raw/docs/38ab7db47a31fe3408c04c7d3478af57.md`。
+- [英国高级数学竞赛来源说明](sources/raw-doc-3aaeae5c958939e01829d3e56e20efe0.md) — 赛事基础资料；对应 `raw/docs/3aaeae5c958939e01829d3e56e20efe0.md`。
+- [简奥斯汀论文竞赛来源说明](sources/raw-doc-3d94ec6c37cffd5b9db9df479cd8b279.md) — 赛事基础资料；对应 `raw/docs/3d94ec6c37cffd5b9db9df479cd8b279.md`。
+- [哈佛国际评论学术写作比赛来源说明](sources/raw-doc-3e59e8c3e095c0f6fec51c41d4f6ffba.md) — 赛事基础资料；对应 `raw/docs/3e59e8c3e095c0f6fec51c41d4f6ffba.md`。
+- [Thinktown 成果与案例材料 3e8ab68e来源说明](sources/raw-doc-3e8ab68e569ee47f6c34d520ab12be62.md) — 成果与案例资料；对应 `raw/docs/3e8ab68e569ee47f6c34d520ab12be62.md`。
+- [Thinktown 成果与案例材料 3ece1f49来源说明](sources/raw-doc-3ece1f493cec826319e5000f44a3269e.md) — 成果与案例资料；对应 `raw/docs/3ece1f493cec826319e5000f44a3269e.md`。
+- [澳大利亚物理奥林匹克竞赛来源说明](sources/raw-doc-3f2dd4cf46a9fc5f4c59c86c9f2c5b07.md) — 赛事基础资料；对应 `raw/docs/3f2dd4cf46a9fc5f4c59c86c9f2c5b07.md`。
+- [纽约时报摄影写作竞赛简介与Thinktown备考指南来源说明](sources/raw-doc-3f47df1af6fefbc66a1b6f3d6ddacd1e.md) — 赛事分析与项目资料；对应 `raw/docs/3f47df1af6fefbc66a1b6f3d6ddacd1e.md`。
+- [Thinktown未来学者计划化学科研项目介绍来源说明](sources/raw-doc-400423837bd3b7115d951a160f83a67e.md) — 课程与产品资料；对应 `raw/docs/400423837bd3b7115d951a160f83a67e.md`。
+- [莎士比亚角色现代重生线上项目简介来源说明](sources/raw-doc-4069ba46e99e61e59e3098191c4518b7.md) — 课程与产品资料；对应 `raw/docs/4069ba46e99e61e59e3098191c4518b7.md`。
+- [欧洲经济学挑战赛来源说明](sources/raw-doc-409e78c4e67a95b5bfbe37607155a26a.md) — 赛事基础资料；对应 `raw/docs/409e78c4e67a95b5bfbe37607155a26a.md`。
+- [Thinktown 成果与案例材料 40aebbe6来源说明](sources/raw-doc-40aebbe671639e9f2f576f0c3603e86b.md) — 成果与案例资料；对应 `raw/docs/40aebbe671639e9f2f576f0c3603e86b.md`。
+- [马歇尔经济论文竞赛及THINKTOWN辅导计划介绍来源说明](sources/raw-doc-415436d67df2c47b350eb6703da9239d.md) — 赛事分析与项目资料；对应 `raw/docs/415436d67df2c47b350eb6703da9239d.md`。
+- [滑铁卢数学竞赛FGH来源说明](sources/raw-doc-41f95c9bfae359a35182fdae41818917.md) — 赛事基础资料；对应 `raw/docs/41f95c9bfae359a35182fdae41818917.md`。
+- [尤金 奥尼尔青少年剧作家戏剧节来源说明](sources/raw-doc-43e9790cc085992ccd3d2055064a5421.md) — 赛事基础资料；对应 `raw/docs/43e9790cc085992ccd3d2055064a5421.md`。
+- [国际奥林匹克历史竞赛来源说明](sources/raw-doc-443f078bfe7070c3a57b337ab0be62e6.md) — 赛事基础资料；对应 `raw/docs/443f078bfe7070c3a57b337ab0be62e6.md`。
+- [加拿大初级化学奥林匹克活动介绍与备考规划来源说明](sources/raw-doc-44719ea0369c63df38b97d9e925fd843.md) — 赛事分析与项目资料；对应 `raw/docs/44719ea0369c63df38b97d9e925fd843.md`。
+- [Thinktown 成果与案例材料 44734fa5来源说明](sources/raw-doc-44734fa55916776fe1df7479bbc941f0.md) — 成果与案例资料；对应 `raw/docs/44734fa55916776fe1df7479bbc941f0.md`。
+- [Thinktown 成果与案例材料 45102b8c来源说明](sources/raw-doc-45102b8c02954aa4aea5126d42a98f2a.md) — 成果与案例资料；对应 `raw/docs/45102b8c02954aa4aea5126d42a98f2a.md`。
+- [072524 普林斯顿十分钟剧本竞赛 指南 V1 from Thinktown.jpg来源说明](sources/raw-doc-457c34571f04f098968d6a23284371e9.md) — 赛事分析与项目资料；对应 `raw/docs/457c34571f04f098968d6a23284371e9.md`。
+- [剑桥化学挑战C3L6竞赛介绍与备考指南来源说明](sources/raw-doc-4768078e9565db582b1df8b9f9ecf632.md) — 赛事分析与项目资料；对应 `raw/docs/4768078e9565db582b1df8b9f9ecf632.md`。
+- [李昕怡发布音乐故事播客PBL课程大纲来源说明](sources/raw-doc-482a373d4f5b77ddb8611f711d507ae0.md) — 课程与产品资料；对应 `raw/docs/482a373d4f5b77ddb8611f711d507ae0.md`。
+- [瑞幸咖啡便宜背后赚钱逻辑PBL课程介绍来源说明](sources/raw-doc-4895646461dd13e7bb4b512237c45e3a.md) — 课程与产品资料；对应 `raw/docs/4895646461dd13e7bb4b512237c45e3a.md`。
+- [SIC中学生投资研习全球站及辅导产品介绍来源说明](sources/raw-doc-489eebaffc0f60dfc0b5377e34ceb7cf.md) — 赛事分析与项目资料；对应 `raw/docs/489eebaffc0f60dfc0b5377e34ceb7cf.md`。
+- [国际化学知识竞赛来源说明](sources/raw-doc-48cd6ddd53487a232eee17ebb64e1967.md) — 赛事基础资料；对应 `raw/docs/48cd6ddd53487a232eee17ebb64e1967.md`。
+- [C3L6剑桥化学挑战赛备赛课程与指南手册来源说明](sources/raw-doc-49ebfe7f913cd6eb70d2bb65bfc0be09.md) — 课程与产品资料；对应 `raw/docs/49ebfe7f913cd6eb70d2bb65bfc0be09.md`。
+- [新课堂国家历史日学术顾问计划产品手册来源说明](sources/raw-doc-4a54234e5be31aec4e772d8ef559088e.md) — 课程与产品资料；对应 `raw/docs/4a54234e5be31aec4e772d8ef559088e.md`。
+- [“拯救青蛙”艺术大赛介绍与辅导说明来源说明](sources/raw-doc-4aa9dbd934a60f390802310de7c0599a.md) — 赛事分析与项目资料；对应 `raw/docs/4aa9dbd934a60f390802310de7c0599a.md`。
+- [英国中级&高级物理挑战赛来源说明](sources/raw-doc-4b070bcb8fd10b8a32b8a390f14609dd.md) — 赛事基础资料；对应 `raw/docs/4b070bcb8fd10b8a32b8a390f14609dd.md`。
+- [THINKTOWN推出创意写作三阶段课程来源说明](sources/raw-doc-4b9c0a957b792cb7b0cce68db74e11cb.md) — 课程与产品资料；对应 `raw/docs/4b9c0a957b792cb7b0cce68db74e11cb.md`。
+- [Thinktown 成果与案例材料 4bf13ff1来源说明](sources/raw-doc-4bf13ff1fb5acf9d5cafad3fa52e1cb9.md) — 成果与案例资料；对应 `raw/docs/4bf13ff1fb5acf9d5cafad3fa52e1cb9.md`。
+- [Thinktown AP心理教学成果与备考指南来源说明](sources/raw-doc-4dac379dfab9345afa4c096d72a7fe98.md) — 其他资料；对应 `raw/docs/4dac379dfab9345afa4c096d72a7fe98.md`。
+- [马歇尔学会经济论文竞赛来源说明](sources/raw-doc-4dc0c4f5357b6e693831c657b6ee8ebc.md) — 赛事基础资料；对应 `raw/docs/4dc0c4f5357b6e693831c657b6ee8ebc.md`。
+- [SIC 2024 中学生投资研习活动与辅导方案来源说明](sources/raw-doc-4ed70b6ecda0cab987a8692d3ad841d4.md) — 课程与产品资料；对应 `raw/docs/4ed70b6ecda0cab987a8692d3ad841d4.md`。
+- [哈佛深红报全球征文大赛来源说明](sources/raw-doc-4fb03af62cefd8d0c6dbe16b4fecbdb7.md) — 赛事基础资料；对应 `raw/docs/4fb03af62cefd8d0c6dbe16b4fecbdb7.md`。
+- [学生宠物日记写作提示目录及分级指南来源说明](sources/raw-doc-5017f289403dcc910e02f8224ce652a1.md) — 课程与产品资料；对应 `raw/docs/5017f289403dcc910e02f8224ce652a1.md`。
+- [跨科学术顾问计划CTB 2025-2026赛季产品手册来源说明](sources/raw-doc-51ebbd19ee9e7ebca31de059cf7f3162.md) — 课程与产品资料；对应 `raw/docs/51ebbd19ee9e7ebca31de059cf7f3162.md`。
+- [全美高中生电影节及Thinktown辅导案例解析来源说明](sources/raw-doc-5357c61953fc90421b6374c3bac290e4.md) — 赛事分析与项目资料；对应 `raw/docs/5357c61953fc90421b6374c3bac290e4.md`。
+- [新课堂推出跨文化神话探秘线上写作项目来源说明](sources/raw-doc-53f060c4445d71f2b713c5c309488e42.md) — 其他资料；对应 `raw/docs/53f060c4445d71f2b713c5c309488e42.md`。
+- [新课堂推出演绎名画跨科学术顾问计划来源说明](sources/raw-doc-5433fa628b5574e7b311f24e8445abd7.md) — 课程与产品资料；对应 `raw/docs/5433fa628b5574e7b311f24e8445abd7.md`。
+- [PBL自然密码课程大纲：分形数学三阶学习路径来源说明](sources/raw-doc-54c800b8fac2641a2d1e4cdb82705508.md) — 课程与产品资料；对应 `raw/docs/54c800b8fac2641a2d1e4cdb82705508.md`。
+- [CCC备赛课程产品手册（化学）介绍来源说明](sources/raw-doc-54e91c545b7a624be9aeb9c32ce7ac19.md) — 课程与产品资料；对应 `raw/docs/54e91c545b7a624be9aeb9c32ce7ac19.md`。
+- [谷歌涂鸦大赛来源说明](sources/raw-doc-54f86c2936b67daaf2ebb35f97588ad2.md) — 赛事基础资料；对应 `raw/docs/54f86c2936b67daaf2ebb35f97588ad2.md`。
+- [Thinktown 成果与案例材料 553765f0来源说明](sources/raw-doc-553765f0558bf799e1953a3ed99fca42.md) — 成果与案例资料；对应 `raw/docs/553765f0558bf799e1953a3ed99fca42.md`。
+- [Thinktown 成果与案例材料 561f7a23来源说明](sources/raw-doc-561f7a234d6e1e1900645687a99446f5.md) — 成果与案例资料；对应 `raw/docs/561f7a234d6e1e1900645687a99446f5.md`。
+- [072524 尤金奥尼尔青少年剧作家戏剧节 指南 V1 from Thinktown.jpg来源说明](sources/raw-doc-575c2867f187ac57fbb878de2b2c60f9.md) — 赛事分析与项目资料；对应 `raw/docs/575c2867f187ac57fbb878de2b2c60f9.md`。
+- [像导演那样拍照：人像摄影故事创作PBL课程介绍来源说明](sources/raw-doc-576e44b0cdb32222e78bb0a430931ae9.md) — 课程与产品资料；对应 `raw/docs/576e44b0cdb32222e78bb0a430931ae9.md`。
+- [罗斯数学训练营来源说明](sources/raw-doc-578945df1fee7be632dfc252cec1ccd1.md) — 课程与产品资料；对应 `raw/docs/578945df1fee7be632dfc252cec1ccd1.md`。
+- [新课堂推出莎士比亚戏剧重写与独白创作课程来源说明](sources/raw-doc-58f692a276d77095ee0f6a1e87f9e3b8.md) — 课程与产品资料；对应 `raw/docs/58f692a276d77095ee0f6a1e87f9e3b8.md`。
+- [072524 YouthPLAYS青少年剧作家独幕剧竞赛 指南 V1 from Thinktown.jpg来源说明](sources/raw-doc-59b1c4aaf3fd4345f17b5132272c4c5c.md) — 赛事分析与项目资料；对应 `raw/docs/59b1c4aaf3fd4345f17b5132272c4c5c.md`。
+- [Thinktown 成果与案例材料 5a09a41c来源说明](sources/raw-doc-5a09a41ccad73092400fde2ca0a5fc13.md) — 成果与案例资料；对应 `raw/docs/5a09a41ccad73092400fde2ca0a5fc13.md`。
+- [Thinktown 成果与案例材料 5b42020b来源说明](sources/raw-doc-5b42020b1d8386ba3cd3658361424732.md) — 成果与案例资料；对应 `raw/docs/5b42020b1d8386ba3cd3658361424732.md`。
+- [Thinktown NEC竞赛辅导成果及2025赛季报名开启来源说明](sources/raw-doc-5b85246498ba42df2243a87153d5188c.md) — 赛事分析与项目资料；对应 `raw/docs/5b85246498ba42df2243a87153d5188c.md`。
+- [Thinktown 成果与案例材料 5c0ed0fd来源说明](sources/raw-doc-5c0ed0fdd2cd5ccecfd5f76d5ae915a3.md) — 成果与案例资料；对应 `raw/docs/5c0ed0fdd2cd5ccecfd5f76d5ae915a3.md`。
+- [剑桥 Re:think 论文竞赛介绍来源说明](sources/raw-doc-5c59d102093b4302f012fcb89c9e5d5a.md) — 赛事分析与项目资料；对应 `raw/docs/5c59d102093b4302f012fcb89c9e5d5a.md`。
+- [010926 写作夏校指南 V1 from Thinktown.jpg来源说明](sources/raw-doc-5caf899f3a4966f77ba11df36c5f8915.md) — 赛事分析与项目资料；对应 `raw/docs/5caf899f3a4966f77ba11df36c5f8915.md`。
+- [音乐制作人来源说明](sources/raw-doc-5fbd65e522b33cb711fbce9cbfc087de.md) — 赛事基础资料；对应 `raw/docs/5fbd65e522b33cb711fbce9cbfc087de.md`。
+- [新课堂纽约时报播客竞赛SBA辅导产品介绍来源说明](sources/raw-doc-60d787cabc6bdbbf90421153d055eef0.md) — 赛事分析与项目资料；对应 `raw/docs/60d787cabc6bdbbf90421153d055eef0.md`。
+- [Thinktown 成果与案例材料 61c84ad0来源说明](sources/raw-doc-61c84ad038314ced3da57c1eb476ec16.md) — 成果与案例资料；对应 `raw/docs/61c84ad038314ced3da57c1eb476ec16.md`。
+- [新课堂历史旅行指南写作课程介绍来源说明](sources/raw-doc-61e598243155da52f3d4f044034c58dd.md) — 课程与产品资料；对应 `raw/docs/61e598243155da52f3d4f044034c58dd.md`。
+- [新课堂经济学PBL项目：一周生存预算挑战来源说明](sources/raw-doc-62a1e5e99e6cd8a70b099bf0b582b3d0.md) — 课程与产品资料；对应 `raw/docs/62a1e5e99e6cd8a70b099bf0b582b3d0.md`。
+- [紫色彗星数学竞赛来源说明](sources/raw-doc-6333637770d40d45a22fdb79b03dc5d2.md) — 赛事基础资料；对应 `raw/docs/6333637770d40d45a22fdb79b03dc5d2.md`。
+- [高中生商业全能挑战赛来源说明](sources/raw-doc-63b8db8cc84a827c65850023d8abdc94.md) — 赛事基础资料；对应 `raw/docs/63b8db8cc84a827c65850023d8abdc94.md`。
+- [简奥斯汀论文竞赛单科学术顾问计划介绍来源说明](sources/raw-doc-64ddc8122a901b0a1927b8714f99b8de.md) — 课程与产品资料；对应 `raw/docs/64ddc8122a901b0a1927b8714f99b8de.md`。
+- [约翰洛克论文比赛介绍来源说明](sources/raw-doc-65351b7588f9c060a16a38fff0a48896.md) — 赛事分析与项目资料；对应 `raw/docs/65351b7588f9c060a16a38fff0a48896.md`。
+- [国际数学建模挑战赛来源说明](sources/raw-doc-6559b4ad78fe048473a8ff261512a39b.md) — 赛事基础资料；对应 `raw/docs/6559b4ad78fe048473a8ff261512a39b.md`。
+- [美本申请心理学竞赛规划指南来源说明](sources/raw-doc-65cb7c888b35c2fda814a61d57d20aeb.md) — 赛事分析与项目资料；对应 `raw/docs/65cb7c888b35c2fda814a61d57d20aeb.md`。
+- [英国中级数学竞赛来源说明](sources/raw-doc-664afc17096c35388b3dfb2c3ebf0e55.md) — 赛事基础资料；对应 `raw/docs/664afc17096c35388b3dfb2c3ebf0e55.md`。
+- [青少年新闻行动项目简介来源说明](sources/raw-doc-684ff8ddc965c129782dda194866227e.md) — 课程与产品资料；对应 `raw/docs/684ff8ddc965c129782dda194866227e.md`。
+- [2026年爱荷华青年作家写作营 V1.jpg来源说明](sources/raw-doc-68999133b6b129e8af6d61b60b094572.md) — 赛事分析与项目资料；对应 `raw/docs/68999133b6b129e8af6d61b60b094572.md`。
+- [纽约时报评论比赛来源说明](sources/raw-doc-68f6743c463ab0b022e5c982f7bedbad.md) — 赛事基础资料；对应 `raw/docs/68f6743c463ab0b022e5c982f7bedbad.md`。
+- [053024 USACO-美国信息学奥林匹克竞赛 指南 V1 from Thinktown.jpg来源说明](sources/raw-doc-69b475a74112617a07b977ce8fa873d4.md) — 赛事分析与项目资料；对应 `raw/docs/69b475a74112617a07b977ce8fa873d4.md`。
+- [THINKTOWN生物国际竞赛推荐及备考规划指南来源说明](sources/raw-doc-69d8971c0487910d6143d7b60ce0e58f.md) — 赛事分析与项目资料；对应 `raw/docs/69d8971c0487910d6143d7b60ce0e58f.md`。
+- [加拿大物理奥林匹克预选赛来源说明](sources/raw-doc-6a21e429087204ee38711ce1a7d6e574.md) — 赛事基础资料；对应 `raw/docs/6a21e429087204ee38711ce1a7d6e574.md`。
+- [宾大沃顿商业领导力项目来源说明](sources/raw-doc-6a984841f0c4e31a1eb4e45891b04687.md) — 赛事基础资料；对应 `raw/docs/6a984841f0c4e31a1eb4e45891b04687.md`。
+- [031825 大都会写作竞赛.jpg来源说明](sources/raw-doc-6aba9635106ec8d9e47b9a42314e5f46.md) — 赛事分析与项目资料；对应 `raw/docs/6aba9635106ec8d9e47b9a42314e5f46.md`。
+- [新课堂戏剧PBL项目：导演手札课程介绍来源说明](sources/raw-doc-6abe21e246db5a5bdc26aa9b89d8847e.md) — 课程与产品资料；对应 `raw/docs/6abe21e246db5a5bdc26aa9b89d8847e.md`。
+- [普林斯顿10分钟剧本创作比赛来源说明](sources/raw-doc-6b837820bab33f614ac3c8e9c4e18841.md) — 赛事基础资料；对应 `raw/docs/6b837820bab33f614ac3c8e9c4e18841.md`。
+- [青年科学家数学计划来源说明](sources/raw-doc-6bf1de49b7aaebba1778db001d35215f.md) — 赛事基础资料；对应 `raw/docs/6bf1de49b7aaebba1778db001d35215f.md`。
+- [Urban Odyssey纽约探索PBL写作课程介绍来源说明](sources/raw-doc-6c13765e043dbe08227a1e5c9939a204.md) — 课程与产品资料；对应 `raw/docs/6c13765e043dbe08227a1e5c9939a204.md`。
+- [纽约时报播客竞赛介绍及备赛指南来源说明](sources/raw-doc-6c2e4b24cece5a51e88a63fbbf896b68.md) — 赛事分析与项目资料；对应 `raw/docs/6c2e4b24cece5a51e88a63fbbf896b68.md`。
+- [纽约时报摄影竞赛及Thinktown辅导项目介绍来源说明](sources/raw-doc-6d4e1939f4f937ff1f23f4cb394df201.md) — 课程与产品资料；对应 `raw/docs/6d4e1939f4f937ff1f23f4cb394df201.md`。
+- [042425 2025-2026索尼摄影大赛 V3.jpg来源说明](sources/raw-doc-6f6d93099af21c7c7d459088215f7fab.md) — 赛事分析与项目资料；对应 `raw/docs/6f6d93099af21c7c7d459088215f7fab.md`。
+- [青少年新闻学PBL项目三级课程大纲介绍来源说明](sources/raw-doc-706c7ed29c1b50b0bcfe74e38392eaf9.md) — 课程与产品资料；对应 `raw/docs/706c7ed29c1b50b0bcfe74e38392eaf9.md`。
+- [六课时诗歌创作课程大纲与学习目标解析来源说明](sources/raw-doc-710403e6b8c1fa2d61993863d5a00879.md) — 课程与产品资料；对应 `raw/docs/710403e6b8c1fa2d61993863d5a00879.md`。
+- [澳大利亚生物奥林匹克竞赛来源说明](sources/raw-doc-71edf03c9eba883a74d354f473653a41.md) — 赛事基础资料；对应 `raw/docs/71edf03c9eba883a74d354f473653a41.md`。
+- [社会公正奖来源说明](sources/raw-doc-72263991d94224a4c16c464623b51e53.md) — 赛事基础资料；对应 `raw/docs/72263991d94224a4c16c464623b51e53.md`。
+- [数学酷暑期夏令营来源说明](sources/raw-doc-72e89a6f64922223436c266f7529bf2e.md) — 赛事基础资料；对应 `raw/docs/72e89a6f64922223436c266f7529bf2e.md`。
+- [新课堂推出电影评论写作PBL课程来源说明](sources/raw-doc-73b3c64f54f771f2381c22f4cd3d5413.md) — 课程与产品资料；对应 `raw/docs/73b3c64f54f771f2381c22f4cd3d5413.md`。
+- [Thinktown 成果与案例材料 74a4a366来源说明](sources/raw-doc-74a4a3664db484e428aea298e29139dc.md) — 成果与案例资料；对应 `raw/docs/74a4a3664db484e428aea298e29139dc.md`。
+- [投稿JSR成功案例.jpg来源说明](sources/raw-doc-752bd723839158331d7d696b18ec70f1.md) — 赛事分析与项目资料；对应 `raw/docs/752bd723839158331d7d696b18ec70f1.md`。
+- [Write the World月度竞赛来源说明](sources/raw-doc-7589cd1da41ddb2eba89f893aa8dc5fe.md) — 赛事基础资料；对应 `raw/docs/7589cd1da41ddb2eba89f893aa8dc5fe.md`。
+- [2025 SIC S13 中学生投资挑战成果来源说明](sources/raw-doc-7668c7162998a6da9a2d26e008b3b358.md) — 赛事分析与项目资料；对应 `raw/docs/7668c7162998a6da9a2d26e008b3b358.md`。
+- [国家历史日赛事介绍及Thinktown辅导服务来源说明](sources/raw-doc-77399ff175031f29cf3a99a84080cb80.md) — 赛事分析与项目资料；对应 `raw/docs/77399ff175031f29cf3a99a84080cb80.md`。
+- [新课堂美国国会艺术竞赛ABC课程产品手册来源说明](sources/raw-doc-7790cca2c08c363d029e12c71bb36ac0.md) — 课程与产品资料；对应 `raw/docs/7790cca2c08c363d029e12c71bb36ac0.md`。
+- [澳大利亚化学奥林匹克竞赛来源说明](sources/raw-doc-7a59575105ccc76a915bfd8742a54a52.md) — 赛事基础资料；对应 `raw/docs/7a59575105ccc76a915bfd8742a54a52.md`。
+- [070724 文学评论家-英语论文指南 英语科 V1 from 王子欣.jpg来源说明](sources/raw-doc-7a9e4933ff370035795cada1936930ef.md) — 赛事分析与项目资料；对应 `raw/docs/7a9e4933ff370035795cada1936930ef.md`。
+- [2025年度心理学竞赛回顾及辅导成果展示来源说明](sources/raw-doc-7bab3e94254a1e9d1cc519c75185f899.md) — 赛事分析与项目资料；对应 `raw/docs/7bab3e94254a1e9d1cc519c75185f899.md`。
+- [2026年John Locke论文竞赛放题及变动来源说明](sources/raw-doc-7be6ec8091f7c565145cb43fbf0fa43b.md) — 赛事分析与项目资料；对应 `raw/docs/7be6ec8091f7c565145cb43fbf0fa43b.md`。
+- [拯救青蛙艺术大赛来源说明](sources/raw-doc-7d28dceca1f87a25a5a1d96c3ac4e773.md) — 赛事基础资料；对应 `raw/docs/7d28dceca1f87a25a5a1d96c3ac4e773.md`。
+- [英国生物奥林匹克来源说明](sources/raw-doc-7d5114988ec3d3bf9fd42441eac9fbe8.md) — 赛事基础资料；对应 `raw/docs/7d5114988ec3d3bf9fd42441eac9fbe8.md`。
+- [中学生投资大赛来源说明](sources/raw-doc-7dc2baf3888d7dd9635a7e3a8de002e0.md) — 赛事基础资料；对应 `raw/docs/7dc2baf3888d7dd9635a7e3a8de002e0.md`。
+- [纽约时报叙事写作比赛来源说明](sources/raw-doc-7e5a298a4f674a6d9d98d58bbea0c54f.md) — 赛事基础资料；对应 `raw/docs/7e5a298a4f674a6d9d98d58bbea0c54f.md`。
+- [全美经济学素养研习活动来源说明](sources/raw-doc-7f6ebe86d0660ca5e0aeb715ecd50971.md) — 赛事基础资料；对应 `raw/docs/7f6ebe86d0660ca5e0aeb715ecd50971.md`。
+- [约翰洛克论文比赛来源说明](sources/raw-doc-8077fcd231913d70384798c0c5f47d6c.md) — 赛事基础资料；对应 `raw/docs/8077fcd231913d70384798c0c5f47d6c.md`。
+- [022525 独立策展人-V2.jpg来源说明](sources/raw-doc-80b498e6c5bc1789f4e6390c8217e2ce.md) — 赛事分析与项目资料；对应 `raw/docs/80b498e6c5bc1789f4e6390c8217e2ce.md`。
+- [美国化学奥林匹克竞赛来源说明](sources/raw-doc-815bc76fb8d4883580c5a111f11acccd.md) — 赛事基础资料；对应 `raw/docs/815bc76fb8d4883580c5a111f11acccd.md`。
+- [维瑟历史写作论文奖来源说明](sources/raw-doc-81f90ec09fdba396252e4b65dd5c7da1.md) — 赛事基础资料；对应 `raw/docs/81f90ec09fdba396252e4b65dd5c7da1.md`。
+- [052924 kaggle大数据竞赛 指南 V1 from Thinktown.jpg来源说明](sources/raw-doc-8257d1d799ef39bfadeb981606e3e719.md) — 赛事分析与项目资料；对应 `raw/docs/8257d1d799ef39bfadeb981606e3e719.md`。
+- [Thinktown 成果与案例材料 8370a2d5来源说明](sources/raw-doc-8370a2d5221741fb467d0db583ebb034.md) — 成果与案例资料；对应 `raw/docs/8370a2d5221741fb467d0db583ebb034.md`。
+- [加拿大化学竞赛来源说明](sources/raw-doc-83b036d14e9bddef287b814a4dae35b8.md) — 赛事基础资料；对应 `raw/docs/83b036d14e9bddef287b814a4dae35b8.md`。
+- [《我最爱的科技产品变变变》项目介绍来源说明](sources/raw-doc-83d9679f7d0d1d50b4ef79cb74c5e260.md) — 课程与产品资料；对应 `raw/docs/83d9679f7d0d1d50b4ef79cb74c5e260.md`。
+- [IB课程IA高分避坑指南与化学IA备考建议来源说明](sources/raw-doc-846698f70c066940f29d0c04f9bb49c9.md) — 其他资料；对应 `raw/docs/846698f70c066940f29d0c04f9bb49c9.md`。
+- [文学评论家论文项目来源说明](sources/raw-doc-850d9393114bf81dd8b2d0698a9463d3.md) — 赛事基础资料；对应 `raw/docs/850d9393114bf81dd8b2d0698a9463d3.md`。
+- [加州伯克利大学数学竞赛来源说明](sources/raw-doc-858870c986e838692b4cfb4bef7e2eb9.md) — 赛事基础资料；对应 `raw/docs/858870c986e838692b4cfb4bef7e2eb9.md`。
+- [新课堂化学未来学者科研项目产品手册v2来源说明](sources/raw-doc-87388bbde5fcd62873be851603669384.md) — 课程与产品资料；对应 `raw/docs/87388bbde5fcd62873be851603669384.md`。
+- [Future Wanderers数字生活与心理探索课程大纲来源说明](sources/raw-doc-878e57ee9232f7ad113cdefbe1bde5ee.md) — 课程与产品资料；对应 `raw/docs/878e57ee9232f7ad113cdefbe1bde5ee.md`。
+- [NHD历史竞赛全面解析及Thinktown备赛指南来源说明](sources/raw-doc-87b4e7fcc89216db1d227f48cf524469.md) — 赛事分析与项目资料；对应 `raw/docs/87b4e7fcc89216db1d227f48cf524469.md`。
+- [新课堂文学评论家单科学术顾问计划产品手册来源说明](sources/raw-doc-88192f5d425396f5021f7bba0c7695f8.md) — 课程与产品资料；对应 `raw/docs/88192f5d425396f5021f7bba0c7695f8.md`。
+- [101624Brain Bee 脑科学活动guide from Thinktown.jpg来源说明](sources/raw-doc-888f5b2674ef08fb8b3f1e669226d125.md) — 赛事分析与项目资料；对应 `raw/docs/888f5b2674ef08fb8b3f1e669226d125.md`。
+- [历史人物剧本创作课程教学大纲来源说明](sources/raw-doc-88f7abd45f6ed67de65279607f6630b5.md) — 课程与产品资料；对应 `raw/docs/88f7abd45f6ed67de65279607f6630b5.md`。
+- [袋鼠数学竞赛来源说明](sources/raw-doc-89079e63e3a01c9e2752295536c36c8d.md) — 赛事基础资料；对应 `raw/docs/89079e63e3a01c9e2752295536c36c8d.md`。
+- [Thinktown 成果与案例材料 8a862c5e来源说明](sources/raw-doc-8a862c5e492163d899de112a666509d2.md) — 成果与案例资料；对应 `raw/docs/8a862c5e492163d899de112a666509d2.md`。
+- [THINKTOWN新课堂口述叙事写作课程介绍来源说明](sources/raw-doc-8b3c020264b353d5513d7d9a5629c6d8.md) — 课程与产品资料；对应 `raw/docs/8b3c020264b353d5513d7d9a5629c6d8.md`。
+- [Thinktown 成果与案例材料 8b8ea74e来源说明](sources/raw-doc-8b8ea74e52e4496518f95f01a1c35465.md) — 成果与案例资料；对应 `raw/docs/8b8ea74e52e4496518f95f01a1c35465.md`。
+- [音乐与社会主题英语课程设计方案来源说明](sources/raw-doc-8bc30b0152d2edd0a087e3e68ca03819.md) — 课程与产品资料；对应 `raw/docs/8bc30b0152d2edd0a087e3e68ca03819.md`。
+- [纽约时报公开信写作比赛来源说明](sources/raw-doc-8bf189d62b8697485dac8ea033c6a17c.md) — 赛事基础资料；对应 `raw/docs/8bf189d62b8697485dac8ea033c6a17c.md`。
+- [纽约时报夏季读写比赛来源说明](sources/raw-doc-8c3a0797a715e3729b60495be09087ea.md) — 赛事基础资料；对应 `raw/docs/8c3a0797a715e3729b60495be09087ea.md`。
+- [073125 纽约时报-叙事写作比赛 指南 V3 from Thinktown.jpg来源说明](sources/raw-doc-8cdd25772b5ddd7fd1d35ccf19abcbe9.md) — 赛事分析与项目资料；对应 `raw/docs/8cdd25772b5ddd7fd1d35ccf19abcbe9.md`。
+- [Thinktown 成果与案例材料 8d61aa99来源说明](sources/raw-doc-8d61aa99eecdca548eb6a9752d142fd0.md) — 成果与案例资料；对应 `raw/docs/8d61aa99eecdca548eb6a9752d142fd0.md`。
+- [Thinktown 成果与案例材料 8e9f7897来源说明](sources/raw-doc-8e9f7897bf275d0c033c86254486bf2f.md) — 成果与案例资料；对应 `raw/docs/8e9f7897bf275d0c033c86254486bf2f.md`。
+- [111525 PBL-戏剧-用现代英语重写莎士比亚.jpg来源说明](sources/raw-doc-8f29bd2896aa25a27a01dd03ff139086.md) — 课程与产品资料；对应 `raw/docs/8f29bd2896aa25a27a01dd03ff139086.md`。
+- [Thinktown 成果与案例材料 8f6d6ac0来源说明](sources/raw-doc-8f6d6ac0ecd0e2b1bbcf5b21377692d8.md) — 成果与案例资料；对应 `raw/docs/8f6d6ac0ecd0e2b1bbcf5b21377692d8.md`。
+- [Thinktown 成果与案例材料 8fb7a98d来源说明](sources/raw-doc-8fb7a98d1b9e12234c1d8c67c223d9fb.md) — 成果与案例资料；对应 `raw/docs/8fb7a98d1b9e12234c1d8c67c223d9fb.md`。
+- [新课堂推出青少年新闻写作PBL课程来源说明](sources/raw-doc-90e53b080a110e1cca6db9e7230bb07e.md) — 课程与产品资料；对应 `raw/docs/90e53b080a110e1cca6db9e7230bb07e.md`。
+- [2022–2025 约翰洛克心理学论文竞赛成果来源说明](sources/raw-doc-9183a78ba997f574fe906c3b7d1ad811.md) — 赛事分析与项目资料；对应 `raw/docs/9183a78ba997f574fe906c3b7d1ad811.md`。
+- [个人故事项目式学习课程大纲与任务来源说明](sources/raw-doc-92823fc874d1a4dcb853280ed4d2912d.md) — 课程与产品资料；对应 `raw/docs/92823fc874d1a4dcb853280ed4d2912d.md`。
+- [PBL个人故事讲述项目介绍来源说明](sources/raw-doc-92c2dcf38088b765d0a28e008f5da5c4.md) — 课程与产品资料；对应 `raw/docs/92c2dcf38088b765d0a28e008f5da5c4.md`。
+- [社会公正奖赛事介绍来源说明](sources/raw-doc-9321ec33e172a6a5a2b76c8cd4ccf68e.md) — 赛事分析与项目资料；对应 `raw/docs/9321ec33e172a6a5a2b76c8cd4ccf68e.md`。
+- [031825 海洋意识竞赛OAC.jpg来源说明](sources/raw-doc-949f15703bdcfea84f9542d68c2c2c3f.md) — 赛事分析与项目资料；对应 `raw/docs/949f15703bdcfea84f9542d68c2c2c3f.md`。
+- [新课堂PBL商业项目：探究瑞幸咖啡低价盈利之谜来源说明](sources/raw-doc-94d172c849feac497d15cd529eb3ee6c.md) — 课程与产品资料；对应 `raw/docs/94d172c849feac497d15cd529eb3ee6c.md`。
+- [电影分析初、中、高级课程大纲与学习成果介绍来源说明](sources/raw-doc-95b3c8125a86ec72d7c384d7e10b483c.md) — 课程与产品资料；对应 `raw/docs/95b3c8125a86ec72d7c384d7e10b483c.md`。
+- [PBL基因编辑与前沿文献精读生物课程介绍来源说明](sources/raw-doc-96bacbe79f1022a932690ae98ca0a776.md) — 课程与产品资料；对应 `raw/docs/96bacbe79f1022a932690ae98ca0a776.md`。
+- [拯救青蛙艺术大赛介绍及Thinktown辅导案例来源说明](sources/raw-doc-972253833697dc9ab6c690797fad02fa.md) — 赛事分析与项目资料；对应 `raw/docs/972253833697dc9ab6c690797fad02fa.md`。
+- [073125 纽约时报-公开信写作比赛 指南 V4 from Thinktown.jpg来源说明](sources/raw-doc-98521dff05edf9d647cb6b374339cfad.md) — 赛事分析与项目资料；对应 `raw/docs/98521dff05edf9d647cb6b374339cfad.md`。
+- [阿斯丹美式数学竞赛来源说明](sources/raw-doc-990a4a1b4fdbe4bde5b3de676249429a.md) — 赛事基础资料；对应 `raw/docs/990a4a1b4fdbe4bde5b3de676249429a.md`。
+- [纽约时报摄影竞赛来源说明](sources/raw-doc-9a3a043957b8fab2488089063a75a97d.md) — 赛事基础资料；对应 `raw/docs/9a3a043957b8fab2488089063a75a97d.md`。
+- [康莱德创新挑战来源说明](sources/raw-doc-9a3c928a9d81cfd1da87e726d703034f.md) — 赛事基础资料；对应 `raw/docs/9a3c928a9d81cfd1da87e726d703034f.md`。
+- [新课堂推出美国学术艺术写作奖ABC辅导课程来源说明](sources/raw-doc-9b190493d4da7fbc842daa822498086f.md) — 课程与产品资料；对应 `raw/docs/9b190493d4da7fbc842daa822498086f.md`。
+- [科技产品演变PBL英语课程大纲及反馈来源说明](sources/raw-doc-9b2979cb5394d2fe1b23b6dd7cb782c9.md) — 课程与产品资料；对应 `raw/docs/9b2979cb5394d2fe1b23b6dd7cb782c9.md`。
+- [海洋意识竞赛来源说明](sources/raw-doc-9b763f740bf001cdeec35a2d0e16a221.md) — 赛事基础资料；对应 `raw/docs/9b763f740bf001cdeec35a2d0e16a221.md`。
+- [自然密码：艺术与野性中的分型PBL项目介绍来源说明](sources/raw-doc-9c8f81dc1d44e33cf0c11421484ac5ce.md) — 课程与产品资料；对应 `raw/docs/9c8f81dc1d44e33cf0c11421484ac5ce.md`。
+- [2026年哈佛国际评论学术写作比赛介绍来源说明](sources/raw-doc-9d86ee4e2d77f32fa87d96bd947c8ded.md) — 赛事分析与项目资料；对应 `raw/docs/9d86ee4e2d77f32fa87d96bd947c8ded.md`。
+- [Thinktown 成果与案例材料 9e2155c4来源说明](sources/raw-doc-9e2155c47feac5476a0b5d06a6da875d.md) — 成果与案例资料；对应 `raw/docs/9e2155c47feac5476a0b5d06a6da875d.md`。
+- [经济学科PBL课程大纲：直播变现与虚拟消费来源说明](sources/raw-doc-9e674ffd74c1f8095aabea847be76157.md) — 课程与产品资料；对应 `raw/docs/9e674ffd74c1f8095aabea847be76157.md`。
+- [直播经济PBL课程：解析游戏主播流量变现机制来源说明](sources/raw-doc-9e8bf83fc5d48f2d98692f63a9b28f41.md) — 课程与产品资料；对应 `raw/docs/9e8bf83fc5d48f2d98692f63a9b28f41.md`。
+- [剑桥化学挑战赛来源说明](sources/raw-doc-9f092bf545c895bcc0524b7d0014f714.md) — 赛事基础资料；对应 `raw/docs/9f092bf545c895bcc0524b7d0014f714.md`。
+- [2023–2025 SIC 中学生投资研习活动成果来源说明](sources/raw-doc-9f1a717bff2f5cee4114110003409326.md) — 赛事分析与项目资料；对应 `raw/docs/9f1a717bff2f5cee4114110003409326.md`。
+- [Thinktown推出世界音乐学探索PBL课程来源说明](sources/raw-doc-a01f43a50aca309d36054fcf86086903.md) — 课程与产品资料；对应 `raw/docs/a01f43a50aca309d36054fcf86086903.md`。
+- [新课堂YoungArts国家艺术竞赛辅导课程介绍来源说明](sources/raw-doc-a0f079aaf18ffd6f727ca79826ef909c.md) — 课程与产品资料；对应 `raw/docs/a0f079aaf18ffd6f727ca79826ef909c.md`。
+- [新加坡高级学府数学竞赛来源说明](sources/raw-doc-a125ac0da47090faff7746ac1dfff90f.md) — 赛事基础资料；对应 `raw/docs/a125ac0da47090faff7746ac1dfff90f.md`。
+- [斯坦福大学数学锦标赛来源说明](sources/raw-doc-a1a4c05917868e7525912513b6db18f2.md) — 赛事基础资料；对应 `raw/docs/a1a4c05917868e7525912513b6db18f2.md`。
+- [英国初级生物奥赛来源说明](sources/raw-doc-a217b28cf7987489c491936a64f9ac40.md) — 赛事基础资料；对应 `raw/docs/a217b28cf7987489c491936a64f9ac40.md`。
+- [新课堂拯救青蛙艺术大赛辅导计划产品手册来源说明](sources/raw-doc-a3eff8cf427422f7135d891322dc6ecf.md) — 课程与产品资料；对应 `raw/docs/a3eff8cf427422f7135d891322dc6ecf.md`。
+- [YouthPLAYS青少年剧作家独幕剧竞赛来源说明](sources/raw-doc-a439c991ddd9e7efaad884881ec5982f.md) — 赛事基础资料；对应 `raw/docs/a439c991ddd9e7efaad884881ec5982f.md`。
+- [Thinktown独立策展人项目介绍及名校录取案例来源说明](sources/raw-doc-a48fc6d2659c5b7771056a5a32ff4b99.md) — 课程与产品资料；对应 `raw/docs/a48fc6d2659c5b7771056a5a32ff4b99.md`。
+- [2026年John Locke写作大赛神学备赛指南来源说明](sources/raw-doc-a58594f039eaa32803c1d71e570926fe.md) — 赛事分析与项目资料；对应 `raw/docs/a58594f039eaa32803c1d71e570926fe.md`。
+- [英国数学奥赛来源说明](sources/raw-doc-a6ab2b3e5546a82e973cd15e94bddeaa.md) — 赛事基础资料；对应 `raw/docs/a6ab2b3e5546a82e973cd15e94bddeaa.md`。
+- [卡内基梅隆大学信息与数学竞赛来源说明](sources/raw-doc-a6e9c868589ad96d19c078f9cb0953cd.md) — 赛事基础资料；对应 `raw/docs/a6e9c868589ad96d19c078f9cb0953cd.md`。
+- [2025-2026 IEO国际经济学奥林匹克中国区活动介绍来源说明](sources/raw-doc-a6ef28a0430df9438988161d0510cbcb.md) — 赛事分析与项目资料；对应 `raw/docs/a6ef28a0430df9438988161d0510cbcb.md`。
+- [美国各州生活成本PBL项目介绍来源说明](sources/raw-doc-a77b247050e84cd4af23ca8694cbd0a0.md) — 课程与产品资料；对应 `raw/docs/a77b247050e84cd4af23ca8694cbd0a0.md`。
+- [PBL 太阳神传说：跨文化神话探秘之旅来源说明](sources/raw-doc-a7fe2033e997ca5dad96a9afd1d784f3.md) — 课程与产品资料；对应 `raw/docs/a7fe2033e997ca5dad96a9afd1d784f3.md`。
+- [美国学术艺术与写作奖来源说明](sources/raw-doc-a8379af5104874440ad8222f38942f8e.md) — 赛事基础资料；对应 `raw/docs/a8379af5104874440ad8222f38942f8e.md`。
+- [2026赛季SDG创新马拉松赛事及辅导产品手册来源说明](sources/raw-doc-a970481fc126a5e68147d6ec061274de.md) — 课程与产品资料；对应 `raw/docs/a970481fc126a5e68147d6ec061274de.md`。
+- [PBL 像导演那样拍照：人像摄影故事创作来源说明](sources/raw-doc-aa31ee502eafaa5663cd1d9b31cf6ad5.md) — 课程与产品资料；对应 `raw/docs/aa31ee502eafaa5663cd1d9b31cf6ad5.md`。
+- [8至10年级PBL电影评论写作课程介绍来源说明](sources/raw-doc-aa3b724ba9d68a7003a388398d7fb409.md) — 课程与产品资料；对应 `raw/docs/aa3b724ba9d68a7003a388398d7fb409.md`。
+- [Thinktown 成果与案例材料 aa4f565a来源说明](sources/raw-doc-aa4f565a4deb91bb71681647304133c3.md) — 成果与案例资料；对应 `raw/docs/aa4f565a4deb91bb71681647304133c3.md`。
+- [哈佛国际评论写作竞赛特点与Thinktown金奖案例解析来源说明](sources/raw-doc-aa9e2b0b1ef227bc30236e42b9aa211b.md) — 赛事分析与项目资料；对应 `raw/docs/aa9e2b0b1ef227bc30236e42b9aa211b.md`。
+- [Flora获NHD竞赛华盛顿州第一，探索塔科马排华历史来源说明](sources/raw-doc-aafb95ed34d14ead811a16e3f44b8d3c.md) — 赛事分析与项目资料；对应 `raw/docs/aafb95ed34d14ead811a16e3f44b8d3c.md`。
+- [新课堂推出领袖思维训练营英语PBL课程来源说明](sources/raw-doc-ac3be87109ff33f49c4d1246cee0610a.md) — 课程与产品资料；对应 `raw/docs/ac3be87109ff33f49c4d1246cee0610a.md`。
+- [Brain Bee 脑科学活动来源说明](sources/raw-doc-ac5df09bca6c6f290c5e34aa93e2908a.md) — 赛事基础资料；对应 `raw/docs/ac5df09bca6c6f290c5e34aa93e2908a.md`。
+- [安徒生国际艺术奖来源说明](sources/raw-doc-aca77dac29ac890cbfd6690e50480503.md) — 赛事基础资料；对应 `raw/docs/aca77dac29ac890cbfd6690e50480503.md`。
+- [新课堂发布John Locke多科学术顾问计划来源说明](sources/raw-doc-ae4e197b8834cf9965773d064c142670.md) — 课程与产品资料；对应 `raw/docs/ae4e197b8834cf9965773d064c142670.md`。
+- [新课堂学术探索项目议论文写作课程介绍来源说明](sources/raw-doc-af5c0ef69c2e218cf13214b63251d98e.md) — 课程与产品资料；对应 `raw/docs/af5c0ef69c2e218cf13214b63251d98e.md`。
+- [哈佛国际经济学论文竞赛参赛与备考指南来源说明](sources/raw-doc-b0c2925055a16bb4542873b389a99d85.md) — 赛事分析与项目资料；对应 `raw/docs/b0c2925055a16bb4542873b389a99d85.md`。
+- [061725 2025-2026 NEC-全美经济学学术活动-初级站 指南 V2 from Thinktown.jpg来源说明](sources/raw-doc-b0d2053aac962d248e601bc9d817bc75.md) — 赛事分析与项目资料；对应 `raw/docs/b0d2053aac962d248e601bc9d817bc75.md`。
+- [Thinktown 成果与案例材料 b0fe1814来源说明](sources/raw-doc-b0fe181463e5b994b168a6608bfaf6e3.md) — 成果与案例资料；对应 `raw/docs/b0fe181463e5b994b168a6608bfaf6e3.md`。
+- [国家历史日来源说明](sources/raw-doc-b14da0c1791c7bb6d77a2ba8d0ce8de3.md) — 赛事基础资料；对应 `raw/docs/b14da0c1791c7bb6d77a2ba8d0ce8de3.md`。
+- [“旋律时光机”音乐故事播客项目介绍来源说明](sources/raw-doc-b178e6cd35d045951a2f04fe324c79f5.md) — 课程与产品资料；对应 `raw/docs/b178e6cd35d045951a2f04fe324c79f5.md`。
+- [美国数学邀请赛来源说明](sources/raw-doc-b18dd96558ee8dae3bbc38411b106ed7.md) — 赛事基础资料；对应 `raw/docs/b18dd96558ee8dae3bbc38411b106ed7.md`。
+- [Thinktown 成果与案例材料 b1ffd4b3来源说明](sources/raw-doc-b1ffd4b33f51278e04ae2d5e91bc7536.md) — 成果与案例资料；对应 `raw/docs/b1ffd4b33f51278e04ae2d5e91bc7536.md`。
+- [THINKTOWN新课堂W同学获美国高中生传媒大赛奖来源说明](sources/raw-doc-b2ea1a9864958a89cd6018fa388663b3.md) — 赛事分析与项目资料；对应 `raw/docs/b2ea1a9864958a89cd6018fa388663b3.md`。
+- [Thinktown 成果与案例材料 b352c006来源说明](sources/raw-doc-b352c0061407ada66a451d65a322de01.md) — 成果与案例资料；对应 `raw/docs/b352c0061407ada66a451d65a322de01.md`。
+- [纽约州实地探索PBL学术写作课程指南来源说明](sources/raw-doc-b3643c4e3e621e1ed0f6055afb12edb8.md) — 课程与产品资料；对应 `raw/docs/b3643c4e3e621e1ed0f6055afb12edb8.md`。
+- [加拿大初级化学奥林匹克竞赛(JCCO)介绍来源说明](sources/raw-doc-b38aae469978050cec412f017f3e1f62.md) — 赛事分析与项目资料；对应 `raw/docs/b38aae469978050cec412f017f3e1f62.md`。
+- [心理发现家项目来源说明](sources/raw-doc-b3f748a574a1043051f4e97deff3d57d.md) — 赛事基础资料；对应 `raw/docs/b3f748a574a1043051f4e97deff3d57d.md`。
+- [英国物理奥林匹克预选赛来源说明](sources/raw-doc-b3ff1d6a2a71f4db440ca899b0fbf7cb.md) — 赛事基础资料；对应 `raw/docs/b3ff1d6a2a71f4db440ca899b0fbf7cb.md`。
+- [纽约时报播客挑战赛介绍与辅导来源说明](sources/raw-doc-b53cad35723e8ab474e31d1bf374279b.md) — 赛事分析与项目资料；对应 `raw/docs/b53cad35723e8ab474e31d1bf374279b.md`。
+- [哈佛商学院案例分析挑战来源说明](sources/raw-doc-b55b2af9ab042185ff3d17c2e207db55.md) — 赛事基础资料；对应 `raw/docs/b55b2af9ab042185ff3d17c2e207db55.md`。
+- [线上纪实剧创作营项目介绍来源说明](sources/raw-doc-b626f14b834e311b7f0c6a71f52a6220.md) — 课程与产品资料；对应 `raw/docs/b626f14b834e311b7f0c6a71f52a6220.md`。
+- [美国初中生数学建模比赛来源说明](sources/raw-doc-b631bbad3c4d91d0b9a44c39a300c100.md) — 赛事基础资料；对应 `raw/docs/b631bbad3c4d91d0b9a44c39a300c100.md`。
+- [议论文写作六课时课程大纲与教学安排来源说明](sources/raw-doc-b6434ad0061bf9d6b2923c11d39d39cd.md) — 课程与产品资料；对应 `raw/docs/b6434ad0061bf9d6b2923c11d39d39cd.md`。
+- [国际心理学奥林匹克竞赛赛事介绍来源说明](sources/raw-doc-b6d38ce5f879df68c87fec2c4310b159.md) — 赛事分析与项目资料；对应 `raw/docs/b6d38ce5f879df68c87fec2c4310b159.md`。
+- [新课堂文学评论家英语论文项目介绍及案例来源说明](sources/raw-doc-b74cd45ca9d7fe03e21cd3018caeacef.md) — 课程与产品资料；对应 `raw/docs/b74cd45ca9d7fe03e21cd3018caeacef.md`。
+- [新课堂NASA学生艺术竞赛辅导产品手册来源说明](sources/raw-doc-b7f6bfdbf2200998ce3a22d914988957.md) — 课程与产品资料；对应 `raw/docs/b7f6bfdbf2200998ce3a22d914988957.md`。
+- [Élan国际学生文学杂志来源说明](sources/raw-doc-b8c701b192571d9139d7f48aceacf8f2.md) — 赛事基础资料；对应 `raw/docs/b8c701b192571d9139d7f48aceacf8f2.md`。
+- [081423 IHBB产品介绍海报.jpg来源说明](sources/raw-doc-b8e6753bf90e5f4fa4aec10f1e470ef1.md) — 赛事分析与项目资料；对应 `raw/docs/b8e6753bf90e5f4fa4aec10f1e470ef1.md`。
+- [美国生物奥林匹克竞赛来源说明](sources/raw-doc-bb464205181362201df205cbebbfe003.md) — 赛事基础资料；对应 `raw/docs/bb464205181362201df205cbebbfe003.md`。
+- [康科德评论来源说明](sources/raw-doc-bbf68387d2bac7a8b78cd8192ab71d99.md) — 赛事基础资料；对应 `raw/docs/bbf68387d2bac7a8b78cd8192ab71d99.md`。
+- [PBL产品客户沟通指南及单项课程话术解析来源说明](sources/raw-doc-bd938ff3b234b2d6a7e322fc0f1a3ac4.md) — 课程与产品资料；对应 `raw/docs/bd938ff3b234b2d6a7e322fc0f1a3ac4.md`。
+- [2026 CNEC经济学素养研习活动报名与测评指南来源说明](sources/raw-doc-bda7a0c8a9a3d853e3122c48232b219d.md) — 赛事分析与项目资料；对应 `raw/docs/bda7a0c8a9a3d853e3122c48232b219d.md`。
+- [新课堂OAC多科学术顾问计划产品手册来源说明](sources/raw-doc-be1b246c0bdacf5bea17ad7db3c3225d.md) — 课程与产品资料；对应 `raw/docs/be1b246c0bdacf5bea17ad7db3c3225d.md`。
+- [BPA 商业全能挑战赛中国站辅导方案来源说明](sources/raw-doc-be3ccf80e68c22132c6269d33d7a33a5.md) — 课程与产品资料；对应 `raw/docs/be3ccf80e68c22132c6269d33d7a33a5.md`。
+- [澳大利亚化学奥林匹克赛事介绍与备赛指南来源说明](sources/raw-doc-bef6777d19094bc964a5df1fc8889ba9.md) — 赛事分析与项目资料；对应 `raw/docs/bef6777d19094bc964a5df1fc8889ba9.md`。
+- [纽约与长岛探险英语分级课程大纲来源说明](sources/raw-doc-bfaec53de629b5048e31d732a5b75974.md) — 课程与产品资料；对应 `raw/docs/bfaec53de629b5048e31d732a5b75974.md`。
+- [061125 Brain Challenge脑科学创新挑战赛.jpg来源说明](sources/raw-doc-bfdb6e798b0ecb86df0bd4cf66bc725e.md) — 赛事分析与项目资料；对应 `raw/docs/bfdb6e798b0ecb86df0bd4cf66bc725e.md`。
+- [丘成桐中学科学奖（数学）来源说明](sources/raw-doc-c16575654ec915aeceb47b9def6f45fd.md) — 赛事基础资料；对应 `raw/docs/c16575654ec915aeceb47b9def6f45fd.md`。
+- [简·奥斯汀论文竞赛介绍及辅导课程来源说明](sources/raw-doc-c223219ee8df003679f37d6055cd90c3.md) — 课程与产品资料；对应 `raw/docs/c223219ee8df003679f37d6055cd90c3.md`。
+- [新课堂城市探险奥德赛写作项目介绍来源说明](sources/raw-doc-c241993d125d1cb1331f54a376a2705b.md) — 课程与产品资料；对应 `raw/docs/c241993d125d1cb1331f54a376a2705b.md`。
+- [110625 凯尼恩青年作家工作室 指南 V1 from Thinktown.jpg来源说明](sources/raw-doc-c249a5e3c49b1fd31974fec678c64b24.md) — 其他资料；对应 `raw/docs/c249a5e3c49b1fd31974fec678c64b24.md`。
+- [全美高中生电影节来源说明](sources/raw-doc-c2a3bf7299b7e3cf8b8152705b9cb363.md) — 赛事基础资料；对应 `raw/docs/c2a3bf7299b7e3cf8b8152705b9cb363.md`。
+- [Thinktown剧本创作项目助力提升美本申请竞争力来源说明](sources/raw-doc-c353bfec2c1b5a88c7d16d5bd106216e.md) — 课程与产品资料；对应 `raw/docs/c353bfec2c1b5a88c7d16d5bd106216e.md`。
+- [CNEC经济学素养研习活动报名指南来源说明](sources/raw-doc-c566bbae21936ef7e3bee8c7fcc84581.md) — 赛事分析与项目资料；对应 `raw/docs/c566bbae21936ef7e3bee8c7fcc84581.md`。
+- [美国各州生活成本英语与经济学课程大纲来源说明](sources/raw-doc-c5c6326e62e8f36afa43c8314dab35d3.md) — 课程与产品资料；对应 `raw/docs/c5c6326e62e8f36afa43c8314dab35d3.md`。
+- [新课堂ABC美高传媒竞赛辅导课程手册来源说明](sources/raw-doc-c7a3cb5c0b88d10c13b76783e2a14238.md) — 课程与产品资料；对应 `raw/docs/c7a3cb5c0b88d10c13b76783e2a14238.md`。
+- [新课堂纽约时报播客竞赛学术顾问计划产品手册来源说明](sources/raw-doc-c7f95cbbfa8abd1e56217955b53ee75b.md) — 课程与产品资料；对应 `raw/docs/c7f95cbbfa8abd1e56217955b53ee75b.md`。
+- [哈佛国际评论写作竞赛放榜，Thinktown学子获多项大奖来源说明](sources/raw-doc-c9df39f4dafc635f9c7a732d2a616557.md) — 赛事分析与项目资料；对应 `raw/docs/c9df39f4dafc635f9c7a732d2a616557.md`。
+- [国际摄影杂志来源说明](sources/raw-doc-c9f4a878adb163ee775b4a30c4063cce.md) — 赛事基础资料；对应 `raw/docs/c9f4a878adb163ee775b4a30c4063cce.md`。
+- [新课堂心理学PBL课程：数字生活与心理探索来源说明](sources/raw-doc-cbb885cba3be9558dbad9b0290631510.md) — 课程与产品资料；对应 `raw/docs/cbb885cba3be9558dbad9b0290631510.md`。
+- [美国大师音乐奖来源说明](sources/raw-doc-cbc984eaa41476cf6ea012e492638d18.md) — 赛事基础资料；对应 `raw/docs/cbc984eaa41476cf6ea012e492638d18.md`。
+- [安徒生国际艺术奖及AI艺术创作课简介来源说明](sources/raw-doc-cbfa2b1f644477a12d79966413a55bb2.md) — 赛事分析与项目资料；对应 `raw/docs/cbfa2b1f644477a12d79966413a55bb2.md`。
+- [Thinktown 成果与案例材料 cd31f63d来源说明](sources/raw-doc-cd31f63dfc5afd8f34df7d36977ceb69.md) — 成果与案例资料；对应 `raw/docs/cd31f63dfc5afd8f34df7d36977ceb69.md`。
+- [沃顿全球高中生投资竞赛来源说明](sources/raw-doc-cd58a6c9c02473e66a69d84b3ee49f29.md) — 赛事基础资料；对应 `raw/docs/cd58a6c9c02473e66a69d84b3ee49f29.md`。
+- [宠物日记写作PBL课程指南与核心亮点来源说明](sources/raw-doc-cded6bc600c7a16e0afb6cefd5f5e814.md) — 课程与产品资料；对应 `raw/docs/cded6bc600c7a16e0afb6cefd5f5e814.md`。
+- [澳大利亚化学奥林匹克活动赛事介绍来源说明](sources/raw-doc-ce1ca8c8839ad8de2bfac295170e13dd.md) — 赛事分析与项目资料；对应 `raw/docs/ce1ca8c8839ad8de2bfac295170e13dd.md`。
+- [生物与健康未来领袖挑战赛来源说明](sources/raw-doc-cea823809e15f1092073aa84f834576c.md) — 赛事基础资料；对应 `raw/docs/cea823809e15f1092073aa84f834576c.md`。
+- [章放歌指导G5-10年级人像摄影故事创作PBL课程来源说明](sources/raw-doc-cf0579889dce14891650aba96c158261.md) — 课程与产品资料；对应 `raw/docs/cf0579889dce14891650aba96c158261.md`。
+- [《运动心力量：青少年运动心理探索之旅》项目介绍来源说明](sources/raw-doc-cf769e26dd4c772c657cc3271a87d56f.md) — 课程与产品资料；对应 `raw/docs/cf769e26dd4c772c657cc3271a87d56f.md`。
+- [Thinktown独立策展人学术顾问计划产品手册来源说明](sources/raw-doc-cf7e8b6b7664fc913799607c7db77f18.md) — 课程与产品资料；对应 `raw/docs/cf7e8b6b7664fc913799607c7db77f18.md`。
+- [全球精英与学生入局，播客成大众友好自媒体赛道来源说明](sources/raw-doc-cfd0520241aa52fce19ab978cd97d239.md) — 赛事分析与项目资料；对应 `raw/docs/cfd0520241aa52fce19ab978cd97d239.md`。
+- [适合中学生参加的三大摄影竞赛盘点来源说明](sources/raw-doc-d06d8b6d66a0d28332d8b9a9620dc5a7.md) — 赛事分析与项目资料；对应 `raw/docs/d06d8b6d66a0d28332d8b9a9620dc5a7.md`。
+- [单科学术顾问计划：PBL历史旅行指南纽约篇课程介绍来源说明](sources/pbl-historical-travel-guide-new-york-course.md) — 课程与产品资料；对应 `raw/docs/d0be23abcc7639a169cde523d697426f.md`。
+- [Thinktown 成果与案例材料 d10cd961来源说明](sources/raw-doc-d10cd9612fcf055cf693420f8945bbff.md) — 成果与案例资料；对应 `raw/docs/d10cd9612fcf055cf693420f8945bbff.md`。
+- [宠物日记写作项目式学习课程产品手册介绍来源说明](sources/raw-doc-d16d0aa35282c89b1f690ef7bee87690.md) — 课程与产品资料；对应 `raw/docs/d16d0aa35282c89b1f690ef7bee87690.md`。
+- [普林斯顿大学数学竞赛来源说明](sources/raw-doc-d175a92517f1615b5fe4bd6c2668d044.md) — 赛事基础资料；对应 `raw/docs/d175a92517f1615b5fe4bd6c2668d044.md`。
+- [NASA学生艺术竞赛来源说明](sources/raw-doc-d491cee200e798786fd9e379ac6065ef.md) — 赛事基础资料；对应 `raw/docs/d491cee200e798786fd9e379ac6065ef.md`。
+- [071424 TCR产品海报.jpg来源说明](sources/raw-doc-d526dac71c2c6cb904b7f753050718db.md) — 课程与产品资料；对应 `raw/docs/d526dac71c2c6cb904b7f753050718db.md`。
+- [滑铁卢欧几里得数学竞赛G12来源说明](sources/raw-doc-d5424d417eca36532b146fd997f730b8.md) — 赛事基础资料；对应 `raw/docs/d5424d417eca36532b146fd997f730b8.md`。
+- [加拿大初级化学奥林匹克竞赛来源说明](sources/raw-doc-d5a643650c4a0a57d400f1d76c3c004b.md) — 赛事基础资料；对应 `raw/docs/d5a643650c4a0a57d400f1d76c3c004b.md`。
+- [《我眼中的小人物》PBL项目课程大纲来源说明](sources/raw-doc-d5ce9d3f22df3af4d7555908eb5d7f72.md) — 课程与产品资料；对应 `raw/docs/d5ce9d3f22df3af4d7555908eb5d7f72.md`。
+- [新课堂安徒生国际艺术奖学术顾问计划介绍来源说明](sources/raw-doc-d60e552a64ad17494112c7a6b05bd70a.md) — 课程与产品资料；对应 `raw/docs/d60e552a64ad17494112c7a6b05bd70a.md`。
+- [Thinktown 成果与案例材料 d753f707来源说明](sources/raw-doc-d753f7070cc65e9d5b064e80271bce0d.md) — 成果与案例资料；对应 `raw/docs/d753f7070cc65e9d5b064e80271bce0d.md`。
+- [加拿大化学奥林匹克竞赛来源说明](sources/raw-doc-d7677396e40a38d9d0051f461b08eb33.md) — 赛事基础资料；对应 `raw/docs/d7677396e40a38d9d0051f461b08eb33.md`。
+- [高中生X同学摄影作品获多国杂志收录来源说明](sources/raw-doc-d84d3814f1896ce91d2ab3de34853ec9.md) — 赛事分析与项目资料；对应 `raw/docs/d84d3814f1896ce91d2ab3de34853ec9.md`。
+- [Thinktown 成果与案例材料 dba7fc00来源说明](sources/raw-doc-dba7fc00d0f66da0351c9823983fabb5.md) — 成果与案例资料；对应 `raw/docs/dba7fc00d0f66da0351c9823983fabb5.md`。
+- [纪录剧英语课程大纲：分初中高三级来源说明](sources/raw-doc-dc130926d1854cfd5f961b150d5ae256.md) — 课程与产品资料；对应 `raw/docs/dc130926d1854cfd5f961b150d5ae256.md`。
+- [世界学者杯竞赛来源说明](sources/raw-doc-dc6b61b4893f6bd89ba732f6fbf20e3e.md) — 赛事基础资料；对应 `raw/docs/dc6b61b4893f6bd89ba732f6fbf20e3e.md`。
+- [091824 iHOSA guide(生物）from Thinktown.jpg来源说明](sources/raw-doc-dc7e2800c76af9df9a4781373b03728e.md) — 赛事分析与项目资料；对应 `raw/docs/dc7e2800c76af9df9a4781373b03728e.md`。
+- [美国数学竞赛AMC10来源说明](sources/raw-doc-dc9683458df327b73e5e68e4a03e6bbc.md) — 赛事基础资料；对应 `raw/docs/dc9683458df327b73e5e68e4a03e6bbc.md`。
+- [031825 ⽂字之河诗歌写作竞赛.jpg来源说明](sources/raw-doc-df825337f9c9d1912232fa1d03d0bbb8.md) — 赛事分析与项目资料；对应 `raw/docs/df825337f9c9d1912232fa1d03d0bbb8.md`。
+- [Thinktown 成果与案例材料 e05542b0来源说明](sources/raw-doc-e05542b0be4b9804453826919b67dacb.md) — 成果与案例资料；对应 `raw/docs/e05542b0be4b9804453826919b67dacb.md`。
+- [Thinktown 成果与案例材料 e0fef1dc来源说明](sources/raw-doc-e0fef1dc12e5d34c3d99ca893de97d56.md) — 成果与案例资料；对应 `raw/docs/e0fef1dc12e5d34c3d99ca893de97d56.md`。
+- [演绎名画：画作改编剧本来源说明](sources/raw-doc-e151a71a7d40fde1fd05c2c13cd52ea0.md) — 赛事基础资料；对应 `raw/docs/e151a71a7d40fde1fd05c2c13cd52ea0.md`。
+- [IHBB历史竞赛介绍与Thinktown备赛指南来源说明](sources/raw-doc-e2599c1a79b55198472eaed413a754ab.md) — 赛事分析与项目资料；对应 `raw/docs/e2599c1a79b55198472eaed413a754ab.md`。
+- [Thinktown 成果与案例材料 e4ec5b8e来源说明](sources/raw-doc-e4ec5b8edd17948574cb2f27271dc9cc.md) — 成果与案例资料；对应 `raw/docs/e4ec5b8edd17948574cb2f27271dc9cc.md`。
+- [Thinktown 成果与案例材料 e50f76ea来源说明](sources/raw-doc-e50f76eaabad2438c8db4a551fb8ccf0.md) — 成果与案例资料；对应 `raw/docs/e50f76eaabad2438c8db4a551fb8ccf0.md`。
+- [领袖思维训练营：从乔布斯到马斯克课程大纲来源说明](sources/raw-doc-e5f2a8d82246338a49a1be68cc93094c.md) — 课程与产品资料；对应 `raw/docs/e5f2a8d82246338a49a1be68cc93094c.md`。
+- [国家艺术竞赛来源说明](sources/raw-doc-e5f70e991191d8d9206d2237fb0ec935.md) — 赛事基础资料；对应 `raw/docs/e5f70e991191d8d9206d2237fb0ec935.md`。
+- [纽约时报播客挑战比赛来源说明](sources/raw-doc-e61ccccdb318210250185c480c6923dd.md) — 赛事基础资料；对应 `raw/docs/e61ccccdb318210250185c480c6923dd.md`。
+- [新课堂IHBB国际历史竞赛产品手册介绍来源说明](sources/raw-doc-e6c3eb5d0744468acd45cabd65f874c4.md) — 课程与产品资料；对应 `raw/docs/e6c3eb5d0744468acd45cabd65f874c4.md`。
+- [莎士比亚英语分级课程大纲介绍来源说明](sources/raw-doc-e6d6fd0dcfa84f75526b9a0988783015.md) — 课程与产品资料；对应 `raw/docs/e6d6fd0dcfa84f75526b9a0988783015.md`。
+- [脑科学创新挑战赛来源说明](sources/raw-doc-e81a17b4974f15b89162c0d50a385ca7.md) — 赛事基础资料；对应 `raw/docs/e81a17b4974f15b89162c0d50a385ca7.md`。
+- [IEO海报 IEO 2024-2025 国际经济学奥林匹克学术活动 初级站(1).jpg来源说明](sources/raw-doc-e8adc500d75700bdf8209848ef983eef.md) — 赛事分析与项目资料；对应 `raw/docs/e8adc500d75700bdf8209848ef983eef.md`。
+- [普林斯顿大学物理竞赛来源说明](sources/raw-doc-e95787c4dc4430579a92758ac01b5c67.md) — 赛事基础资料；对应 `raw/docs/e95787c4dc4430579a92758ac01b5c67.md`。
+- [创意写作项目产品手册：分阶打造国际升学竞争力来源说明](sources/raw-doc-eaba0718f27310b6b563c45978679eec.md) — 课程与产品资料；对应 `raw/docs/eaba0718f27310b6b563c45978679eec.md`。
+- [Thinktown 成果与案例材料 eac23dae来源说明](sources/raw-doc-eac23daeb3b20c93391da227f97b82e5.md) — 成果与案例资料；对应 `raw/docs/eac23daeb3b20c93391da227f97b82e5.md`。
+- [约翰霍普金斯大学数学竞赛来源说明](sources/raw-doc-eb0046ddd46b74bf4bbfde5381fb9f68.md) — 赛事基础资料；对应 `raw/docs/eb0046ddd46b74bf4bbfde5381fb9f68.md`。
+- [Personal Storytelling个人叙事写作课程介绍来源说明](sources/raw-doc-ecdf4a6af89226c5cb862afa165f327a.md) — 课程与产品资料；对应 `raw/docs/ecdf4a6af89226c5cb862afa165f327a.md`。
+- [THINKTOWN推出音乐与历史跨学科PBL探索课程来源说明](sources/raw-doc-ed95b0ecc944bc6c7deced0635c01571.md) — 课程与产品资料；对应 `raw/docs/ed95b0ecc944bc6c7deced0635c01571.md`。
+- [Thinktown 成果与案例材料 edeb3f2b来源说明](sources/raw-doc-edeb3f2bf65cd02630ced4f0cf62bcaa.md) — 成果与案例资料；对应 `raw/docs/edeb3f2bf65cd02630ced4f0cf62bcaa.md`。
+- [新课堂诗歌创作课程介绍来源说明](sources/raw-doc-ee495acef7099f9f1419336236f63004.md) — 课程与产品资料；对应 `raw/docs/ee495acef7099f9f1419336236f63004.md`。
+- [Kaggle大数据竞赛来源说明](sources/raw-doc-eff1b4e794dd6eb7c6c0e2d76349bdee.md) — 赛事基础资料；对应 `raw/docs/eff1b4e794dd6eb7c6c0e2d76349bdee.md`。
+- [宠物日记写作PBL课程申请与课前评估问卷来源说明](sources/raw-doc-f09f0a6a3e32a77a4432e54a7fba7c85.md) — 课程与产品资料；对应 `raw/docs/f09f0a6a3e32a77a4432e54a7fba7c85.md`。
+- [SDG 可持续创新马拉松来源说明](sources/raw-doc-f120d0c5904f6d88a830049d1ca3e6e9.md) — 赛事基础资料；对应 `raw/docs/f120d0c5904f6d88a830049d1ca3e6e9.md`。
+- [Thinktown UKChO竞赛辅导与备考策略解析来源说明](sources/raw-doc-f25ef7e082af98b27eb198c96b40b61c.md) — 赛事分析与项目资料；对应 `raw/docs/f25ef7e082af98b27eb198c96b40b61c.md`。
+- [世界历史协会学生写作竞赛来源说明](sources/raw-doc-f2b1df9b156340e3b632978fd26de9be.md) — 赛事基础资料；对应 `raw/docs/f2b1df9b156340e3b632978fd26de9be.md`。
+- [杜克数学大会来源说明](sources/raw-doc-f2cff47cfbfdd8c997d11b79f480607f.md) — 赛事基础资料；对应 `raw/docs/f2cff47cfbfdd8c997d11b79f480607f.md`。
+- [加州伯克利大学初中数学竞赛来源说明](sources/raw-doc-f3c7fd1407725d98eb689a9738ce4a16.md) — 赛事基础资料；对应 `raw/docs/f3c7fd1407725d98eb689a9738ce4a16.md`。
+- [加州理工数学大会来源说明](sources/raw-doc-f565d122b3893c7e76439bc294ed2bf5.md) — 赛事基础资料；对应 `raw/docs/f565d122b3893c7e76439bc294ed2bf5.md`。
+- [CBPA 2027初级站报名指南来源说明](sources/raw-doc-f58d00d635d54b3e2877abc6b514d6ae.md) — 赛事分析与项目资料；对应 `raw/docs/f58d00d635d54b3e2877abc6b514d6ae.md`。
+- [《基因编辑与前沿文献精读》课程指南来源说明](sources/raw-doc-f5cca4a80c9d91367ddb5f8c1afb2aa4.md) — 课程与产品资料；对应 `raw/docs/f5cca4a80c9d91367ddb5f8c1afb2aa4.md`。
+- [新课堂纽约时报摄影竞赛学术顾问计划手册来源说明](sources/raw-doc-f6d48563debc30b2b354f64d6dae2961.md) — 课程与产品资料；对应 `raw/docs/f6d48563debc30b2b354f64d6dae2961.md`。
+- [新课堂PBL商业项目：解析游戏直播流量变现机制来源说明](sources/raw-doc-f6dc82917b48623d3805f0354f5a77fe.md) — 课程与产品资料；对应 `raw/docs/f6dc82917b48623d3805f0354f5a77fe.md`。
+- [061423 演绎名画宣传海报.jpg来源说明](sources/raw-doc-f81542d5774b70c8bc32b677820839fd.md) — 赛事分析与项目资料；对应 `raw/docs/f81542d5774b70c8bc32b677820839fd.md`。
+- [PBL创意写作诗歌单科学术顾问计划产品介绍来源说明](sources/raw-doc-f89b9fc916a29ca7fa132a3cc99c7189.md) — 课程与产品资料；对应 `raw/docs/f89b9fc916a29ca7fa132a3cc99c7189.md`。
+- [说服的艺术：5-10年级议论文写作课程介绍来源说明](sources/raw-doc-f907f7bf1ec30580e38ab54f2589d67c.md) — 课程与产品资料；对应 `raw/docs/f907f7bf1ec30580e38ab54f2589d67c.md`。
+- [080825 WTW-Write the world写作竞赛 指南 V3 from Thinktown.jpg来源说明](sources/raw-doc-fa9dfe1e7a108848fcdc118b6498de20.md) — 赛事分析与项目资料；对应 `raw/docs/fa9dfe1e7a108848fcdc118b6498de20.md`。
+- [全球青年研究创新论坛来源说明](sources/raw-doc-fb1b40872facac2f71fda6e34b642f5d.md) — 赛事基础资料；对应 `raw/docs/fb1b40872facac2f71fda6e34b642f5d.md`。
+- [THINKTOWN推出数学PBL项目“自然密码”来源说明](sources/raw-doc-fc3622ded847b7617e797445b5e03b3a.md) — 课程与产品资料；对应 `raw/docs/fc3622ded847b7617e797445b5e03b3a.md`。
+- [太阳神传说跨文化神话探秘项目介绍来源说明](sources/raw-doc-fc73cb9a531caa8e8734dac5b22b1ba9.md) — 课程与产品资料；对应 `raw/docs/fc73cb9a531caa8e8734dac5b22b1ba9.md`。
+- [PBL运动心力量课程方案：涵盖基础、进阶与高阶段来源说明](sources/raw-doc-fd93d49c9d07e03c022e6dddccf0f2b3.md) — 课程与产品资料；对应 `raw/docs/fd93d49c9d07e03c022e6dddccf0f2b3.md`。
+- [Thinktown 成果与案例材料 fe98c691来源说明](sources/raw-doc-fe98c691f150bfaa745980132f105f14.md) — 成果与案例资料；对应 `raw/docs/fe98c691f150bfaa745980132f105f14.md`。
+- [索尼青年世界摄影大赛来源说明](sources/raw-doc-fee783335117a4f4462504d9e4b5e2a5.md) — 赛事基础资料；对应 `raw/docs/fee783335117a4f4462504d9e4b5e2a5.md`。

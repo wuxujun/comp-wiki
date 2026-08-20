@@ -1,0 +1,104 @@
+{
+  "scan_id": "2026-08-20T11:25:34+08:00",
+  "wiki": "comp-wiki-repository",
+  "completed_at": "2026-08-20T11:25:34+08:00",
+  "scope": "wiki/concepts, wiki/comparisons, wiki/entities, wiki/decisions",
+  "passes": ["staleness", "quality", "source-chain", "coherence", "duplicates"],
+  "threshold": 70,
+  "summary": {
+    "articles_scanned": 13,
+    "source_records_checked": 403,
+    "stale_count": 0,
+    "low_quality_count": 0,
+    "thin_but_adequate_count": 2,
+    "average_quality": 80,
+    "broken_source_chains": 0,
+    "confirmed_duplicate_articles": 0,
+    "contradiction_pages": 5
+  },
+  "articles": {
+    "wiki/entities/vanessa-ruales.md": {
+      "freshness": 100,
+      "quality": 55,
+      "dimensions": {"depth": 2, "source_quality": 2, "coherence": 4, "utility": 3},
+      "flags": ["thin-coverage", "single-source", "unverified-person-claims"]
+    },
+    "wiki/comparisons/client-facing-vs-non-client-facing-instruction.md": {
+      "freshness": 100,
+      "quality": 65,
+      "dimensions": {"depth": 3, "source_quality": 2, "coherence": 4, "utility": 4},
+      "flags": ["single-source"]
+    },
+    "wiki/concepts/pbl-historical-travel-guide-new-york.md": {
+      "freshness": 100,
+      "quality": 65,
+      "dimensions": {"depth": 3, "source_quality": 2, "coherence": 4, "utility": 4},
+      "flags": ["single-source", "unresolved-workload-contradiction"]
+    },
+    "wiki/concepts/student-achievement-claims.md": {
+      "freshness": 100,
+      "quality": 75,
+      "dimensions": {"depth": 3, "source_quality": 3, "coherence": 4, "utility": 5},
+      "flags": ["coarse-provenance"]
+    },
+    "wiki/entities/thinktown-education.md": {
+      "freshness": 100,
+      "quality": 65,
+      "dimensions": {"depth": 3, "source_quality": 2, "coherence": 4, "utility": 4},
+      "flags": ["coarse-provenance", "provider-self-description"]
+    },
+    "wiki/comparisons/thinktown-learning-product-types.md": {
+      "freshness": 100,
+      "quality": 85,
+      "dimensions": {"depth": 4, "source_quality": 3, "coherence": 5, "utility": 5},
+      "flags": ["coarse-provenance"]
+    },
+    "wiki/concepts/academic-competition-information-evaluation.md": {
+      "freshness": 100,
+      "quality": 85,
+      "dimensions": {"depth": 4, "source_quality": 3, "coherence": 5, "utility": 5},
+      "flags": ["coarse-provenance"]
+    },
+    "wiki/concepts/thinktown-learning-product-system.md": {
+      "freshness": 100,
+      "quality": 85,
+      "dimensions": {"depth": 4, "source_quality": 3, "coherence": 5, "utility": 5},
+      "flags": ["coarse-provenance"]
+    },
+    "wiki/comparisons/project-based-vs-problem-based-learning.md": {
+      "freshness": 100,
+      "quality": 90,
+      "dimensions": {"depth": 4, "source_quality": 4, "coherence": 5, "utility": 5},
+      "flags": ["language-policy-mismatch", "live-url-only-upstream"]
+    },
+    "wiki/concepts/project-based-learning-definition-and-design.md": {
+      "freshness": 100,
+      "quality": 90,
+      "dimensions": {"depth": 4, "source_quality": 4, "coherence": 5, "utility": 5},
+      "flags": ["language-policy-mismatch", "live-url-only-upstream"]
+    },
+    "wiki/concepts/project-based-and-academic-advising-design.md": {
+      "freshness": 100,
+      "quality": 85,
+      "dimensions": {"depth": 4, "source_quality": 3, "coherence": 5, "utility": 5},
+      "flags": ["coarse-provenance"]
+    },
+    "wiki/concepts/project-based-learning-evidence.md": {
+      "freshness": 100,
+      "quality": 100,
+      "dimensions": {"depth": 5, "source_quality": 5, "coherence": 5, "utility": 5},
+      "flags": ["language-policy-mismatch", "live-url-only-upstream"]
+    },
+    "wiki/concepts/project-based-learning-assessment-and-implementation.md": {
+      "freshness": 100,
+      "quality": 100,
+      "dimensions": {"depth": 5, "source_quality": 5, "coherence": 5, "utility": 5},
+      "flags": ["language-policy-mismatch", "live-url-only-upstream"]
+    }
+  },
+  "schema": {
+    "state": "advisory",
+    "guide": "AGENTS.md",
+    "warning": ".wiki/schema.md and .wiki/config.md describe a different content root from AGENTS.md"
+  }
+}

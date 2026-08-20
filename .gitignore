@@ -1,0 +1,11 @@
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Obsidian per-user workspace state
+**/.obsidian/workspace*.json
+.wiki/.obsidian/
+
+# Local Codex/wiki session state
+.session-checkpoint.json
+.session-events.jsonl
